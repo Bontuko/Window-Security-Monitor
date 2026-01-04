@@ -1,0 +1,4 @@
+Module,Name,Status,Severity,Timestamp
+WMI,Win32_Process,C:\Windows\System32\wbem\wmiprvse.exe,Low,2025-09-21T17:44:42.679135
+WMI,SuspiciousWMI,C:\Malware\wmi_hijack.exe,High,2025-09-21T17:44:42.679170
+WMI,Win32_Service,C:\Windows\System32\services.exe,Medium,2025-09-21T17:44:42.679192

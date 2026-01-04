@@ -1,0 +1,7 @@
+{
+  "module": "WmiModule",
+  "status": "scanned",
+  "details": [
+    "WMI scan completed or skipped"
+  ]
+}

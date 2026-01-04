@@ -1,0 +1,880 @@
+Module,Name,Status,Severity,Timestamp,Explanation,Recommendation
+Services,AdobeUpdateService,Running,,2025-09-25T06:33:41.229874,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ADPSvc,Stopped,,2025-09-25T06:33:41.233162,"Service ""ADPSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ALG,Stopped,,2025-09-25T06:33:41.233184,"Service ""ALG"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppIDSvc,Stopped,,2025-09-25T06:33:41.233196,"Service ""AppIDSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Appinfo,Running,,2025-09-25T06:33:41.233204,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,AppReadiness,Stopped,,2025-09-25T06:33:41.233213,"Service ""AppReadiness"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppXSvc,Running,,2025-09-25T06:33:41.233221,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ApxSvc,Stopped,,2025-09-25T06:33:41.233229,"Service ""ApxSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,aspnet_state,Stopped,,2025-09-25T06:33:41.233236,"Service ""aspnet_state"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AudioEndpointBuilder,Running,,2025-09-25T06:33:41.233242,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Audiosrv,Running,,2025-09-25T06:33:41.233251,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,autotimesvc,Stopped,,2025-09-25T06:33:41.233259,"Service ""autotimesvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AxInstSV,Stopped,,2025-09-25T06:33:41.233265,"Service ""AxInstSV"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BDESVC,Running,,2025-09-25T06:33:41.233272,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,BFE,Running,,2025-09-25T06:33:41.233279,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,BITS,Stopped,,2025-09-25T06:33:41.233287,"Service ""BITS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BrokerInfrastructure,Running,,2025-09-25T06:33:41.233294,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Browser,Stopped,,2025-09-25T06:33:41.233301,"Service ""Browser"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BTAGService,Stopped,,2025-09-25T06:33:41.233308,"Service ""BTAGService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BthAvctpSvc,Stopped,,2025-09-25T06:33:41.233315,"Service ""BthAvctpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,bthserv,Running,,2025-09-25T06:33:41.233321,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,c2wts,Stopped,,2025-09-25T06:33:41.233328,"Service ""c2wts"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,camsvc,Running,,2025-09-25T06:33:41.233342,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CDPSvc,Running,,2025-09-25T06:33:41.233349,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CertPropSvc,Running,,2025-09-25T06:33:41.233356,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ClickToRunSvc,Running,,2025-09-25T06:33:41.233363,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ClipSVC,Stopped,,2025-09-25T06:33:41.233371,"Service ""ClipSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,COMSysApp,Stopped,,2025-09-25T06:33:41.233378,"Service ""COMSysApp"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CoreMessagingRegistrar,Running,,2025-09-25T06:33:41.233385,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,cplspcon,Running,,2025-09-25T06:33:41.233392,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CryptSvc,Running,,2025-09-25T06:33:41.233399,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DcomLaunch,Running,,2025-09-25T06:33:41.233406,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,dcsvc,Stopped,,2025-09-25T06:33:41.233413,"Service ""dcsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,debugregsvc,Stopped,,2025-09-25T06:33:41.233420,"Service ""debugregsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,defragsvc,Stopped,,2025-09-25T06:33:41.233426,"Service ""defragsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeveloperToolsService,Stopped,,2025-09-25T06:33:41.233433,"Service ""DeveloperToolsService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationService,Running,,2025-09-25T06:33:41.233439,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DeviceInstall,Stopped,,2025-09-25T06:33:41.233447,"Service ""DeviceInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevQueryBroker,Stopped,,2025-09-25T06:33:41.233453,"Service ""DevQueryBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dhcp,Running,,2025-09-25T06:33:41.233460,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,diagsvc,Stopped,,2025-09-25T06:33:41.233467,"Service ""diagsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DiagTrack,Running,,2025-09-25T06:33:41.233474,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DispBrokerDesktopSvc,Running,,2025-09-25T06:33:41.233499,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DisplayEnhancementService,Running,,2025-09-25T06:33:41.233507,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DmEnrollmentSvc,Stopped,,2025-09-25T06:33:41.233515,"Service ""DmEnrollmentSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,dmwappushservice,Stopped,,2025-09-25T06:33:41.233522,"Service ""dmwappushservice"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dnscache,Running,,2025-09-25T06:33:41.233529,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DoSvc,Running,,2025-09-25T06:33:41.233537,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,dot3svc,Stopped,,2025-09-25T06:33:41.233544,"Service ""dot3svc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DPS,Running,,2025-09-25T06:33:41.233552,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DsmSvc,Stopped,,2025-09-25T06:33:41.233561,"Service ""DsmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DsSvc,Stopped,,2025-09-25T06:33:41.233568,"Service ""DsSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DummyService,Stopped,,2025-09-25T06:33:41.233576,"Service ""DummyService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DusmSvc,Running,,2025-09-25T06:33:41.233584,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,EapHost,Stopped,,2025-09-25T06:33:41.233591,"Service ""EapHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdate,Stopped,,2025-09-25T06:33:41.233599,"Service ""edgeupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdatem,Stopped,,2025-09-25T06:33:41.233606,"Service ""edgeupdatem"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EFS,Stopped,,2025-09-25T06:33:41.233613,"Service ""EFS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ELAN_MOC_Service,Running,,2025-09-25T06:33:41.233621,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,embeddedmode,Stopped,,2025-09-25T06:33:41.233629,"Service ""embeddedmode"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EntAppSvc,Stopped,,2025-09-25T06:33:41.233645,"Service ""EntAppSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,esifsvc,Running,,2025-09-25T06:33:41.233651,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ETDService,Running,,2025-09-25T06:33:41.233658,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,EventLog,Running,,2025-09-25T06:33:41.233666,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,EventSystem,Running,,2025-09-25T06:33:41.233673,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Fax,Stopped,,2025-09-25T06:33:41.233680,"Service ""Fax"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fdPHost,Stopped,,2025-09-25T06:33:41.233687,"Service ""fdPHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FDResPub,Stopped,,2025-09-25T06:33:41.233694,"Service ""FDResPub"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fhsvc,Stopped,,2025-09-25T06:33:41.233700,"Service ""fhsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FontCache,Running,,2025-09-25T06:33:41.233707,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,FrameServer,Stopped,,2025-09-25T06:33:41.233714,"Service ""FrameServer"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FrameServerMonitor,Stopped,,2025-09-25T06:33:41.233720,"Service ""FrameServerMonitor"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fussvc,Stopped,,2025-09-25T06:33:41.233727,"Service ""fussvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GameInputSvc,Stopped,,2025-09-25T06:33:41.233733,"Service ""GameInputSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleChromeElevationService,Stopped,,2025-09-25T06:33:41.233740,"Service ""GoogleChromeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterInternalService142.0.7416.0,Stopped,,2025-09-25T06:33:41.233747,"Service ""GoogleUpdaterInternalService142.0.7416.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterService142.0.7416.0,Stopped,,2025-09-25T06:33:41.233754,"Service ""GoogleUpdaterService142.0.7416.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,gpsvc,Stopped,,2025-09-25T06:33:41.233763,"Service ""gpsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GraphicsPerfSvc,Stopped,,2025-09-25T06:33:41.233769,"Service ""GraphicsPerfSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hidserv,Stopped,,2025-09-25T06:33:41.233776,"Service ""hidserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hns,Running,,2025-09-25T06:33:41.233782,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HPAppHelperCap,Running,,2025-09-25T06:33:41.233789,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,hpatchmon,Stopped,,2025-09-25T06:33:41.233796,"Service ""hpatchmon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,HPDiagsCap,Running,,2025-09-25T06:33:41.233803,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HPNetworkCap,Running,,2025-09-25T06:33:41.233811,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HPSysInfoCap,Running,,2025-09-25T06:33:41.233818,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HpTouchpointAnalyticsService,Running,,2025-09-25T06:33:41.233825,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HvHost,Running,,2025-09-25T06:33:41.233832,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,icssvc,Stopped,,2025-09-25T06:33:41.233839,"Service ""icssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,igccservice,Running,,2025-09-25T06:33:41.233845,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,igfxCUIService2.0.0.0,Running,,2025-09-25T06:33:41.233852,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,IKEEXT,Stopped,,2025-09-25T06:33:41.233859,"Service ""IKEEXT"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,InstallService,Running,,2025-09-25T06:33:41.233866,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Intel(R) TPM Provisioning Service,Stopped,,2025-09-25T06:33:41.233873,"Service ""Intel(R) TPM Provisioning Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,IntelAudioService,Running,,2025-09-25T06:33:41.233880,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,InventorySvc,Running,,2025-09-25T06:33:41.233887,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,iphlpsvc,Running,,2025-09-25T06:33:41.233894,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,IpOverUsbSvc,Running,,2025-09-25T06:33:41.233901,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,IpxlatCfgSvc,Stopped,,2025-09-25T06:33:41.233908,"Service ""IpxlatCfgSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,jhi_service,Running,,2025-09-25T06:33:41.233914,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,KeyIso,Running,,2025-09-25T06:33:41.233921,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,KtmRm,Stopped,,2025-09-25T06:33:41.233928,"Service ""KtmRm"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LanmanServer,Running,,2025-09-25T06:33:41.233935,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LanmanWorkstation,Running,,2025-09-25T06:33:41.233941,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,lfsvc,Running,,2025-09-25T06:33:41.233948,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LicenseManager,Running,,2025-09-25T06:33:41.233955,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,lltdsvc,Stopped,,2025-09-25T06:33:41.233962,"Service ""lltdsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,lmhosts,Running,,2025-09-25T06:33:41.233968,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LocalKdc,Stopped,,2025-09-25T06:33:41.233975,"Service ""LocalKdc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LSM,Running,,2025-09-25T06:33:41.233982,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LxpSvc,Stopped,,2025-09-25T06:33:41.233990,"Service ""LxpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MapsBroker,Stopped,,2025-09-25T06:33:41.233997,"Service ""MapsBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McmSvc,Stopped,,2025-09-25T06:33:41.234003,"Service ""McmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McpManagementService,Stopped,,2025-09-25T06:33:41.234010,"Service ""McpManagementService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MDCoreSvc,Stopped,,2025-09-25T06:33:41.234017,"Service ""MDCoreSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MicrosoftEdgeElevationService,Stopped,,2025-09-25T06:33:41.234024,"Service ""MicrosoftEdgeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MouseWithoutBordersSvc,Stopped,,2025-09-25T06:33:41.234031,"Service ""MouseWithoutBordersSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,mpssvc,Running,,2025-09-25T06:33:41.234037,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,MSDTC,Stopped,,2025-09-25T06:33:41.234044,"Service ""MSDTC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MSiSCSI,Stopped,,2025-09-25T06:33:41.234051,"Service ""MSiSCSI"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,msiserver,Stopped,,2025-09-25T06:33:41.234058,"Service ""msiserver"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MuseAuthService,Running,,2025-09-25T06:33:41.234065,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,MuseHubUpdaterService,Stopped,,2025-09-25T06:33:41.234072,"Service ""MuseHubUpdaterService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NaturalAuthentication,Running,,2025-09-25T06:33:41.234078,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,NcaSvc,Stopped,,2025-09-25T06:33:41.234085,"Service ""NcaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NcbService,Running,,2025-09-25T06:33:41.234092,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,NcdAutoSetup,Stopped,,2025-09-25T06:33:41.234099,"Service ""NcdAutoSetup"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netlogon,Stopped,,2025-09-25T06:33:41.234105,"Service ""Netlogon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netman,Stopped,,2025-09-25T06:33:41.234112,"Service ""Netman"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,netprofm,Running,,2025-09-25T06:33:41.234119,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,NetSetupSvc,Stopped,,2025-09-25T06:33:41.234126,"Service ""NetSetupSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NetTcpPortSharing,Stopped,,2025-09-25T06:33:41.234133,"Service ""NetTcpPortSharing"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcCtnrSvc,Stopped,,2025-09-25T06:33:41.234139,"Service ""NgcCtnrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcSvc,Stopped,,2025-09-25T06:33:41.234146,"Service ""NgcSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NlaSvc,Stopped,,2025-09-25T06:33:41.234153,"Service ""NlaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,nsi,Running,,2025-09-25T06:33:41.234160,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,nvagent,Running,,2025-09-25T06:33:41.234167,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ose,Stopped,,2025-09-25T06:33:41.234174,"Service ""ose"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PcaSvc,Running,,2025-09-25T06:33:41.234180,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,perceptionsimulation,Stopped,,2025-09-25T06:33:41.234187,"Service ""perceptionsimulation"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PerfHost,Stopped,,2025-09-25T06:33:41.234194,"Service ""PerfHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PhoneSvc,Stopped,,2025-09-25T06:33:41.234200,"Service ""PhoneSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,pla,Stopped,,2025-09-25T06:33:41.234207,"Service ""pla"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PlugPlay,Running,,2025-09-25T06:33:41.234213,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PolicyAgent,Stopped,,2025-09-25T06:33:41.234220,"Service ""PolicyAgent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Power,Running,,2025-09-25T06:33:41.234227,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PrintDeviceConfigurationService,Stopped,,2025-09-25T06:33:41.234234,"Service ""PrintDeviceConfigurationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintNotify,Stopped,,2025-09-25T06:33:41.234240,"Service ""PrintNotify"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintScanBrokerService,Stopped,,2025-09-25T06:33:41.234247,"Service ""PrintScanBrokerService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ProfSvc,Running,,2025-09-25T06:33:41.234254,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PushToInstall,Stopped,,2025-09-25T06:33:41.234261,"Service ""PushToInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QHActiveDefense,Running,,2025-09-25T06:33:41.234267,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,QHProtected,Stopped,,2025-09-25T06:33:41.234275,"Service ""QHProtected"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QWAVE,Stopped,,2025-09-25T06:33:41.234281,"Service ""QWAVE"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasAuto,Stopped,,2025-09-25T06:33:41.234288,"Service ""RasAuto"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasMan,Running,,2025-09-25T06:33:41.234294,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,refsdedupsvc,Stopped,,2025-09-25T06:33:41.234301,"Service ""refsdedupsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteAccess,Stopped,,2025-09-25T06:33:41.234308,"Service ""RemoteAccess"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteRegistry,Stopped,,2025-09-25T06:33:41.234315,"Service ""RemoteRegistry"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RetailDemo,Stopped,,2025-09-25T06:33:41.234322,"Service ""RetailDemo"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RmSvc,Running,,2025-09-25T06:33:41.234328,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RpcEptMapper,Running,,2025-09-25T06:33:41.234335,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RpcLocator,Stopped,,2025-09-25T06:33:41.234342,"Service ""RpcLocator"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RpcSs,Running,,2025-09-25T06:33:41.234348,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RstMwService,Running,,2025-09-25T06:33:41.234355,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RtkAudioUniversalService,Running,,2025-09-25T06:33:41.234362,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SamSs,Running,,2025-09-25T06:33:41.234369,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SCardSvr,Stopped,,2025-09-25T06:33:41.234376,"Service ""SCardSvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ScDeviceEnum,Stopped,,2025-09-25T06:33:41.234382,"Service ""ScDeviceEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Schedule,Running,,2025-09-25T06:33:41.234389,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SCPolicySvc,Stopped,,2025-09-25T06:33:41.234396,"Service ""SCPolicySvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SDRSVC,Stopped,,2025-09-25T06:33:41.234402,"Service ""SDRSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,seclogon,Running,,2025-09-25T06:33:41.234409,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SECOMNService,Running,,2025-09-25T06:33:41.234416,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SecurityHealthService,Running,,2025-09-25T06:33:41.234423,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SEMgrSvc,Stopped,,2025-09-25T06:33:41.234430,"Service ""SEMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SENS,Running,,2025-09-25T06:33:41.234437,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SensorDataService,Stopped,,2025-09-25T06:33:41.234444,"Service ""SensorDataService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensorService,Stopped,,2025-09-25T06:33:41.234450,"Service ""SensorService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensrSvc,Stopped,,2025-09-25T06:33:41.234457,"Service ""SensrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SessionEnv,Running,,2025-09-25T06:33:41.234463,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SharedAccess,Running,,2025-09-25T06:33:41.234470,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ShellHWDetection,Running,,2025-09-25T06:33:41.234477,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,shpamsvc,Stopped,,2025-09-25T06:33:41.234484,"Service ""shpamsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,smphost,Stopped,,2025-09-25T06:33:41.234491,"Service ""smphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SmsRouter,Stopped,,2025-09-25T06:33:41.234497,"Service ""SmsRouter"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SNMPTrap,Stopped,,2025-09-25T06:33:41.234504,"Service ""SNMPTrap"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Spooler,Running,,2025-09-25T06:33:41.234510,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,sppsvc,Running,,2025-09-25T06:33:41.234517,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SQLWriter,Running,,2025-09-25T06:33:41.234524,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SSDPSRV,Running,,2025-09-25T06:33:41.234531,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ssh-agent,Stopped,,2025-09-25T06:33:41.234538,"Service ""ssh-agent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,sshd,Stopped,,2025-09-25T06:33:41.234544,"Service ""sshd"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SshdBroker,Stopped,,2025-09-25T06:33:41.234551,"Service ""SshdBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SstpSvc,Running,,2025-09-25T06:33:41.234557,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,StateRepository,Running,,2025-09-25T06:33:41.234564,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,StiSvc,Running,,2025-09-25T06:33:41.234571,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,StorSvc,Running,,2025-09-25T06:33:41.234578,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,svsvc,Stopped,,2025-09-25T06:33:41.234585,"Service ""svsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,swprv,Stopped,,2025-09-25T06:33:41.234592,"Service ""swprv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SysMain,Running,,2025-09-25T06:33:41.234599,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SystemEventsBroker,Running,,2025-09-25T06:33:41.234606,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TapiSrv,Running,,2025-09-25T06:33:41.234613,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Te.Service,Stopped,,2025-09-25T06:33:41.234620,"Service ""Te.Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TermService,Running,,2025-09-25T06:33:41.234627,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TextInputManagementService,Running,,2025-09-25T06:33:41.234634,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Themes,Running,,2025-09-25T06:33:41.234641,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TieringEngineService,Stopped,,2025-09-25T06:33:41.234647,"Service ""TieringEngineService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TimeBrokerSvc,Running,,2025-09-25T06:33:41.234654,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TokenBroker,Running,,2025-09-25T06:33:41.234661,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TrkWks,Running,,2025-09-25T06:33:41.234668,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TroubleshootingSvc,Stopped,,2025-09-25T06:33:41.234674,"Service ""TroubleshootingSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TrustedInstaller,Stopped,,2025-09-25T06:33:41.234681,"Service ""TrustedInstaller"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TurboVPNService,Running,,2025-09-25T06:33:41.234688,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,tzautoupdate,Stopped,,2025-09-25T06:33:41.234695,"Service ""tzautoupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UmRdpService,Running,,2025-09-25T06:33:41.234701,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,upnphost,Stopped,,2025-09-25T06:33:41.234708,"Service ""upnphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UserManager,Running,,2025-09-25T06:33:41.234715,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,UsoSvc,Running,,2025-09-25T06:33:41.234721,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,VaultSvc,Running,,2025-09-25T06:33:41.234728,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,VBoxSDS,Stopped,,2025-09-25T06:33:41.234744,"Service ""VBoxSDS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vds,Stopped,,2025-09-25T06:33:41.234752,"Service ""vds"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmcompute,Stopped,,2025-09-25T06:33:41.234759,"Service ""vmcompute"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicguestinterface,Stopped,,2025-09-25T06:33:41.234765,"Service ""vmicguestinterface"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicheartbeat,Stopped,,2025-09-25T06:33:41.234772,"Service ""vmicheartbeat"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmickvpexchange,Stopped,,2025-09-25T06:33:41.234778,"Service ""vmickvpexchange"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicrdv,Stopped,,2025-09-25T06:33:41.234785,"Service ""vmicrdv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicshutdown,Stopped,,2025-09-25T06:33:41.234791,"Service ""vmicshutdown"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmictimesync,Stopped,,2025-09-25T06:33:41.234798,"Service ""vmictimesync"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvmsession,Stopped,,2025-09-25T06:33:41.234804,"Service ""vmicvmsession"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvss,Stopped,,2025-09-25T06:33:41.234811,"Service ""vmicvss"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VsEtwService120,Stopped,,2025-09-25T06:33:41.234817,"Service ""VsEtwService120"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VSS,Stopped,,2025-09-25T06:33:41.234824,"Service ""VSS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,W32Time,Stopped,,2025-09-25T06:33:41.234831,"Service ""W32Time"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WaaSMedicSvc,Stopped,,2025-09-25T06:33:41.234838,"Service ""WaaSMedicSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WalletService,Stopped,,2025-09-25T06:33:41.234844,"Service ""WalletService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WarpJITSvc,Stopped,,2025-09-25T06:33:41.234851,"Service ""WarpJITSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wbengine,Stopped,,2025-09-25T06:33:41.234858,"Service ""wbengine"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WbioSrvc,Stopped,,2025-09-25T06:33:41.234864,"Service ""WbioSrvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Wcmsvc,Running,,2025-09-25T06:33:41.234870,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wcncsvc,Stopped,,2025-09-25T06:33:41.234877,"Service ""wcncsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiServiceHost,Stopped,,2025-09-25T06:33:41.234884,"Service ""WdiServiceHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiSystemHost,Running,,2025-09-25T06:33:41.234890,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WdNisSvc,Stopped,,2025-09-25T06:33:41.234897,"Service ""WdNisSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebClient,Running,,2025-09-25T06:33:41.234904,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WebManagement,Running,,2025-09-25T06:33:41.234911,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,webthreatdefsvc,Running,,2025-09-25T06:33:41.234918,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Wecsvc,Stopped,,2025-09-25T06:33:41.234925,"Service ""Wecsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WEPHOSTSVC,Stopped,,2025-09-25T06:33:41.234932,"Service ""WEPHOSTSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wercplsupport,Stopped,,2025-09-25T06:33:41.234938,"Service ""wercplsupport"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WerSvc,Stopped,,2025-09-25T06:33:41.234944,"Service ""WerSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WFDSConMgrSvc,Stopped,,2025-09-25T06:33:41.234951,"Service ""WFDSConMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,whesvc,Running,,2025-09-25T06:33:41.234957,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WiaRpc,Stopped,,2025-09-25T06:33:41.234964,"Service ""WiaRpc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinDefend,Stopped,,2025-09-25T06:33:41.234971,"Service ""WinDefend"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinHttpAutoProxySvc,Running,,2025-09-25T06:33:41.234978,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Winmgmt,Running,,2025-09-25T06:33:41.234985,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WinRM,Stopped,,2025-09-25T06:33:41.234992,"Service ""WinRM"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wisvc,Stopped,,2025-09-25T06:33:41.234998,"Service ""wisvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WlanSvc,Running,,2025-09-25T06:33:41.235005,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wlidsvc,Running,,2025-09-25T06:33:41.235012,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wlpasvc,Stopped,,2025-09-25T06:33:41.235019,"Service ""wlpasvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WManSvc,Stopped,,2025-09-25T06:33:41.235025,"Service ""WManSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wmiApSrv,Stopped,,2025-09-25T06:33:41.235032,"Service ""wmiApSrv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WMIRegistrationService,Running,,2025-09-25T06:33:41.235039,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WMPNetworkSvc,Stopped,,2025-09-25T06:33:41.235045,"Service ""WMPNetworkSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,workfolderssvc,Stopped,,2025-09-25T06:33:41.235052,"Service ""workfolderssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpcMonSvc,Stopped,,2025-09-25T06:33:41.235058,"Service ""WpcMonSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WPDBusEnum,Stopped,,2025-09-25T06:33:41.235079,"Service ""WPDBusEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpnService,Running,,2025-09-25T06:33:41.235087,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wpscloudsvr,Stopped,,2025-09-25T06:33:41.235095,"Service ""wpscloudsvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WSAIFabricSvc,Running,,2025-09-25T06:33:41.235102,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wscsvc,Running,,2025-09-25T06:33:41.235117,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WSearch,Running,,2025-09-25T06:33:41.235124,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WSLService,Running,,2025-09-25T06:33:41.235131,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wuauserv,Stopped,,2025-09-25T06:33:41.235137,"Service ""wuauserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WwanSvc,Stopped,,2025-09-25T06:33:41.235144,"Service ""WwanSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XblAuthManager,Running,,2025-09-25T06:33:41.235151,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,XblGameSave,Stopped,,2025-09-25T06:33:41.235157,"Service ""XblGameSave"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxGipSvc,Stopped,,2025-09-25T06:33:41.235164,"Service ""XboxGipSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxNetApiSvc,Stopped,,2025-09-25T06:33:41.235170,"Service ""XboxNetApiSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AarSvc_159087,Stopped,,2025-09-25T06:33:41.235177,"Service ""AarSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BcastDVRUserService_159087,Running,,2025-09-25T06:33:41.235183,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,BluetoothUserService_159087,Stopped,,2025-09-25T06:33:41.235190,"Service ""BluetoothUserService_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CaptureService_159087,Stopped,,2025-09-25T06:33:41.235197,"Service ""CaptureService_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,cbdhsvc_159087,Running,,2025-09-25T06:33:41.235204,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CDPUserSvc_159087,Running,,2025-09-25T06:33:41.235211,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CloudBackupRestoreSvc_159087,Stopped,,2025-09-25T06:33:41.235217,"Service ""CloudBackupRestoreSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ConsentUxUserSvc_159087,Stopped,,2025-09-25T06:33:41.235224,"Service ""ConsentUxUserSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CredentialEnrollmentManagerUserSvc_159087,Stopped,,2025-09-25T06:33:41.235233,"Service ""CredentialEnrollmentManagerUserSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationBrokerSvc_159087,Stopped,,2025-09-25T06:33:41.235240,"Service ""DeviceAssociationBrokerSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicePickerUserSvc_159087,Stopped,,2025-09-25T06:33:41.235246,"Service ""DevicePickerUserSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicesFlowUserSvc_159087,Running,,2025-09-25T06:33:41.235253,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,MessagingService_159087,Stopped,,2025-09-25T06:33:41.235260,"Service ""MessagingService_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NPSMSvc_159087,Running,,2025-09-25T06:33:41.235266,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,OneSyncSvc_159087,Running,,2025-09-25T06:33:41.235273,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,P9RdrService_159087,Stopped,,2025-09-25T06:33:41.235280,"Service ""P9RdrService_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PenService_159087,Stopped,,2025-09-25T06:33:41.235287,"Service ""PenService_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PimIndexMaintenanceSvc_159087,Running,,2025-09-25T06:33:41.235293,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PrintWorkflowUserSvc_159087,Stopped,,2025-09-25T06:33:41.235300,"Service ""PrintWorkflowUserSvc_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UdkUserSvc_159087,Running,,2025-09-25T06:33:41.235307,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,UnistoreSvc_159087,Running,,2025-09-25T06:33:41.235314,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,UserDataSvc_159087,Running,,2025-09-25T06:33:41.235320,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WebManagementUser_159087,Stopped,,2025-09-25T06:33:41.235327,"Service ""WebManagementUser_159087"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,webthreatdefusersvc_159087,Running,,2025-09-25T06:33:41.235333,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WpnUserService_159087,Running,,2025-09-25T06:33:41.235340,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Adobe Creative Cloud,Running,,2025-09-25T06:33:43.522074,Scheduled task \Adobe Creative Cloud status is Running.,Manual review recommended
+Tasks,\DemoTask,Ready,,2025-09-25T06:33:43.522117,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Launch Adobe CCXProcess,Ready,,2025-09-25T06:33:43.522130,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\OneDrive Reporting Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,,2025-09-25T06:33:43.522140,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\OneDrive Standalone Update Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,,2025-09-25T06:33:43.522149,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\OneDrive Startup Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,,2025-09-25T06:33:43.522157,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,,2025-09-25T06:33:43.522165,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,,2025-09-25T06:33:43.522174,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,,2025-09-25T06:33:43.522182,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,,2025-09-25T06:33:43.522190,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Scheduled Update for Ask Toolbar,Ready,,2025-09-25T06:33:43.522198,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\User_Feed_Synchronization-{2FAA476C-6D7F-4D5D-AB2E-49648B08195D},Ready,,2025-09-25T06:33:43.522206,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\WpsExternal_III_interval,Ready,,2025-09-25T06:33:43.522214,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\WpsExternal_III_startup,Running,,2025-09-25T06:33:43.522221,Scheduled task \WpsExternal_III_startup status is Running.,Manual review recommended
+Tasks,\WpsUpdateTask_III,Ready,,2025-09-25T06:33:43.522230,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522237,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522245,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522252,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Office\Office Actions Server,Ready,,2025-09-25T06:33:43.522260,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Actions Server,Ready,,2025-09-25T06:33:43.522268,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,,2025-09-25T06:33:43.522275,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,,2025-09-25T06:33:43.522282,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,,2025-09-25T06:33:43.522290,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,,2025-09-25T06:33:43.522297,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,,2025-09-25T06:33:43.522304,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office ClickToRun Service Monitor,Ready,,2025-09-25T06:33:43.522311,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-25T06:33:43.522319,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-25T06:33:43.522326,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-25T06:33:43.522333,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-25T06:33:43.522340,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-25T06:33:43.522348,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-25T06:33:43.522355,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,,2025-09-25T06:33:43.522362,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,,2025-09-25T06:33:43.522370,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522377,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522385,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522392,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319,Ready,,2025-09-25T06:33:43.522400,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64,Ready,,2025-09-25T06:33:43.522407,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical,Disabled,,2025-09-25T06:33:43.522415,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical,Disabled,,2025-09-25T06:33:43.522422,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522430,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AccountHealth\RecoverabilityToastTask,Ready,,2025-09-25T06:33:43.522437,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522444,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,,2025-09-25T06:33:43.522452,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,,2025-09-25T06:33:43.522459,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual),Ready,,2025-09-25T06:33:43.522467,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522476,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppID\PolicyConverter,Disabled,,2025-09-25T06:33:43.522483,Scheduled task \Microsoft\Windows\AppID\PolicyConverter status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck,Disabled,,2025-09-25T06:33:43.522490,Scheduled task \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522497,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\MareBackup,Ready,,2025-09-25T06:33:43.522504,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser,Ready,,2025-09-25T06:33:43.522512,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser Exp,Ready,,2025-09-25T06:33:43.522519,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\PcaPatchDbTask,Ready,,2025-09-25T06:33:43.522526,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,,2025-09-25T06:33:43.522534,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,,2025-09-25T06:33:43.522541,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\StartupAppTask,Ready,,2025-09-25T06:33:43.522549,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522557,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierdaily,Ready,,2025-09-25T06:33:43.522564,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierinstall,Ready,,2025-09-25T06:33:43.522572,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\CleanupTemporaryState,Ready,,2025-09-25T06:33:43.522579,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\DsSvcCleanup,Ready,,2025-09-25T06:33:43.522586,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522594,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppListBackup\Backup,Ready,,2025-09-25T06:33:43.522601,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\AppListBackup\BackupNonMaintenance,Ready,,2025-09-25T06:33:43.522609,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522616,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup,Disabled,,2025-09-25T06:33:43.522623,Scheduled task \Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522630,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Autochk\Proxy,Ready,,2025-09-25T06:33:43.522638,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522645,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\BitLocker\BitLocker Encrypt All Drives,Ready,,2025-09-25T06:33:43.522652,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\BitLocker\BitLocker MDM policy Refresh,Ready,,2025-09-25T06:33:43.522660,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522667,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Bluetooth\UninstallDeviceTask,Ready,,2025-09-25T06:33:43.522675,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522682,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\BrokerInfrastructure\BgTaskRegistrationMaintenanceTask,Ready,,2025-09-25T06:33:43.522690,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522697,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\capabilityaccessmanager\maintenancetasks,Ready,,2025-09-25T06:33:43.522704,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522712,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-25T06:33:43.522719,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-25T06:33:43.522727,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-25T06:33:43.522734,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-25T06:33:43.522741,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,,2025-09-25T06:33:43.522749,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,,2025-09-25T06:33:43.522756,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522763,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Chkdsk\ProactiveScan,Ready,,2025-09-25T06:33:43.522770,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Chkdsk\SyspartRepair,Ready,,2025-09-25T06:33:43.522778,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522785,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudExperienceHost\CreateObjectTask,Ready,,2025-09-25T06:33:43.522792,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522799,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,,2025-09-25T06:33:43.522807,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,,2025-09-25T06:33:43.522814,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Restore,Ready,,2025-09-25T06:33:43.522821,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522829,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522837,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,,2025-09-25T06:33:43.522844,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,,2025-09-25T06:33:43.522851,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522859,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\Consolidator,Ready,,2025-09-25T06:33:43.522866,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip,Ready,,2025-09-25T06:33:43.522873,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522880,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,,2025-09-25T06:33:43.522887,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,,2025-09-25T06:33:43.522894,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan,Ready,,2025-09-25T06:33:43.522902,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery,Ready,,2025-09-25T06:33:43.522909,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522916,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Defrag\ScheduledDefrag,Ready,,2025-09-25T06:33:43.522924,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522931,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,,2025-09-25T06:33:43.522938,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,,2025-09-25T06:33:43.522945,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device User,Ready,,2025-09-25T06:33:43.522953,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522960,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Setup\Driver Recovery on Reboot,Disabled,,2025-09-25T06:33:43.522967,Scheduled task \Microsoft\Windows\Device Setup\Driver Recovery on Reboot status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.522974,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-25T06:33:43.522981,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-25T06:33:43.522989,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-25T06:33:43.522996,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-25T06:33:43.523003,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\Scheduled,Ready,,2025-09-25T06:33:43.523010,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\UnexpectedCodepath,Ready,,2025-09-25T06:33:43.523018,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523025,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,,2025-09-25T06:33:43.523032,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,,2025-09-25T06:33:43.523040,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,,2025-09-25T06:33:43.523047,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,,2025-09-25T06:33:43.523054,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,,2025-09-25T06:33:43.523062,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523069,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskCleanup\SilentCleanup,Ready,,2025-09-25T06:33:43.523077,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523084,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector,Disabled,,2025-09-25T06:33:43.523092,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver,Disabled,,2025-09-25T06:33:43.523115,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523123,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskFootprint\Diagnostics,Ready,,2025-09-25T06:33:43.523130,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskFootprint\StorageSense,Ready,,2025-09-25T06:33:43.523137,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523145,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DUSM\dusmtask,Ready,,2025-09-25T06:33:43.523152,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523160,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP App Launch Task,Ready,,2025-09-25T06:33:43.523167,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP Auth Task,Ready,,2025-09-25T06:33:43.523174,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP Inaccessible Credentials Task,Ready,,2025-09-25T06:33:43.523182,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\StorageCardEncryption Task,Ready,,2025-09-25T06:33:43.523190,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523198,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,,2025-09-25T06:33:43.523205,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,,2025-09-25T06:33:43.523212,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,,2025-09-25T06:33:43.523220,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523227,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523234,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClient,Ready,,2025-09-25T06:33:43.523242,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload,Ready,,2025-09-25T06:33:43.523249,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523257,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\FileHistory\File History (maintenance mode),Ready,,2025-09-25T06:33:43.523264,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523272,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523279,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting,Disabled,,2025-09-25T06:33:43.523286,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\GovernedFeatureUsageProcessing,Ready,,2025-09-25T06:33:43.523293,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileConfigs,Ready,,2025-09-25T06:33:43.523301,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-25T06:33:43.523308,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-25T06:33:43.523322,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-25T06:33:43.523330,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-25T06:33:43.523337,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-25T06:33:43.523344,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-25T06:33:43.523352,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,,2025-09-25T06:33:43.523359,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,,2025-09-25T06:33:43.523366,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,,2025-09-25T06:33:43.523374,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReceiver,Ready,,2025-09-25T06:33:43.523381,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReporting,Ready,,2025-09-25T06:33:43.523388,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523395,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Running,,2025-09-25T06:33:43.523403,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Running.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Running,,2025-09-25T06:33:43.523410,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Running.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Running,,2025-09-25T06:33:43.523418,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Running.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523425,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,,2025-09-25T06:33:43.523432,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,,2025-09-25T06:33:43.523439,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,,2025-09-25T06:33:43.523447,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523454,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\input\InputSettingsRestoreDataAvailable,Ready,,2025-09-25T06:33:43.523462,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\LocalUserSyncDataAvailable,Ready,,2025-09-25T06:33:43.523469,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\MouseSyncDataAvailable,Ready,,2025-09-25T06:33:43.523476,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\PenSyncDataAvailable,Ready,,2025-09-25T06:33:43.523484,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemoteMouseSyncDataAvailable,Ready,,2025-09-25T06:33:43.523491,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemotePenSyncDataAvailable,Ready,,2025-09-25T06:33:43.523498,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemoteTouchpadSyncDataAvailable,Ready,,2025-09-25T06:33:43.523506,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\syncpensettings,Ready,,2025-09-25T06:33:43.523513,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\TouchpadSyncDataAvailable,Ready,,2025-09-25T06:33:43.523520,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523528,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\RestoreDevice,Ready,,2025-09-25T06:33:43.523535,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,,2025-09-25T06:33:43.523542,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,,2025-09-25T06:33:43.523550,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,,2025-09-25T06:33:43.523557,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdatesAsUser,Ready,,2025-09-25T06:33:43.523565,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndContinueUpdates,Disabled,,2025-09-25T06:33:43.523573,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndContinueUpdates status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndScanForUpdates,Disabled,,2025-09-25T06:33:43.523580,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndScanForUpdates status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523588,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,,2025-09-25T06:33:43.523595,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,,2025-09-25T06:33:43.523603,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523610,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Kernel\La57Cleanup,Ready,,2025-09-25T06:33:43.523617,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523625,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\Installation,Ready,,2025-09-25T06:33:43.523632,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\ReconcileLanguageResources,Ready,,2025-09-25T06:33:43.523640,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523647,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523654,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Location\Notifications,Ready,,2025-09-25T06:33:43.523662,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Location\WindowsActionDialog,Ready,,2025-09-25T06:33:43.523669,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523676,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Maintenance\WinSAT,Ready,,2025-09-25T06:33:43.523683,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523691,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523698,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,,2025-09-25T06:33:43.523705,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,,2025-09-25T06:33:43.523713,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\RemediateHardwareChange,Disabled,,2025-09-25T06:33:43.523720,Scheduled task \Microsoft\Windows\Management\Autopilot\RemediateHardwareChange status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523727,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Cellular,Ready,,2025-09-25T06:33:43.523736,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Logon,Ready,,2025-09-25T06:33:43.523744,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup,Disabled,,2025-09-25T06:33:43.523751,Scheduled task \Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Retry,Disabled,,2025-09-25T06:33:43.523758,Scheduled task \Microsoft\Windows\Management\Provisioning\Retry status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\RunOnReboot,Disabled,,2025-09-25T06:33:43.523766,Scheduled task \Microsoft\Windows\Management\Provisioning\RunOnReboot status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523773,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Maps\MapsToastTask,Ready,,2025-09-25T06:33:43.523780,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Maps\MapsUpdateTask,Disabled,,2025-09-25T06:33:43.523788,Scheduled task \Microsoft\Windows\Maps\MapsUpdateTask status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523795,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\AutomaticOfflineMemoryDiagnostic,Ready,,2025-09-25T06:33:43.523802,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-25T06:33:43.523810,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-25T06:33:43.523817,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-25T06:33:43.523824,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-25T06:33:43.523831,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic,Disabled,,2025-09-25T06:33:43.523839,Scheduled task \Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523846,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser,Ready,,2025-09-25T06:33:43.523854,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523861,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\MUI\LPRemove,Ready,,2025-09-25T06:33:43.523868,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523876,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Multimedia\SystemSoundsService,Running,,2025-09-25T06:33:43.523883,Scheduled task \Microsoft\Windows\Multimedia\SystemSoundsService status is Running.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523890,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,,2025-09-25T06:33:43.523898,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,,2025-09-25T06:33:43.523905,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,,2025-09-25T06:33:43.523913,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523920,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\NlaSvc\WiFiTask,Ready,,2025-09-25T06:33:43.523927,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523934,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PCRPF\PCR Prediction Framework Firmware Update Task,Ready,,2025-09-25T06:33:43.523941,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523949,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PerformanceTrace\RequestTrace,Ready,,2025-09-25T06:33:43.523957,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\PerformanceTrace\WhesvcToast,Ready,,2025-09-25T06:33:43.523964,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.523972,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,,2025-09-25T06:33:43.523979,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,,2025-09-25T06:33:43.523986,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,,2025-09-25T06:33:43.523993,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524001,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524008,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Group Policy,Ready,,2025-09-25T06:33:43.524016,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,,2025-09-25T06:33:43.524023,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,,2025-09-25T06:33:43.524030,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers,Ready,,2025-09-25T06:33:43.524037,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524045,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem,Ready,,2025-09-25T06:33:43.524052,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524059,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\EduPrintProv,Ready,,2025-09-25T06:33:43.524066,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\PrinterCleanupTask,Ready,,2025-09-25T06:33:43.524074,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\PrintJobCleanupTask,Disabled,,2025-09-25T06:33:43.524081,Scheduled task \Microsoft\Windows\Printing\PrintJobCleanupTask status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524089,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\RecoveryEnvironment\VerifyWinRE,Disabled,,2025-09-25T06:33:43.524096,Scheduled task \Microsoft\Windows\RecoveryEnvironment\VerifyWinRE status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524103,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ReFsDedupSvc\Initialization,Ready,,2025-09-25T06:33:43.524110,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524118,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Registry\RegIdleBackup,Ready,,2025-09-25T06:33:43.524125,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524132,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524139,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Security\Pwdless\IntelligentPwdlessTask,Ready,,2025-09-25T06:33:43.524146,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524154,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Servicing\OOBEFodSetup,Disabled,,2025-09-25T06:33:43.524161,Scheduled task \Microsoft\Windows\Servicing\OOBEFodSetup status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Servicing\StartComponentCleanup,Ready,,2025-09-25T06:33:43.524168,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524175,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SharedPC\Account Cleanup,Disabled,,2025-09-25T06:33:43.524183,Scheduled task \Microsoft\Windows\SharedPC\Account Cleanup status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524190,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\CreateObjectTask,Ready,,2025-09-25T06:33:43.524197,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\FamilySafetyMonitor,Ready,,2025-09-25T06:33:43.524205,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\FamilySafetyRefreshTask,Ready,,2025-09-25T06:33:43.524212,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\IndexerAutomaticMaintenance,Ready,,2025-09-25T06:33:43.524220,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\ThemesSyncedImageDownload,Ready,,2025-09-25T06:33:43.524227,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,,2025-09-25T06:33:43.524234,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,,2025-09-25T06:33:43.524242,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524249,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ClientTask,Ready,,2025-09-25T06:33:43.524256,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ServerTask,Ready,,2025-09-25T06:33:43.524265,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524272,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon,Ready,,2025-09-25T06:33:43.524279,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger,Ready,,2025-09-25T06:33:43.524287,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524294,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,,2025-09-25T06:33:43.524301,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,,2025-09-25T06:33:43.524309,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,,2025-09-25T06:33:43.524317,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,,2025-09-25T06:33:43.524324,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524332,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\StateRepository\MaintenanceTasks,Ready,,2025-09-25T06:33:43.524339,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524346,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization,Ready,,2025-09-25T06:33:43.524353,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization,Disabled,,2025-09-25T06:33:43.524361,Scheduled task \Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524368,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,,2025-09-25T06:33:43.524375,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,,2025-09-25T06:33:43.524382,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,,2025-09-25T06:33:43.524390,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,,2025-09-25T06:33:43.524397,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,,2025-09-25T06:33:43.524405,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,,2025-09-25T06:33:43.524414,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524421,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,,2025-09-25T06:33:43.524428,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,,2025-09-25T06:33:43.524435,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\SustainabilityTelemetry,Ready,,2025-09-25T06:33:43.524443,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524450,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate,Disabled,,2025-09-25T06:33:43.524457,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCacheRebalance,Disabled,,2025-09-25T06:33:43.524464,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCacheRebalance status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\ResPriStaticDbSync,Ready,,2025-09-25T06:33:43.524472,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\WsSwapAssessmentTask,Ready,,2025-09-25T06:33:43.524480,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524487,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SystemRestore\SR,Ready,,2025-09-25T06:33:43.524494,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524502,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Task Manager\Interactive,Ready,,2025-09-25T06:33:43.524509,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524517,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\TextServicesFramework\MsCtfMonitor,Ready,,2025-09-25T06:33:43.524524,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524531,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,,2025-09-25T06:33:43.524538,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,,2025-09-25T06:33:43.524545,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\SynchronizeTime,Ready,,2025-09-25T06:33:43.524553,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524560,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Zone\SynchronizeTimeZone,Ready,,2025-09-25T06:33:43.524567,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524575,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\UPnP\UPnPHostConfig,Ready,,2025-09-25T06:33:43.524582,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524589,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-25T06:33:43.524596,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-25T06:33:43.524603,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-25T06:33:43.524611,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-25T06:33:43.524618,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524625,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WCM\WiFiTask,Ready,,2025-09-25T06:33:43.524632,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524639,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WDI\ResolutionHost,Ready,,2025-09-25T06:33:43.524647,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524654,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-25T06:33:43.524661,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-25T06:33:43.524668,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-25T06:33:43.524676,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-25T06:33:43.524683,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-25T06:33:43.524690,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524698,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange,Ready,,2025-09-25T06:33:43.524705,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524713,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Media Sharing\UpdateLibrary,Ready,,2025-09-25T06:33:43.524720,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524727,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524734,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,,2025-09-25T06:33:43.524741,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,,2025-09-25T06:33:43.524748,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524756,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-25T06:33:43.524763,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-25T06:33:43.524771,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-25T06:33:43.524778,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-25T06:33:43.524785,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524793,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Wininet\CacheTask,Running,,2025-09-25T06:33:43.524800,Scheduled task \Microsoft\Windows\Wininet\CacheTask status is Running.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524807,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\CDSSync,Ready,,2025-09-25T06:33:43.524814,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,,2025-09-25T06:33:43.524822,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,,2025-09-25T06:33:43.524829,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524837,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Logon Synchronization,Ready,,2025-09-25T06:33:43.524844,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Maintenance Work,Ready,,2025-09-25T06:33:43.524853,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524860,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,,2025-09-25T06:33:43.524867,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,,2025-09-25T06:33:43.524875,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Device-Sync,Disabled,,2025-09-25T06:33:43.524882,Scheduled task \Microsoft\Windows\Workplace Join\Device-Sync status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,,2025-09-25T06:33:43.524889,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,,2025-09-25T06:33:43.524897,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524904,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\NotificationTask,Ready,,2025-09-25T06:33:43.524911,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,,2025-09-25T06:33:43.524918,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,,2025-09-25T06:33:43.524925,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,,2025-09-25T06:33:43.524932,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-25T06:33:43.524939,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\XblGameSave\XblGameSaveTask,Ready,,2025-09-25T06:33:43.524946,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,DemoShortcut,,,2025-09-25T06:33:43.651514,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,TestStartup.lnk,,,2025-09-25T06:33:43.654289,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,OneDrive,,,2025-09-25T06:33:43.657094,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,MicrosoftEdgeAutoLaunch_0386D51C073D86B821A8FA1466715878,,,2025-09-25T06:33:43.659892,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,electron.app.Notion,,,2025-09-25T06:33:43.662643,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,Opera Stable,,,2025-09-25T06:33:43.665732,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,com.squirrel.Postman-Agent.PostmanAgent,,,2025-09-25T06:33:43.668569,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,Opera Browser Assistant,,,2025-09-25T06:33:43.671393,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,Ge'ez 2010,,,2025-09-25T06:33:43.674145,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,SecurityHealth,,,2025-09-25T06:33:43.676878,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,RtkAudUService,,,2025-09-25T06:33:43.679644,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,Greenshot,,,2025-09-25T06:33:43.682923,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Startup,MuseHub,,,2025-09-25T06:33:43.686539,Low-severity issue detected. No recommendation needed.,Manual review recommended
+System,Uptime,"0 days, 0 hours",,2025-09-25T06:33:43.754164,"System uptime is {value}, last boot was on {lastBoot}.
+Long uptimes (> {warningDays} days) risk missing security patches and accumulating performance drift.","Run Windows Update and reboot the machine immediately.
+Schedule a weekly maintenance reboot to keep patches current."
+System,Hostname,BONTU,,2025-09-25T06:33:43.754216,Low-severity issue detected. No recommendation needed.,Manual review recommended
+System,OS Version,Windows-11-10.0.26100-SP0,,2025-09-25T06:33:43.754229,Low-severity issue detected. No recommendation needed.,Manual review recommended

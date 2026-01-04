@@ -1,0 +1,478 @@
+Module,Name,Status,Severity,Timestamp,Explanation,Recommendation
+Services,AdobeUpdateService,Running,Low,2025-09-22T09:40:35.872105,Service AdobeUpdateService is Running.,No action needed unless new issues appear
+Services,ADPSvc,Stopped,Medium,2025-09-22T09:40:35.872170,"Service ""ADPSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ALG,Stopped,Medium,2025-09-22T09:40:35.872183,"Service ""ALG"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppIDSvc,Stopped,Medium,2025-09-22T09:40:35.872190,"Service ""AppIDSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Appinfo,Running,Low,2025-09-22T09:40:35.872196,Service Appinfo is Running.,No action needed unless new issues appear
+Services,AppReadiness,Stopped,Medium,2025-09-22T09:40:35.872203,"Service ""AppReadiness"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppXSvc,Running,Low,2025-09-22T09:40:35.872209,Service AppXSvc is Running.,No action needed unless new issues appear
+Services,ApxSvc,Stopped,Medium,2025-09-22T09:40:35.872215,"Service ""ApxSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,aspnet_state,Stopped,Medium,2025-09-22T09:40:35.872221,"Service ""aspnet_state"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AudioEndpointBuilder,Running,Low,2025-09-22T09:40:35.872226,Service AudioEndpointBuilder is Running.,No action needed unless new issues appear
+Services,Audiosrv,Running,Low,2025-09-22T09:40:35.872233,Service Audiosrv is Running.,No action needed unless new issues appear
+Services,autotimesvc,Stopped,Medium,2025-09-22T09:40:35.872239,"Service ""autotimesvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AxInstSV,Stopped,Medium,2025-09-22T09:40:35.872245,"Service ""AxInstSV"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BDESVC,Running,Low,2025-09-22T09:40:35.872250,Service BDESVC is Running.,No action needed unless new issues appear
+Services,BFE,Running,Low,2025-09-22T09:40:35.872256,Service BFE is Running.,No action needed unless new issues appear
+Services,BITS,Stopped,Medium,2025-09-22T09:40:35.872262,"Service ""BITS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BrokerInfrastructure,Running,Low,2025-09-22T09:40:35.872268,Service BrokerInfrastructure is Running.,No action needed unless new issues appear
+Services,Browser,Stopped,Medium,2025-09-22T09:40:35.872275,"Service ""Browser"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BTAGService,Stopped,Medium,2025-09-22T09:40:35.872280,"Service ""BTAGService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BthAvctpSvc,Stopped,Medium,2025-09-22T09:40:35.872286,"Service ""BthAvctpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,bthserv,Running,Low,2025-09-22T09:40:35.872292,Service bthserv is Running.,No action needed unless new issues appear
+Services,c2wts,Stopped,Medium,2025-09-22T09:40:35.872305,"Service ""c2wts"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,camsvc,Running,Low,2025-09-22T09:40:35.872311,Service camsvc is Running.,No action needed unless new issues appear
+Services,CDPSvc,Running,Low,2025-09-22T09:40:35.872317,Service CDPSvc is Running.,No action needed unless new issues appear
+Services,CertPropSvc,Running,Low,2025-09-22T09:40:35.872323,Service CertPropSvc is Running.,No action needed unless new issues appear
+Services,ClickToRunSvc,Running,Low,2025-09-22T09:40:35.872328,Service ClickToRunSvc is Running.,No action needed unless new issues appear
+Services,ClipSVC,Stopped,Medium,2025-09-22T09:40:35.872335,"Service ""ClipSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,COMSysApp,Stopped,Medium,2025-09-22T09:40:35.872344,"Service ""COMSysApp"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CoreMessagingRegistrar,Running,Low,2025-09-22T09:40:35.872350,Service CoreMessagingRegistrar is Running.,No action needed unless new issues appear
+Services,cplspcon,Running,Low,2025-09-22T09:40:35.872356,Service cplspcon is Running.,No action needed unless new issues appear
+Services,CryptSvc,Running,Low,2025-09-22T09:40:35.872362,Service CryptSvc is Running.,No action needed unless new issues appear
+Services,DcomLaunch,Running,Low,2025-09-22T09:40:35.872367,Service DcomLaunch is Running.,No action needed unless new issues appear
+Services,dcsvc,Stopped,Medium,2025-09-22T09:40:35.872373,"Service ""dcsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,debugregsvc,Stopped,Medium,2025-09-22T09:40:35.872379,"Service ""debugregsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,defragsvc,Stopped,Medium,2025-09-22T09:40:35.872385,"Service ""defragsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeveloperToolsService,Stopped,Medium,2025-09-22T09:40:35.872391,"Service ""DeveloperToolsService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationService,Running,Low,2025-09-22T09:40:35.872399,Service DeviceAssociationService is Running.,No action needed unless new issues appear
+Services,DeviceInstall,Stopped,Medium,2025-09-22T09:40:35.872405,"Service ""DeviceInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevQueryBroker,Stopped,Medium,2025-09-22T09:40:35.872411,"Service ""DevQueryBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dhcp,Running,Low,2025-09-22T09:40:35.872416,Service Dhcp is Running.,No action needed unless new issues appear
+Services,diagsvc,Stopped,Medium,2025-09-22T09:40:35.872422,"Service ""diagsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DiagTrack,Running,Low,2025-09-22T09:40:35.872428,Service DiagTrack is Running.,No action needed unless new issues appear
+Services,DispBrokerDesktopSvc,Running,Low,2025-09-22T09:40:35.872434,Service DispBrokerDesktopSvc is Running.,No action needed unless new issues appear
+Services,DisplayEnhancementService,Running,Low,2025-09-22T09:40:35.872440,Service DisplayEnhancementService is Running.,No action needed unless new issues appear
+Services,DmEnrollmentSvc,Stopped,Medium,2025-09-22T09:40:35.872446,"Service ""DmEnrollmentSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,dmwappushservice,Stopped,Medium,2025-09-22T09:40:35.872452,"Service ""dmwappushservice"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dnscache,Running,Low,2025-09-22T09:40:35.872458,Service Dnscache is Running.,No action needed unless new issues appear
+Services,DoSvc,Running,Low,2025-09-22T09:40:35.872464,Service DoSvc is Running.,No action needed unless new issues appear
+Services,dot3svc,Stopped,Medium,2025-09-22T09:40:35.872469,"Service ""dot3svc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DPS,Running,Low,2025-09-22T09:40:35.872475,Service DPS is Running.,No action needed unless new issues appear
+Services,DsmSvc,Stopped,Medium,2025-09-22T09:40:35.872481,"Service ""DsmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DsSvc,Stopped,Medium,2025-09-22T09:40:35.872487,"Service ""DsSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DummyService,Stopped,Medium,2025-09-22T09:40:35.872492,"Service ""DummyService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DusmSvc,Running,Low,2025-09-22T09:40:35.872498,Service DusmSvc is Running.,No action needed unless new issues appear
+Services,EapHost,Stopped,Medium,2025-09-22T09:40:35.872504,"Service ""EapHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdate,Stopped,Medium,2025-09-22T09:40:35.872510,"Service ""edgeupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdatem,Stopped,Medium,2025-09-22T09:40:35.872516,"Service ""edgeupdatem"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EFS,Stopped,Medium,2025-09-22T09:40:35.872522,"Service ""EFS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ELAN_MOC_Service,Running,Low,2025-09-22T09:40:35.872527,Service ELAN_MOC_Service is Running.,No action needed unless new issues appear
+Services,embeddedmode,Stopped,Medium,2025-09-22T09:40:35.872533,"Service ""embeddedmode"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EntAppSvc,Stopped,Medium,2025-09-22T09:40:35.872539,"Service ""EntAppSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,esifsvc,Running,Low,2025-09-22T09:40:35.872545,Service esifsvc is Running.,No action needed unless new issues appear
+Services,ETDService,Running,Low,2025-09-22T09:40:35.872551,Service ETDService is Running.,No action needed unless new issues appear
+Services,EventLog,Running,Low,2025-09-22T09:40:35.872557,Service EventLog is Running.,No action needed unless new issues appear
+Services,EventSystem,Running,Low,2025-09-22T09:40:35.872562,Service EventSystem is Running.,No action needed unless new issues appear
+Services,Fax,Stopped,Medium,2025-09-22T09:40:35.872568,"Service ""Fax"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fdPHost,Stopped,Medium,2025-09-22T09:40:35.872574,"Service ""fdPHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FDResPub,Stopped,Medium,2025-09-22T09:40:35.872580,"Service ""FDResPub"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fhsvc,Stopped,Medium,2025-09-22T09:40:35.872586,"Service ""fhsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FontCache,Running,Low,2025-09-22T09:40:35.872591,Service FontCache is Running.,No action needed unless new issues appear
+Services,FrameServer,Stopped,Medium,2025-09-22T09:40:35.872597,"Service ""FrameServer"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FrameServerMonitor,Stopped,Medium,2025-09-22T09:40:35.872603,"Service ""FrameServerMonitor"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fussvc,Stopped,Medium,2025-09-22T09:40:35.872609,"Service ""fussvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GameInputSvc,Stopped,Medium,2025-09-22T09:40:35.872619,"Service ""GameInputSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleChromeElevationService,Stopped,Medium,2025-09-22T09:40:35.872624,"Service ""GoogleChromeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterInternalService141.0.7376.0,Stopped,Medium,2025-09-22T09:40:35.872630,"Service ""GoogleUpdaterInternalService141.0.7376.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterService141.0.7376.0,Stopped,Medium,2025-09-22T09:40:35.872637,"Service ""GoogleUpdaterService141.0.7376.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,gpsvc,Running,Low,2025-09-22T09:40:35.872644,Service gpsvc is Running.,No action needed unless new issues appear
+Services,GraphicsPerfSvc,Stopped,Medium,2025-09-22T09:40:35.872649,"Service ""GraphicsPerfSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hidserv,Stopped,Medium,2025-09-22T09:40:35.872655,"Service ""hidserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hns,Running,Low,2025-09-22T09:40:35.872661,Service hns is Running.,No action needed unless new issues appear
+Services,HPAppHelperCap,Running,Low,2025-09-22T09:40:35.872667,Service HPAppHelperCap is Running.,No action needed unless new issues appear
+Services,hpatchmon,Stopped,Medium,2025-09-22T09:40:35.872673,"Service ""hpatchmon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,HPDiagsCap,Running,Low,2025-09-22T09:40:35.872679,Service HPDiagsCap is Running.,No action needed unless new issues appear
+Services,HPNetworkCap,Running,Low,2025-09-22T09:40:35.872684,Service HPNetworkCap is Running.,No action needed unless new issues appear
+Services,HPSysInfoCap,Running,Low,2025-09-22T09:40:35.872691,Service HPSysInfoCap is Running.,No action needed unless new issues appear
+Services,HpTouchpointAnalyticsService,Running,Low,2025-09-22T09:40:35.872696,Service HpTouchpointAnalyticsService is Running.,No action needed unless new issues appear
+Services,HvHost,Running,Low,2025-09-22T09:40:35.872703,Service HvHost is Running.,No action needed unless new issues appear
+Services,icssvc,Stopped,Medium,2025-09-22T09:40:35.872708,"Service ""icssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,igccservice,Running,Low,2025-09-22T09:40:35.872714,Service igccservice is Running.,No action needed unless new issues appear
+Services,igfxCUIService2.0.0.0,Running,Low,2025-09-22T09:40:35.872720,Service igfxCUIService2.0.0.0 is Running.,No action needed unless new issues appear
+Services,IKEEXT,Stopped,Medium,2025-09-22T09:40:35.872726,"Service ""IKEEXT"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,InstallService,Running,Low,2025-09-22T09:40:35.872732,Service InstallService is Running.,No action needed unless new issues appear
+Services,Intel(R) TPM Provisioning Service,Stopped,Medium,2025-09-22T09:40:35.872738,"Service ""Intel(R) TPM Provisioning Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,IntelAudioService,Running,Low,2025-09-22T09:40:35.872744,Service IntelAudioService is Running.,No action needed unless new issues appear
+Services,InventorySvc,Running,Low,2025-09-22T09:40:35.872750,Service InventorySvc is Running.,No action needed unless new issues appear
+Services,iphlpsvc,Running,Low,2025-09-22T09:40:35.872756,Service iphlpsvc is Running.,No action needed unless new issues appear
+Services,IpOverUsbSvc,Running,Low,2025-09-22T09:40:35.872762,Service IpOverUsbSvc is Running.,No action needed unless new issues appear
+Services,IpxlatCfgSvc,Stopped,Medium,2025-09-22T09:40:35.872771,"Service ""IpxlatCfgSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,jhi_service,Running,Low,2025-09-22T09:40:35.872779,Service jhi_service is Running.,No action needed unless new issues appear
+Services,KeyIso,Running,Low,2025-09-22T09:40:35.872785,Service KeyIso is Running.,No action needed unless new issues appear
+Services,KtmRm,Stopped,Medium,2025-09-22T09:40:35.872791,"Service ""KtmRm"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LanmanServer,Running,Low,2025-09-22T09:40:35.872797,Service LanmanServer is Running.,No action needed unless new issues appear
+Services,LanmanWorkstation,Running,Low,2025-09-22T09:40:35.872803,Service LanmanWorkstation is Running.,No action needed unless new issues appear
+Services,lfsvc,Running,Low,2025-09-22T09:40:35.872809,Service lfsvc is Running.,No action needed unless new issues appear
+Services,LicenseManager,Running,Low,2025-09-22T09:40:35.872815,Service LicenseManager is Running.,No action needed unless new issues appear
+Services,lltdsvc,Stopped,Medium,2025-09-22T09:40:35.872821,"Service ""lltdsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,lmhosts,Running,Low,2025-09-22T09:40:35.872827,Service lmhosts is Running.,No action needed unless new issues appear
+Services,LocalKdc,Stopped,Medium,2025-09-22T09:40:35.872833,"Service ""LocalKdc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LSM,Running,Low,2025-09-22T09:40:35.872844,Service LSM is Running.,No action needed unless new issues appear
+Services,LxpSvc,Stopped,Medium,2025-09-22T09:40:35.872851,"Service ""LxpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MapsBroker,Stopped,Medium,2025-09-22T09:40:35.872857,"Service ""MapsBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McmSvc,Stopped,Medium,2025-09-22T09:40:35.872863,"Service ""McmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McpManagementService,Stopped,Medium,2025-09-22T09:40:35.872869,"Service ""McpManagementService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MDCoreSvc,Stopped,Medium,2025-09-22T09:40:35.872874,"Service ""MDCoreSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MicrosoftEdgeElevationService,Stopped,Medium,2025-09-22T09:40:35.872880,"Service ""MicrosoftEdgeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MouseWithoutBordersSvc,Stopped,Medium,2025-09-22T09:40:35.872886,"Service ""MouseWithoutBordersSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,mpssvc,Running,Low,2025-09-22T09:40:35.872892,Service mpssvc is Running.,No action needed unless new issues appear
+Services,MSDTC,Stopped,Medium,2025-09-22T09:40:35.872899,"Service ""MSDTC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MSiSCSI,Stopped,Medium,2025-09-22T09:40:35.872905,"Service ""MSiSCSI"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,msiserver,Stopped,Medium,2025-09-22T09:40:35.872911,"Service ""msiserver"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MuseAuthService,Running,Low,2025-09-22T09:40:35.872916,Service MuseAuthService is Running.,No action needed unless new issues appear
+Services,MuseHubUpdaterService,Stopped,Medium,2025-09-22T09:40:35.872922,"Service ""MuseHubUpdaterService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NaturalAuthentication,Running,Low,2025-09-22T09:40:35.872931,Service NaturalAuthentication is Running.,No action needed unless new issues appear
+Services,NcaSvc,Stopped,Medium,2025-09-22T09:40:35.872937,"Service ""NcaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NcbService,Running,Low,2025-09-22T09:40:35.872943,Service NcbService is Running.,No action needed unless new issues appear
+Services,NcdAutoSetup,Stopped,Medium,2025-09-22T09:40:35.872949,"Service ""NcdAutoSetup"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netlogon,Stopped,Medium,2025-09-22T09:40:35.872955,"Service ""Netlogon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netman,Stopped,Medium,2025-09-22T09:40:35.872960,"Service ""Netman"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,netprofm,Running,Low,2025-09-22T09:40:35.872967,Service netprofm is Running.,No action needed unless new issues appear
+Services,NetSetupSvc,Stopped,Medium,2025-09-22T09:40:35.872973,"Service ""NetSetupSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NetTcpPortSharing,Stopped,Medium,2025-09-22T09:40:35.872978,"Service ""NetTcpPortSharing"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcCtnrSvc,Stopped,Medium,2025-09-22T09:40:35.872984,"Service ""NgcCtnrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcSvc,Stopped,Medium,2025-09-22T09:40:35.872990,"Service ""NgcSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NlaSvc,Stopped,Medium,2025-09-22T09:40:35.872996,"Service ""NlaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,nsi,Running,Low,2025-09-22T09:40:35.873005,Service nsi is Running.,No action needed unless new issues appear
+Services,nvagent,Running,Low,2025-09-22T09:40:35.873011,Service nvagent is Running.,No action needed unless new issues appear
+Services,ose,Stopped,Medium,2025-09-22T09:40:35.873017,"Service ""ose"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PcaSvc,Running,Low,2025-09-22T09:40:35.873023,Service PcaSvc is Running.,No action needed unless new issues appear
+Services,perceptionsimulation,Stopped,Medium,2025-09-22T09:40:35.873029,"Service ""perceptionsimulation"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PerfHost,Stopped,Medium,2025-09-22T09:40:35.873035,"Service ""PerfHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PhoneSvc,Stopped,Medium,2025-09-22T09:40:35.873041,"Service ""PhoneSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,pla,Stopped,Medium,2025-09-22T09:40:35.873050,"Service ""pla"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PlugPlay,Running,Low,2025-09-22T09:40:35.873056,Service PlugPlay is Running.,No action needed unless new issues appear
+Services,PolicyAgent,Stopped,Medium,2025-09-22T09:40:35.873062,"Service ""PolicyAgent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Power,Running,Low,2025-09-22T09:40:35.873068,Service Power is Running.,No action needed unless new issues appear
+Services,PrintDeviceConfigurationService,Stopped,Medium,2025-09-22T09:40:35.873074,"Service ""PrintDeviceConfigurationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintNotify,Stopped,Medium,2025-09-22T09:40:35.873080,"Service ""PrintNotify"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintScanBrokerService,Stopped,Medium,2025-09-22T09:40:35.873086,"Service ""PrintScanBrokerService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ProfSvc,Running,Low,2025-09-22T09:40:35.873093,Service ProfSvc is Running.,No action needed unless new issues appear
+Services,PushToInstall,Stopped,Medium,2025-09-22T09:40:35.873099,"Service ""PushToInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QHActiveDefense,Running,Low,2025-09-22T09:40:35.873105,Service QHActiveDefense is Running.,No action needed unless new issues appear
+Services,QHProtected,Stopped,Medium,2025-09-22T09:40:35.873111,"Service ""QHProtected"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QWAVE,Stopped,Medium,2025-09-22T09:40:35.873116,"Service ""QWAVE"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasAuto,Stopped,Medium,2025-09-22T09:40:35.873122,"Service ""RasAuto"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasMan,Running,Low,2025-09-22T09:40:35.873128,Service RasMan is Running.,No action needed unless new issues appear
+Services,refsdedupsvc,Stopped,Medium,2025-09-22T09:40:35.873134,"Service ""refsdedupsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteAccess,Stopped,Medium,2025-09-22T09:40:35.873140,"Service ""RemoteAccess"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteRegistry,Stopped,Medium,2025-09-22T09:40:35.873146,"Service ""RemoteRegistry"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RetailDemo,Stopped,Medium,2025-09-22T09:40:35.873151,"Service ""RetailDemo"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RmSvc,Running,Low,2025-09-22T09:40:35.873157,Service RmSvc is Running.,No action needed unless new issues appear
+Services,RpcEptMapper,Running,Low,2025-09-22T09:40:35.873163,Service RpcEptMapper is Running.,No action needed unless new issues appear
+Services,RpcLocator,Stopped,Medium,2025-09-22T09:40:35.873169,"Service ""RpcLocator"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RpcSs,Running,Low,2025-09-22T09:40:35.873175,Service RpcSs is Running.,No action needed unless new issues appear
+Services,RstMwService,Running,Low,2025-09-22T09:40:35.873181,Service RstMwService is Running.,No action needed unless new issues appear
+Services,RtkAudioUniversalService,Running,Low,2025-09-22T09:40:35.873187,Service RtkAudioUniversalService is Running.,No action needed unless new issues appear
+Services,SamSs,Running,Low,2025-09-22T09:40:35.873193,Service SamSs is Running.,No action needed unless new issues appear
+Services,SCardSvr,Stopped,Medium,2025-09-22T09:40:35.873199,"Service ""SCardSvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ScDeviceEnum,Stopped,Medium,2025-09-22T09:40:35.873205,"Service ""ScDeviceEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Schedule,Running,Low,2025-09-22T09:40:35.873210,Service Schedule is Running.,No action needed unless new issues appear
+Services,SCPolicySvc,Stopped,Medium,2025-09-22T09:40:35.873216,"Service ""SCPolicySvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SDRSVC,Stopped,Medium,2025-09-22T09:40:35.873222,"Service ""SDRSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,seclogon,Running,Low,2025-09-22T09:40:35.873228,Service seclogon is Running.,No action needed unless new issues appear
+Services,SECOMNService,Running,Low,2025-09-22T09:40:35.873235,Service SECOMNService is Running.,No action needed unless new issues appear
+Services,SecurityHealthService,Running,Low,2025-09-22T09:40:35.873241,Service SecurityHealthService is Running.,No action needed unless new issues appear
+Services,SEMgrSvc,Stopped,Medium,2025-09-22T09:40:35.873247,"Service ""SEMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SENS,Running,Low,2025-09-22T09:40:35.873253,Service SENS is Running.,No action needed unless new issues appear
+Services,SensorDataService,Stopped,Medium,2025-09-22T09:40:35.873259,"Service ""SensorDataService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensorService,Stopped,Medium,2025-09-22T09:40:35.873265,"Service ""SensorService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensrSvc,Stopped,Medium,2025-09-22T09:40:35.873271,"Service ""SensrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SessionEnv,Running,Low,2025-09-22T09:40:35.873277,Service SessionEnv is Running.,No action needed unless new issues appear
+Services,SharedAccess,Running,Low,2025-09-22T09:40:35.873282,Service SharedAccess is Running.,No action needed unless new issues appear
+Services,ShellHWDetection,Running,Low,2025-09-22T09:40:35.873288,Service ShellHWDetection is Running.,No action needed unless new issues appear
+Services,shpamsvc,Stopped,Medium,2025-09-22T09:40:35.873298,"Service ""shpamsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,smphost,Stopped,Medium,2025-09-22T09:40:35.873303,"Service ""smphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SmsRouter,Stopped,Medium,2025-09-22T09:40:35.873309,"Service ""SmsRouter"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SNMPTrap,Stopped,Medium,2025-09-22T09:40:35.873315,"Service ""SNMPTrap"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Spooler,Running,Low,2025-09-22T09:40:35.873321,Service Spooler is Running.,No action needed unless new issues appear
+Services,sppsvc,Running,Low,2025-09-22T09:40:35.873331,Service sppsvc is Running.,No action needed unless new issues appear
+Services,SQLWriter,Running,Low,2025-09-22T09:40:35.873336,Service SQLWriter is Running.,No action needed unless new issues appear
+Services,SSDPSRV,Running,Low,2025-09-22T09:40:35.873342,Service SSDPSRV is Running.,No action needed unless new issues appear
+Services,ssh-agent,Stopped,Medium,2025-09-22T09:40:35.873348,"Service ""ssh-agent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,sshd,Stopped,Medium,2025-09-22T09:40:35.873354,"Service ""sshd"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SshdBroker,Stopped,Medium,2025-09-22T09:40:35.873360,"Service ""SshdBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SstpSvc,Running,Low,2025-09-22T09:40:35.873366,Service SstpSvc is Running.,No action needed unless new issues appear
+Services,StateRepository,Running,Low,2025-09-22T09:40:35.873372,Service StateRepository is Running.,No action needed unless new issues appear
+Services,StiSvc,Running,Low,2025-09-22T09:40:35.873378,Service StiSvc is Running.,No action needed unless new issues appear
+Services,StorSvc,Running,Low,2025-09-22T09:40:35.873384,Service StorSvc is Running.,No action needed unless new issues appear
+Services,svsvc,Stopped,Medium,2025-09-22T09:40:35.873390,"Service ""svsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,swprv,Stopped,Medium,2025-09-22T09:40:35.873396,"Service ""swprv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SysMain,Running,Low,2025-09-22T09:40:35.873402,Service SysMain is Running.,No action needed unless new issues appear
+Services,SystemEventsBroker,Running,Low,2025-09-22T09:40:35.873408,Service SystemEventsBroker is Running.,No action needed unless new issues appear
+Services,TapiSrv,Running,Low,2025-09-22T09:40:35.873414,Service TapiSrv is Running.,No action needed unless new issues appear
+Services,Te.Service,Stopped,Medium,2025-09-22T09:40:35.873424,"Service ""Te.Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TermService,Running,Low,2025-09-22T09:40:35.873430,Service TermService is Running.,No action needed unless new issues appear
+Services,TextInputManagementService,Running,Low,2025-09-22T09:40:35.873436,Service TextInputManagementService is Running.,No action needed unless new issues appear
+Services,Themes,Running,Low,2025-09-22T09:40:35.873442,Service Themes is Running.,No action needed unless new issues appear
+Services,TieringEngineService,Stopped,Medium,2025-09-22T09:40:35.873448,"Service ""TieringEngineService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TimeBrokerSvc,Running,Low,2025-09-22T09:40:35.873454,Service TimeBrokerSvc is Running.,No action needed unless new issues appear
+Services,TokenBroker,Running,Low,2025-09-22T09:40:35.873460,Service TokenBroker is Running.,No action needed unless new issues appear
+Services,TrkWks,Running,Low,2025-09-22T09:40:35.873466,Service TrkWks is Running.,No action needed unless new issues appear
+Services,TroubleshootingSvc,Stopped,Medium,2025-09-22T09:40:35.873472,"Service ""TroubleshootingSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TrustedInstaller,Stopped,Medium,2025-09-22T09:40:35.873478,"Service ""TrustedInstaller"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TurboVPNService,Running,Low,2025-09-22T09:40:35.873484,Service TurboVPNService is Running.,No action needed unless new issues appear
+Services,tzautoupdate,Stopped,Medium,2025-09-22T09:40:35.873490,"Service ""tzautoupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UmRdpService,Running,Low,2025-09-22T09:40:35.873496,Service UmRdpService is Running.,No action needed unless new issues appear
+Services,upnphost,Stopped,Medium,2025-09-22T09:40:35.873502,"Service ""upnphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UserManager,Running,Low,2025-09-22T09:40:35.873508,Service UserManager is Running.,No action needed unless new issues appear
+Services,UsoSvc,Running,Low,2025-09-22T09:40:35.873514,Service UsoSvc is Running.,No action needed unless new issues appear
+Services,VaultSvc,Running,Low,2025-09-22T09:40:35.873520,Service VaultSvc is Running.,No action needed unless new issues appear
+Services,VBoxSDS,Stopped,Medium,2025-09-22T09:40:35.873525,"Service ""VBoxSDS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vds,Stopped,Medium,2025-09-22T09:40:35.873531,"Service ""vds"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmcompute,Stopped,Medium,2025-09-22T09:40:35.873538,"Service ""vmcompute"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicguestinterface,Stopped,Medium,2025-09-22T09:40:35.873544,"Service ""vmicguestinterface"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicheartbeat,Stopped,Medium,2025-09-22T09:40:35.873550,"Service ""vmicheartbeat"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmickvpexchange,Stopped,Medium,2025-09-22T09:40:35.873555,"Service ""vmickvpexchange"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicrdv,Stopped,Medium,2025-09-22T09:40:35.873562,"Service ""vmicrdv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicshutdown,Stopped,Medium,2025-09-22T09:40:35.873567,"Service ""vmicshutdown"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmictimesync,Stopped,Medium,2025-09-22T09:40:35.873573,"Service ""vmictimesync"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvmsession,Stopped,Medium,2025-09-22T09:40:35.873579,"Service ""vmicvmsession"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvss,Stopped,Medium,2025-09-22T09:40:35.873585,"Service ""vmicvss"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VsEtwService120,Stopped,Medium,2025-09-22T09:40:35.873591,"Service ""VsEtwService120"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VSS,Stopped,Medium,2025-09-22T09:40:35.873597,"Service ""VSS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,W32Time,Stopped,Medium,2025-09-22T09:40:35.873603,"Service ""W32Time"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WaaSMedicSvc,Stopped,Medium,2025-09-22T09:40:35.873609,"Service ""WaaSMedicSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WalletService,Stopped,Medium,2025-09-22T09:40:35.873615,"Service ""WalletService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WarpJITSvc,Stopped,Medium,2025-09-22T09:40:35.873621,"Service ""WarpJITSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wbengine,Stopped,Medium,2025-09-22T09:40:35.873626,"Service ""wbengine"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WbioSrvc,Stopped,Medium,2025-09-22T09:40:35.873632,"Service ""WbioSrvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Wcmsvc,Running,Low,2025-09-22T09:40:35.873638,Service Wcmsvc is Running.,No action needed unless new issues appear
+Services,wcncsvc,Stopped,Medium,2025-09-22T09:40:35.873645,"Service ""wcncsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiServiceHost,Running,Low,2025-09-22T09:40:35.873651,Service WdiServiceHost is Running.,No action needed unless new issues appear
+Services,WdiSystemHost,Running,Low,2025-09-22T09:40:35.873657,Service WdiSystemHost is Running.,No action needed unless new issues appear
+Services,WdNisSvc,Stopped,Medium,2025-09-22T09:40:35.873662,"Service ""WdNisSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebClient,Stopped,Medium,2025-09-22T09:40:35.873668,"Service ""WebClient"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebManagement,Running,Low,2025-09-22T09:40:35.873674,Service WebManagement is Running.,No action needed unless new issues appear
+Services,webthreatdefsvc,Running,Low,2025-09-22T09:40:35.873680,Service webthreatdefsvc is Running.,No action needed unless new issues appear
+Services,Wecsvc,Stopped,Medium,2025-09-22T09:40:35.873687,"Service ""Wecsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WEPHOSTSVC,Stopped,Medium,2025-09-22T09:40:35.873692,"Service ""WEPHOSTSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wercplsupport,Stopped,Medium,2025-09-22T09:40:35.873698,"Service ""wercplsupport"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WerSvc,Stopped,Medium,2025-09-22T09:40:35.873704,"Service ""WerSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WFDSConMgrSvc,Stopped,Medium,2025-09-22T09:40:35.873710,"Service ""WFDSConMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,whesvc,Running,Low,2025-09-22T09:40:35.873716,Service whesvc is Running.,No action needed unless new issues appear
+Services,WiaRpc,Stopped,Medium,2025-09-22T09:40:35.873722,"Service ""WiaRpc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinDefend,Stopped,Medium,2025-09-22T09:40:35.873728,"Service ""WinDefend"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinHttpAutoProxySvc,Running,Low,2025-09-22T09:40:35.873734,Service WinHttpAutoProxySvc is Running.,No action needed unless new issues appear
+Services,Winmgmt,Running,Low,2025-09-22T09:40:35.873740,Service Winmgmt is Running.,No action needed unless new issues appear
+Services,WinRM,Stopped,Medium,2025-09-22T09:40:35.873746,"Service ""WinRM"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wisvc,Stopped,Medium,2025-09-22T09:40:35.873752,"Service ""wisvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WlanSvc,Running,Low,2025-09-22T09:40:35.873758,Service WlanSvc is Running.,No action needed unless new issues appear
+Services,wlidsvc,Running,Low,2025-09-22T09:40:35.873765,Service wlidsvc is Running.,No action needed unless new issues appear
+Services,wlpasvc,Stopped,Medium,2025-09-22T09:40:35.873770,"Service ""wlpasvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WManSvc,Stopped,Medium,2025-09-22T09:40:35.873776,"Service ""WManSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wmiApSrv,Stopped,Medium,2025-09-22T09:40:35.873782,"Service ""wmiApSrv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WMIRegistrationService,Running,Low,2025-09-22T09:40:35.873788,Service WMIRegistrationService is Running.,No action needed unless new issues appear
+Services,WMPNetworkSvc,Stopped,Medium,2025-09-22T09:40:35.873794,"Service ""WMPNetworkSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,workfolderssvc,Stopped,Medium,2025-09-22T09:40:35.873800,"Service ""workfolderssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpcMonSvc,Stopped,Medium,2025-09-22T09:40:35.873806,"Service ""WpcMonSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WPDBusEnum,Stopped,Medium,2025-09-22T09:40:35.873812,"Service ""WPDBusEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpnService,Running,Low,2025-09-22T09:40:35.873819,Service WpnService is Running.,No action needed unless new issues appear
+Services,wpscloudsvr,Stopped,Medium,2025-09-22T09:40:35.873825,"Service ""wpscloudsvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WSAIFabricSvc,Running,Low,2025-09-22T09:40:35.873831,Service WSAIFabricSvc is Running.,No action needed unless new issues appear
+Services,wscsvc,Running,Low,2025-09-22T09:40:35.873837,Service wscsvc is Running.,No action needed unless new issues appear
+Services,WSearch,Running,Low,2025-09-22T09:40:35.873843,Service WSearch is Running.,No action needed unless new issues appear
+Services,WSLService,Running,Low,2025-09-22T09:40:35.873849,Service WSLService is Running.,No action needed unless new issues appear
+Services,wuauserv,Running,Low,2025-09-22T09:40:35.873855,Service wuauserv is Running.,No action needed unless new issues appear
+Services,WwanSvc,Stopped,Medium,2025-09-22T09:40:35.873861,"Service ""WwanSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XblAuthManager,Running,Low,2025-09-22T09:40:35.873867,Service XblAuthManager is Running.,No action needed unless new issues appear
+Services,XblGameSave,Stopped,Medium,2025-09-22T09:40:35.873874,"Service ""XblGameSave"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxGipSvc,Stopped,Medium,2025-09-22T09:40:35.873880,"Service ""XboxGipSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxNetApiSvc,Stopped,Medium,2025-09-22T09:40:35.873886,"Service ""XboxNetApiSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AarSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.873892,"Service ""AarSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BcastDVRUserService_46e4d,Running,Low,2025-09-22T09:40:35.873898,Service BcastDVRUserService_46e4d is Running.,No action needed unless new issues appear
+Services,BluetoothUserService_46e4d,Stopped,Medium,2025-09-22T09:40:35.873904,"Service ""BluetoothUserService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CaptureService_46e4d,Stopped,Medium,2025-09-22T09:40:35.873910,"Service ""CaptureService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,cbdhsvc_46e4d,Running,Low,2025-09-22T09:40:35.873916,Service cbdhsvc_46e4d is Running.,No action needed unless new issues appear
+Services,CDPUserSvc_46e4d,Running,Low,2025-09-22T09:40:35.873922,Service CDPUserSvc_46e4d is Running.,No action needed unless new issues appear
+Services,CloudBackupRestoreSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.873928,"Service ""CloudBackupRestoreSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ConsentUxUserSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.873934,"Service ""ConsentUxUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CredentialEnrollmentManagerUserSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.873940,"Service ""CredentialEnrollmentManagerUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationBrokerSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.873946,"Service ""DeviceAssociationBrokerSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicePickerUserSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.873952,"Service ""DevicePickerUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicesFlowUserSvc_46e4d,Running,Low,2025-09-22T09:40:35.873958,Service DevicesFlowUserSvc_46e4d is Running.,No action needed unless new issues appear
+Services,MessagingService_46e4d,Stopped,Medium,2025-09-22T09:40:35.873964,"Service ""MessagingService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NPSMSvc_46e4d,Running,Low,2025-09-22T09:40:35.873970,Service NPSMSvc_46e4d is Running.,No action needed unless new issues appear
+Services,OneSyncSvc_46e4d,Running,Low,2025-09-22T09:40:35.873976,Service OneSyncSvc_46e4d is Running.,No action needed unless new issues appear
+Services,P9RdrService_46e4d,Stopped,Medium,2025-09-22T09:40:35.873982,"Service ""P9RdrService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PenService_46e4d,Stopped,Medium,2025-09-22T09:40:35.873988,"Service ""PenService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PimIndexMaintenanceSvc_46e4d,Running,Low,2025-09-22T09:40:35.873994,Service PimIndexMaintenanceSvc_46e4d is Running.,No action needed unless new issues appear
+Services,PrintWorkflowUserSvc_46e4d,Stopped,Medium,2025-09-22T09:40:35.874000,"Service ""PrintWorkflowUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UdkUserSvc_46e4d,Running,Low,2025-09-22T09:40:35.874006,Service UdkUserSvc_46e4d is Running.,No action needed unless new issues appear
+Services,UnistoreSvc_46e4d,Running,Low,2025-09-22T09:40:35.874012,Service UnistoreSvc_46e4d is Running.,No action needed unless new issues appear
+Services,UserDataSvc_46e4d,Running,Low,2025-09-22T09:40:35.874018,Service UserDataSvc_46e4d is Running.,No action needed unless new issues appear
+Services,WebManagementUser_46e4d,Running,Low,2025-09-22T09:40:35.874024,Service WebManagementUser_46e4d is Running.,No action needed unless new issues appear
+Services,webthreatdefusersvc_46e4d,Running,Low,2025-09-22T09:40:35.874030,Service webthreatdefusersvc_46e4d is Running.,No action needed unless new issues appear
+Services,WpnUserService_46e4d,Running,Low,2025-09-22T09:40:35.874036,Service WpnUserService_46e4d is Running.,No action needed unless new issues appear

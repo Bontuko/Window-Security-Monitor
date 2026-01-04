@@ -1,0 +1,235 @@
+{
+  "System": {
+    "Uptime": {
+      "thresholds": {
+        "low": {
+          "maxDays": 7
+        },
+        "medium": {
+          "maxDays": 30
+        },
+        "high": {}
+      },
+      "explanations": {
+        "low": "System uptime is {state}; within acceptable range.",
+        "medium": "System uptime is {state}; exceeds {lowMax} days, consider a reboot to apply security patches.",
+        "high": "System uptime is {state}; over {medMax} days without reboot. Security patches may be pending."
+      }
+    },
+    "Defender": {
+      "severity": "High",
+      "match": {
+        "stateIn": [
+          "Disabled",
+          "Off",
+          "Not Running"
+        ]
+      },
+      "explanation": "Windows Defender is disabled. System is unprotected from malware."
+    },
+    "Firewall": {
+      "severity": "High",
+      "match": {
+        "stateIn": [
+          "Disabled",
+          "Off"
+        ]
+      },
+      "explanation": "Windows Firewall is disabled. System is exposed to network attacks."
+    }
+  },
+  "Services": {
+    "default": {
+      "severity": "Low",
+      "explanation": "Service {name} is {state}."
+    },
+    "auto_not_running": {
+      "severity": "Medium",
+      "match": {
+        "startMode": "Auto",
+        "stateNot": "Running"
+      },
+      "explanation": "Auto-start service {name} is not running. Dependent features may fail."
+    },
+    "suspicious_path": {
+      "severity": "High",
+      "match": {
+        "pathContains": [
+          "\\temp\\",
+          "\\appdata\\",
+          "\\downloads\\",
+          "\\public\\"
+        ]
+      },
+      "explanation": "Service {name} runs from suspicious location: {path}. Potential malware."
+    }
+  },
+  "Tasks": {
+    "default": {
+      "severity": "Low",
+      "explanation": "Scheduled task {name} status is {state}."
+    },
+    "error_states": {
+      "severity": "High",
+      "match": {
+        "stateIn": [
+          "Unknown",
+          "Could not start"
+        ]
+      },
+      "explanation": "Scheduled task {name} is in error state: {state}. May indicate system issue or malware."
+    },
+    "not_ready": {
+      "severity": "Medium",
+      "match": {
+        "stateNot": "Ready"
+      },
+      "explanation": "Scheduled task {name} status is {state}. Check if this is expected."
+    }
+  },
+  "WMI": {
+    "default": {
+      "severity": "Medium",
+      "explanation": "WMI binding {name} detected. WMI persistence is commonly used by malware."
+    },
+    "consumer_binding": {
+      "severity": "High",
+      "match": {
+        "hasConsumer": true
+      },
+      "explanation": "WMI event-to-consumer binding {name} detected. This is a common malware persistence technique."
+    }
+  },
+  "Startup": {
+    "default": {
+      "severity": "Low",
+      "explanation": "Startup item {name} configured to run at boot."
+    },
+    "suspicious_location": {
+      "severity": "High",
+      "match": {
+        "pathContains": [
+          "\\temp\\",
+          "\\downloads\\",
+          "\\public\\",
+          "\\appdata\\local\\temp"
+        ]
+      },
+      "explanation": "Startup item {name} runs from suspicious location. Likely malware."
+    },
+    "script_execution": {
+      "severity": "Medium",
+      "match": {
+        "pathContains": [
+          ".vbs",
+          ".js",
+          ".ps1",
+          ".bat",
+          "powershell",
+          "wscript",
+          "cscript"
+        ]
+      },
+      "explanation": "Startup item {name} executes a script. Verify this is legitimate."
+    }
+  },
+  "Network": {
+    "default": {
+      "severity": "Low",
+      "explanation": "Network connection from {name}."
+    },
+    "suspicious_port": {
+      "severity": "High",
+      "match": {
+        "portIn": [
+          4444,
+          5555,
+          6666,
+          6667,
+          1337,
+          31337,
+          12345,
+          27374
+        ]
+      },
+      "explanation": "Connection to suspicious port detected. Common malware/hacking tool port."
+    },
+    "external_connection": {
+      "severity": "Medium",
+      "match": {
+        "isExternal": true
+      },
+      "explanation": "External network connection from {name}. Verify this is expected behavior."
+    }
+  },
+  "Process": {
+    "default": {
+      "severity": "Low",
+      "explanation": "Process {name} is running normally."
+    },
+    "suspicious_tool": {
+      "severity": "High",
+      "match": {
+        "nameContains": [
+          "mimikatz",
+          "lazagne",
+          "procdump",
+          "netcat",
+          "nc.exe"
+        ]
+      },
+      "explanation": "Suspicious security tool {name} detected. Potential attacker activity."
+    },
+    "suspicious_path": {
+      "severity": "High",
+      "match": {
+        "pathContains": [
+          "\\temp\\",
+          "\\downloads\\",
+          "\\public\\"
+        ]
+      },
+      "explanation": "Process {name} running from suspicious location. Potential malware."
+    },
+    "high_resource": {
+      "severity": "Medium",
+      "match": {
+        "cpuAbove": 80,
+        "memoryAbove": 50
+      },
+      "explanation": "Process {name} consuming high resources. May be cryptominer or resource abuse."
+    }
+  },
+  "Registry": {
+    "default": {
+      "severity": "Low",
+      "explanation": "Registry entry {name} in {location}."
+    },
+    "script_execution": {
+      "severity": "High",
+      "match": {
+        "valueContains": [
+          "powershell",
+          "cmd /c",
+          "wscript",
+          "cscript",
+          "mshta",
+          "-enc",
+          "bypass"
+        ]
+      },
+      "explanation": "Registry persistence with script execution: {name}. Common malware technique."
+    },
+    "suspicious_path": {
+      "severity": "High",
+      "match": {
+        "valueContains": [
+          "\\temp\\",
+          "\\appdata\\local\\temp",
+          "\\downloads\\"
+        ]
+      },
+      "explanation": "Registry entry {name} points to suspicious location. Potential malware persistence."
+    }
+  }
+}

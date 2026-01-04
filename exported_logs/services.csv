@@ -1,0 +1,4 @@
+Module,Name,Status,Severity,Timestamp
+Services,Windows Update,C:\Windows\System32\svchost.exe,Low,2025-09-21T17:44:42.674569
+Services,RateService,C:\Malware\rat.exe,High,2025-09-21T17:44:42.674608
+Services,smss.exe,C:\Windows\System32\smss.exe,Medium,2025-09-21T17:44:42.674625

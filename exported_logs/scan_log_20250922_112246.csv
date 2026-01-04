@@ -1,0 +1,875 @@
+Module,Name,Status,Severity,Timestamp,Explanation,Recommendation
+Services,AdobeUpdateService,Running,,2025-09-22T11:19:49.052692,Service AdobeUpdateService is Running.,Manual review recommended
+Services,ADPSvc,Stopped,,2025-09-22T11:19:49.052764,"Service ""ADPSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ALG,Stopped,,2025-09-22T11:19:49.052776,"Service ""ALG"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppIDSvc,Stopped,,2025-09-22T11:19:49.052785,"Service ""AppIDSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Appinfo,Running,,2025-09-22T11:19:49.052793,Service Appinfo is Running.,Manual review recommended
+Services,AppReadiness,Stopped,,2025-09-22T11:19:49.052803,"Service ""AppReadiness"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppXSvc,Stopped,,2025-09-22T11:19:49.052811,"Service ""AppXSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ApxSvc,Stopped,,2025-09-22T11:19:49.052818,"Service ""ApxSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,aspnet_state,Stopped,,2025-09-22T11:19:49.052826,"Service ""aspnet_state"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AudioEndpointBuilder,Running,,2025-09-22T11:19:49.052833,Service AudioEndpointBuilder is Running.,Manual review recommended
+Services,Audiosrv,Running,,2025-09-22T11:19:49.052841,Service Audiosrv is Running.,Manual review recommended
+Services,autotimesvc,Stopped,,2025-09-22T11:19:49.052849,"Service ""autotimesvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AxInstSV,Stopped,,2025-09-22T11:19:49.052857,"Service ""AxInstSV"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BDESVC,Running,,2025-09-22T11:19:49.052864,Service BDESVC is Running.,Manual review recommended
+Services,BFE,Running,,2025-09-22T11:19:49.052871,Service BFE is Running.,Manual review recommended
+Services,BITS,Stopped,,2025-09-22T11:19:49.052879,"Service ""BITS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BrokerInfrastructure,Running,,2025-09-22T11:19:49.052887,Service BrokerInfrastructure is Running.,Manual review recommended
+Services,Browser,Stopped,,2025-09-22T11:19:49.052894,"Service ""Browser"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BTAGService,Stopped,,2025-09-22T11:19:49.052902,"Service ""BTAGService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BthAvctpSvc,Stopped,,2025-09-22T11:19:49.052909,"Service ""BthAvctpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,bthserv,Running,,2025-09-22T11:19:49.052917,Service bthserv is Running.,Manual review recommended
+Services,c2wts,Stopped,,2025-09-22T11:19:49.052924,"Service ""c2wts"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,camsvc,Running,,2025-09-22T11:19:49.052932,Service camsvc is Running.,Manual review recommended
+Services,CDPSvc,Running,,2025-09-22T11:19:49.052939,Service CDPSvc is Running.,Manual review recommended
+Services,CertPropSvc,Running,,2025-09-22T11:19:49.052947,Service CertPropSvc is Running.,Manual review recommended
+Services,ClickToRunSvc,Running,,2025-09-22T11:19:49.052955,Service ClickToRunSvc is Running.,Manual review recommended
+Services,ClipSVC,Stopped,,2025-09-22T11:19:49.052963,"Service ""ClipSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,COMSysApp,Stopped,,2025-09-22T11:19:49.052970,"Service ""COMSysApp"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CoreMessagingRegistrar,Running,,2025-09-22T11:19:49.052977,Service CoreMessagingRegistrar is Running.,Manual review recommended
+Services,cplspcon,Running,,2025-09-22T11:19:49.052986,Service cplspcon is Running.,Manual review recommended
+Services,CryptSvc,Running,,2025-09-22T11:19:49.052994,Service CryptSvc is Running.,Manual review recommended
+Services,DcomLaunch,Running,,2025-09-22T11:19:49.053001,Service DcomLaunch is Running.,Manual review recommended
+Services,dcsvc,Stopped,,2025-09-22T11:19:49.053009,"Service ""dcsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,debugregsvc,Stopped,,2025-09-22T11:19:49.053016,"Service ""debugregsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,defragsvc,Stopped,,2025-09-22T11:19:49.053024,"Service ""defragsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeveloperToolsService,Stopped,,2025-09-22T11:19:49.053031,"Service ""DeveloperToolsService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationService,Running,,2025-09-22T11:19:49.053038,Service DeviceAssociationService is Running.,Manual review recommended
+Services,DeviceInstall,Stopped,,2025-09-22T11:19:49.053046,"Service ""DeviceInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevQueryBroker,Stopped,,2025-09-22T11:19:49.053053,"Service ""DevQueryBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dhcp,Running,,2025-09-22T11:19:49.053061,Service Dhcp is Running.,Manual review recommended
+Services,diagsvc,Stopped,,2025-09-22T11:19:49.053069,"Service ""diagsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DiagTrack,Running,,2025-09-22T11:19:49.053077,Service DiagTrack is Running.,Manual review recommended
+Services,DispBrokerDesktopSvc,Running,,2025-09-22T11:19:49.053084,Service DispBrokerDesktopSvc is Running.,Manual review recommended
+Services,DisplayEnhancementService,Running,,2025-09-22T11:19:49.053092,Service DisplayEnhancementService is Running.,Manual review recommended
+Services,DmEnrollmentSvc,Stopped,,2025-09-22T11:19:49.053100,"Service ""DmEnrollmentSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,dmwappushservice,Stopped,,2025-09-22T11:19:49.053108,"Service ""dmwappushservice"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dnscache,Running,,2025-09-22T11:19:49.053115,Service Dnscache is Running.,Manual review recommended
+Services,DoSvc,Running,,2025-09-22T11:19:49.053122,Service DoSvc is Running.,Manual review recommended
+Services,dot3svc,Stopped,,2025-09-22T11:19:49.053130,"Service ""dot3svc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DPS,Running,,2025-09-22T11:19:49.053137,Service DPS is Running.,Manual review recommended
+Services,DsmSvc,Stopped,,2025-09-22T11:19:49.053145,"Service ""DsmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DsSvc,Stopped,,2025-09-22T11:19:49.053153,"Service ""DsSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DummyService,Stopped,,2025-09-22T11:19:49.053160,"Service ""DummyService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DusmSvc,Running,,2025-09-22T11:19:49.053168,Service DusmSvc is Running.,Manual review recommended
+Services,EapHost,Stopped,,2025-09-22T11:19:49.053176,"Service ""EapHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdate,Stopped,,2025-09-22T11:19:49.053184,"Service ""edgeupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdatem,Stopped,,2025-09-22T11:19:49.053192,"Service ""edgeupdatem"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EFS,Stopped,,2025-09-22T11:19:49.053200,"Service ""EFS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ELAN_MOC_Service,Running,,2025-09-22T11:19:49.053207,Service ELAN_MOC_Service is Running.,Manual review recommended
+Services,embeddedmode,Stopped,,2025-09-22T11:19:49.053215,"Service ""embeddedmode"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EntAppSvc,Stopped,,2025-09-22T11:19:49.053223,"Service ""EntAppSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,esifsvc,Running,,2025-09-22T11:19:49.053235,Service esifsvc is Running.,Manual review recommended
+Services,ETDService,Running,,2025-09-22T11:19:49.053246,Service ETDService is Running.,Manual review recommended
+Services,EventLog,Running,,2025-09-22T11:19:49.053257,Service EventLog is Running.,Manual review recommended
+Services,EventSystem,Running,,2025-09-22T11:19:49.053267,Service EventSystem is Running.,Manual review recommended
+Services,Fax,Stopped,,2025-09-22T11:19:49.053289,"Service ""Fax"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fdPHost,Stopped,,2025-09-22T11:19:49.053299,"Service ""fdPHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FDResPub,Stopped,,2025-09-22T11:19:49.053309,"Service ""FDResPub"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fhsvc,Stopped,,2025-09-22T11:19:49.053319,"Service ""fhsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FontCache,Running,,2025-09-22T11:19:49.053329,Service FontCache is Running.,Manual review recommended
+Services,FrameServer,Stopped,,2025-09-22T11:19:49.053340,"Service ""FrameServer"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FrameServerMonitor,Stopped,,2025-09-22T11:19:49.053354,"Service ""FrameServerMonitor"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fussvc,Stopped,,2025-09-22T11:19:49.053391,"Service ""fussvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GameInputSvc,Stopped,,2025-09-22T11:19:49.053447,"Service ""GameInputSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleChromeElevationService,Stopped,,2025-09-22T11:19:49.053463,"Service ""GoogleChromeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterInternalService141.0.7376.0,Stopped,,2025-09-22T11:19:49.053476,"Service ""GoogleUpdaterInternalService141.0.7376.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterService141.0.7376.0,Stopped,,2025-09-22T11:19:49.053487,"Service ""GoogleUpdaterService141.0.7376.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,gpsvc,Running,,2025-09-22T11:19:49.053500,Service gpsvc is Running.,Manual review recommended
+Services,GraphicsPerfSvc,Stopped,,2025-09-22T11:19:49.053512,"Service ""GraphicsPerfSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hidserv,Stopped,,2025-09-22T11:19:49.053523,"Service ""hidserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hns,Running,,2025-09-22T11:19:49.053555,Service hns is Running.,Manual review recommended
+Services,HPAppHelperCap,Running,,2025-09-22T11:19:49.053567,Service HPAppHelperCap is Running.,Manual review recommended
+Services,hpatchmon,Stopped,,2025-09-22T11:19:49.053580,"Service ""hpatchmon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,HPDiagsCap,Running,,2025-09-22T11:19:49.053594,Service HPDiagsCap is Running.,Manual review recommended
+Services,HPNetworkCap,Running,,2025-09-22T11:19:49.053607,Service HPNetworkCap is Running.,Manual review recommended
+Services,HPSysInfoCap,Running,,2025-09-22T11:19:49.053618,Service HPSysInfoCap is Running.,Manual review recommended
+Services,HpTouchpointAnalyticsService,Running,,2025-09-22T11:19:49.053632,Service HpTouchpointAnalyticsService is Running.,Manual review recommended
+Services,HvHost,Running,,2025-09-22T11:19:49.053647,Service HvHost is Running.,Manual review recommended
+Services,icssvc,Stopped,,2025-09-22T11:19:49.053661,"Service ""icssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,igccservice,Running,,2025-09-22T11:19:49.053675,Service igccservice is Running.,Manual review recommended
+Services,igfxCUIService2.0.0.0,Running,,2025-09-22T11:19:49.053688,Service igfxCUIService2.0.0.0 is Running.,Manual review recommended
+Services,IKEEXT,Stopped,,2025-09-22T11:19:49.053701,"Service ""IKEEXT"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,InstallService,Running,,2025-09-22T11:19:49.053712,Service InstallService is Running.,Manual review recommended
+Services,Intel(R) TPM Provisioning Service,Stopped,,2025-09-22T11:19:49.053725,"Service ""Intel(R) TPM Provisioning Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,IntelAudioService,Running,,2025-09-22T11:19:49.053736,Service IntelAudioService is Running.,Manual review recommended
+Services,InventorySvc,Running,,2025-09-22T11:19:49.053744,Service InventorySvc is Running.,Manual review recommended
+Services,iphlpsvc,Running,,2025-09-22T11:19:49.053753,Service iphlpsvc is Running.,Manual review recommended
+Services,IpOverUsbSvc,Running,,2025-09-22T11:19:49.053761,Service IpOverUsbSvc is Running.,Manual review recommended
+Services,IpxlatCfgSvc,Stopped,,2025-09-22T11:19:49.053769,"Service ""IpxlatCfgSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,jhi_service,Running,,2025-09-22T11:19:49.053776,Service jhi_service is Running.,Manual review recommended
+Services,KeyIso,Running,,2025-09-22T11:19:49.053784,Service KeyIso is Running.,Manual review recommended
+Services,KtmRm,Stopped,,2025-09-22T11:19:49.053792,"Service ""KtmRm"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LanmanServer,Running,,2025-09-22T11:19:49.053800,Service LanmanServer is Running.,Manual review recommended
+Services,LanmanWorkstation,Running,,2025-09-22T11:19:49.053807,Service LanmanWorkstation is Running.,Manual review recommended
+Services,lfsvc,Running,,2025-09-22T11:19:49.053815,Service lfsvc is Running.,Manual review recommended
+Services,LicenseManager,Running,,2025-09-22T11:19:49.053823,Service LicenseManager is Running.,Manual review recommended
+Services,lltdsvc,Stopped,,2025-09-22T11:19:49.053831,"Service ""lltdsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,lmhosts,Running,,2025-09-22T11:19:49.053838,Service lmhosts is Running.,Manual review recommended
+Services,LocalKdc,Stopped,,2025-09-22T11:19:49.053847,"Service ""LocalKdc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LSM,Running,,2025-09-22T11:19:49.053855,Service LSM is Running.,Manual review recommended
+Services,LxpSvc,Stopped,,2025-09-22T11:19:49.053863,"Service ""LxpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MapsBroker,Stopped,,2025-09-22T11:19:49.053871,"Service ""MapsBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McmSvc,Stopped,,2025-09-22T11:19:49.053878,"Service ""McmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McpManagementService,Stopped,,2025-09-22T11:19:49.053885,"Service ""McpManagementService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MDCoreSvc,Stopped,,2025-09-22T11:19:49.053893,"Service ""MDCoreSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MicrosoftEdgeElevationService,Stopped,,2025-09-22T11:19:49.053902,"Service ""MicrosoftEdgeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MouseWithoutBordersSvc,Stopped,,2025-09-22T11:19:49.053969,"Service ""MouseWithoutBordersSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,mpssvc,Running,,2025-09-22T11:19:49.053977,Service mpssvc is Running.,Manual review recommended
+Services,MSDTC,Stopped,,2025-09-22T11:19:49.053985,"Service ""MSDTC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MSiSCSI,Stopped,,2025-09-22T11:19:49.053993,"Service ""MSiSCSI"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,msiserver,Stopped,,2025-09-22T11:19:49.054001,"Service ""msiserver"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MuseAuthService,Running,,2025-09-22T11:19:49.054009,Service MuseAuthService is Running.,Manual review recommended
+Services,MuseHubUpdaterService,Stopped,,2025-09-22T11:19:49.054017,"Service ""MuseHubUpdaterService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NaturalAuthentication,Running,,2025-09-22T11:19:49.054025,Service NaturalAuthentication is Running.,Manual review recommended
+Services,NcaSvc,Stopped,,2025-09-22T11:19:49.054034,"Service ""NcaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NcbService,Running,,2025-09-22T11:19:49.054041,Service NcbService is Running.,Manual review recommended
+Services,NcdAutoSetup,Stopped,,2025-09-22T11:19:49.054049,"Service ""NcdAutoSetup"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netlogon,Stopped,,2025-09-22T11:19:49.054063,"Service ""Netlogon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netman,Stopped,,2025-09-22T11:19:49.054071,"Service ""Netman"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,netprofm,Running,,2025-09-22T11:19:49.054079,Service netprofm is Running.,Manual review recommended
+Services,NetSetupSvc,Stopped,,2025-09-22T11:19:49.054087,"Service ""NetSetupSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NetTcpPortSharing,Stopped,,2025-09-22T11:19:49.054095,"Service ""NetTcpPortSharing"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcCtnrSvc,Stopped,,2025-09-22T11:19:49.054103,"Service ""NgcCtnrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcSvc,Stopped,,2025-09-22T11:19:49.054111,"Service ""NgcSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NlaSvc,Stopped,,2025-09-22T11:19:49.054119,"Service ""NlaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,nsi,Running,,2025-09-22T11:19:49.054127,Service nsi is Running.,Manual review recommended
+Services,nvagent,Running,,2025-09-22T11:19:49.054135,Service nvagent is Running.,Manual review recommended
+Services,ose,Stopped,,2025-09-22T11:19:49.054143,"Service ""ose"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PcaSvc,Running,,2025-09-22T11:19:49.054151,Service PcaSvc is Running.,Manual review recommended
+Services,perceptionsimulation,Stopped,,2025-09-22T11:19:49.054170,"Service ""perceptionsimulation"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PerfHost,Stopped,,2025-09-22T11:19:49.054178,"Service ""PerfHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PhoneSvc,Stopped,,2025-09-22T11:19:49.054186,"Service ""PhoneSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,pla,Stopped,,2025-09-22T11:19:49.054194,"Service ""pla"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PlugPlay,Running,,2025-09-22T11:19:49.054201,Service PlugPlay is Running.,Manual review recommended
+Services,PolicyAgent,Stopped,,2025-09-22T11:19:49.054212,"Service ""PolicyAgent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Power,Running,,2025-09-22T11:19:49.054220,Service Power is Running.,Manual review recommended
+Services,PrintDeviceConfigurationService,Stopped,,2025-09-22T11:19:49.054241,"Service ""PrintDeviceConfigurationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintNotify,Stopped,,2025-09-22T11:19:49.054248,"Service ""PrintNotify"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintScanBrokerService,Stopped,,2025-09-22T11:19:49.054256,"Service ""PrintScanBrokerService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ProfSvc,Running,,2025-09-22T11:19:49.054264,Service ProfSvc is Running.,Manual review recommended
+Services,PushToInstall,Stopped,,2025-09-22T11:19:49.054272,"Service ""PushToInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QHActiveDefense,Running,,2025-09-22T11:19:49.054280,Service QHActiveDefense is Running.,Manual review recommended
+Services,QHProtected,Stopped,,2025-09-22T11:19:49.054288,"Service ""QHProtected"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QWAVE,Stopped,,2025-09-22T11:19:49.054296,"Service ""QWAVE"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasAuto,Stopped,,2025-09-22T11:19:49.054304,"Service ""RasAuto"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasMan,Running,,2025-09-22T11:19:49.054312,Service RasMan is Running.,Manual review recommended
+Services,refsdedupsvc,Stopped,,2025-09-22T11:19:49.054320,"Service ""refsdedupsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteAccess,Stopped,,2025-09-22T11:19:49.054327,"Service ""RemoteAccess"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteRegistry,Stopped,,2025-09-22T11:19:49.054335,"Service ""RemoteRegistry"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RetailDemo,Stopped,,2025-09-22T11:19:49.054342,"Service ""RetailDemo"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RmSvc,Running,,2025-09-22T11:19:49.054350,Service RmSvc is Running.,Manual review recommended
+Services,RpcEptMapper,Running,,2025-09-22T11:19:49.054358,Service RpcEptMapper is Running.,Manual review recommended
+Services,RpcLocator,Stopped,,2025-09-22T11:19:49.054366,"Service ""RpcLocator"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RpcSs,Running,,2025-09-22T11:19:49.054375,Service RpcSs is Running.,Manual review recommended
+Services,RstMwService,Running,,2025-09-22T11:19:49.054385,Service RstMwService is Running.,Manual review recommended
+Services,RtkAudioUniversalService,Running,,2025-09-22T11:19:49.054399,Service RtkAudioUniversalService is Running.,Manual review recommended
+Services,SamSs,Running,,2025-09-22T11:19:49.054409,Service SamSs is Running.,Manual review recommended
+Services,SCardSvr,Stopped,,2025-09-22T11:19:49.054418,"Service ""SCardSvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ScDeviceEnum,Stopped,,2025-09-22T11:19:49.054426,"Service ""ScDeviceEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Schedule,Running,,2025-09-22T11:19:49.054434,Service Schedule is Running.,Manual review recommended
+Services,SCPolicySvc,Stopped,,2025-09-22T11:19:49.054442,"Service ""SCPolicySvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SDRSVC,Stopped,,2025-09-22T11:19:49.054449,"Service ""SDRSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,seclogon,Running,,2025-09-22T11:19:49.054460,Service seclogon is Running.,Manual review recommended
+Services,SECOMNService,Running,,2025-09-22T11:19:49.054469,Service SECOMNService is Running.,Manual review recommended
+Services,SecurityHealthService,Running,,2025-09-22T11:19:49.054477,Service SecurityHealthService is Running.,Manual review recommended
+Services,SEMgrSvc,Stopped,,2025-09-22T11:19:49.054489,"Service ""SEMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SENS,Running,,2025-09-22T11:19:49.054503,Service SENS is Running.,Manual review recommended
+Services,SensorDataService,Stopped,,2025-09-22T11:19:49.054511,"Service ""SensorDataService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensorService,Running,,2025-09-22T11:19:49.054519,Service SensorService is Running.,Manual review recommended
+Services,SensrSvc,Stopped,,2025-09-22T11:19:49.054527,"Service ""SensrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SessionEnv,Running,,2025-09-22T11:19:49.054535,Service SessionEnv is Running.,Manual review recommended
+Services,SharedAccess,Running,,2025-09-22T11:19:49.054543,Service SharedAccess is Running.,Manual review recommended
+Services,ShellHWDetection,Running,,2025-09-22T11:19:49.054556,Service ShellHWDetection is Running.,Manual review recommended
+Services,shpamsvc,Stopped,,2025-09-22T11:19:49.054562,"Service ""shpamsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,smphost,Stopped,,2025-09-22T11:19:49.054569,"Service ""smphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SmsRouter,Stopped,,2025-09-22T11:19:49.054575,"Service ""SmsRouter"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SNMPTrap,Stopped,,2025-09-22T11:19:49.054582,"Service ""SNMPTrap"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Spooler,Running,,2025-09-22T11:19:49.054589,Service Spooler is Running.,Manual review recommended
+Services,sppsvc,Running,,2025-09-22T11:19:49.054596,Service sppsvc is Running.,Manual review recommended
+Services,SQLWriter,Running,,2025-09-22T11:19:49.054602,Service SQLWriter is Running.,Manual review recommended
+Services,SSDPSRV,Running,,2025-09-22T11:19:49.054609,Service SSDPSRV is Running.,Manual review recommended
+Services,ssh-agent,Stopped,,2025-09-22T11:19:49.054615,"Service ""ssh-agent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,sshd,Stopped,,2025-09-22T11:19:49.054622,"Service ""sshd"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SshdBroker,Stopped,,2025-09-22T11:19:49.054628,"Service ""SshdBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SstpSvc,Running,,2025-09-22T11:19:49.054635,Service SstpSvc is Running.,Manual review recommended
+Services,StateRepository,Running,,2025-09-22T11:19:49.054642,Service StateRepository is Running.,Manual review recommended
+Services,StiSvc,Running,,2025-09-22T11:19:49.054648,Service StiSvc is Running.,Manual review recommended
+Services,StorSvc,Running,,2025-09-22T11:19:49.054655,Service StorSvc is Running.,Manual review recommended
+Services,svsvc,Stopped,,2025-09-22T11:19:49.054662,"Service ""svsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,swprv,Stopped,,2025-09-22T11:19:49.054668,"Service ""swprv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SysMain,Running,,2025-09-22T11:19:49.054675,Service SysMain is Running.,Manual review recommended
+Services,SystemEventsBroker,Running,,2025-09-22T11:19:49.054682,Service SystemEventsBroker is Running.,Manual review recommended
+Services,TapiSrv,Running,,2025-09-22T11:19:49.054689,Service TapiSrv is Running.,Manual review recommended
+Services,Te.Service,Stopped,,2025-09-22T11:19:49.054696,"Service ""Te.Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TermService,Running,,2025-09-22T11:19:49.054702,Service TermService is Running.,Manual review recommended
+Services,TextInputManagementService,Running,,2025-09-22T11:19:49.054710,Service TextInputManagementService is Running.,Manual review recommended
+Services,Themes,Running,,2025-09-22T11:19:49.054716,Service Themes is Running.,Manual review recommended
+Services,TieringEngineService,Stopped,,2025-09-22T11:19:49.054724,"Service ""TieringEngineService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TimeBrokerSvc,Running,,2025-09-22T11:19:49.054730,Service TimeBrokerSvc is Running.,Manual review recommended
+Services,TokenBroker,Running,,2025-09-22T11:19:49.054736,Service TokenBroker is Running.,Manual review recommended
+Services,TrkWks,Running,,2025-09-22T11:19:49.054743,Service TrkWks is Running.,Manual review recommended
+Services,TroubleshootingSvc,Stopped,,2025-09-22T11:19:49.054750,"Service ""TroubleshootingSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TrustedInstaller,Stopped,,2025-09-22T11:19:49.054757,"Service ""TrustedInstaller"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TurboVPNService,Running,,2025-09-22T11:19:49.054763,Service TurboVPNService is Running.,Manual review recommended
+Services,tzautoupdate,Stopped,,2025-09-22T11:19:49.054770,"Service ""tzautoupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UmRdpService,Running,,2025-09-22T11:19:49.054777,Service UmRdpService is Running.,Manual review recommended
+Services,upnphost,Stopped,,2025-09-22T11:19:49.054783,"Service ""upnphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UserManager,Running,,2025-09-22T11:19:49.054790,Service UserManager is Running.,Manual review recommended
+Services,UsoSvc,Running,,2025-09-22T11:19:49.054796,Service UsoSvc is Running.,Manual review recommended
+Services,VaultSvc,Running,,2025-09-22T11:19:49.054803,Service VaultSvc is Running.,Manual review recommended
+Services,VBoxSDS,Stopped,,2025-09-22T11:19:49.054810,"Service ""VBoxSDS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vds,Stopped,,2025-09-22T11:19:49.054817,"Service ""vds"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmcompute,Stopped,,2025-09-22T11:19:49.054824,"Service ""vmcompute"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicguestinterface,Stopped,,2025-09-22T11:19:49.054831,"Service ""vmicguestinterface"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicheartbeat,Stopped,,2025-09-22T11:19:49.054837,"Service ""vmicheartbeat"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmickvpexchange,Stopped,,2025-09-22T11:19:49.054844,"Service ""vmickvpexchange"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicrdv,Stopped,,2025-09-22T11:19:49.054850,"Service ""vmicrdv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicshutdown,Stopped,,2025-09-22T11:19:49.054857,"Service ""vmicshutdown"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmictimesync,Stopped,,2025-09-22T11:19:49.054864,"Service ""vmictimesync"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvmsession,Stopped,,2025-09-22T11:19:49.054870,"Service ""vmicvmsession"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvss,Stopped,,2025-09-22T11:19:49.054876,"Service ""vmicvss"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VsEtwService120,Stopped,,2025-09-22T11:19:49.054883,"Service ""VsEtwService120"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VSS,Stopped,,2025-09-22T11:19:49.054889,"Service ""VSS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,W32Time,Stopped,,2025-09-22T11:19:49.054897,"Service ""W32Time"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WaaSMedicSvc,Stopped,,2025-09-22T11:19:49.054904,"Service ""WaaSMedicSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WalletService,Stopped,,2025-09-22T11:19:49.054910,"Service ""WalletService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WarpJITSvc,Stopped,,2025-09-22T11:19:49.054917,"Service ""WarpJITSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wbengine,Stopped,,2025-09-22T11:19:49.054923,"Service ""wbengine"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WbioSrvc,Stopped,,2025-09-22T11:19:49.054930,"Service ""WbioSrvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Wcmsvc,Running,,2025-09-22T11:19:49.054936,Service Wcmsvc is Running.,Manual review recommended
+Services,wcncsvc,Stopped,,2025-09-22T11:19:49.054943,"Service ""wcncsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiServiceHost,Running,,2025-09-22T11:19:49.054949,Service WdiServiceHost is Running.,Manual review recommended
+Services,WdiSystemHost,Running,,2025-09-22T11:19:49.054956,Service WdiSystemHost is Running.,Manual review recommended
+Services,WdNisSvc,Stopped,,2025-09-22T11:19:49.054963,"Service ""WdNisSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebClient,Stopped,,2025-09-22T11:19:49.054970,"Service ""WebClient"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebManagement,Running,,2025-09-22T11:19:49.054976,Service WebManagement is Running.,Manual review recommended
+Services,webthreatdefsvc,Running,,2025-09-22T11:19:49.054983,Service webthreatdefsvc is Running.,Manual review recommended
+Services,Wecsvc,Stopped,,2025-09-22T11:19:49.054990,"Service ""Wecsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WEPHOSTSVC,Stopped,,2025-09-22T11:19:49.054997,"Service ""WEPHOSTSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wercplsupport,Stopped,,2025-09-22T11:19:49.055003,"Service ""wercplsupport"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WerSvc,Stopped,,2025-09-22T11:19:49.055010,"Service ""WerSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WFDSConMgrSvc,Stopped,,2025-09-22T11:19:49.055016,"Service ""WFDSConMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,whesvc,Running,,2025-09-22T11:19:49.055023,Service whesvc is Running.,Manual review recommended
+Services,WiaRpc,Stopped,,2025-09-22T11:19:49.055029,"Service ""WiaRpc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinDefend,Stopped,,2025-09-22T11:19:49.055036,"Service ""WinDefend"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinHttpAutoProxySvc,Running,,2025-09-22T11:19:49.055042,Service WinHttpAutoProxySvc is Running.,Manual review recommended
+Services,Winmgmt,Running,,2025-09-22T11:19:49.055049,Service Winmgmt is Running.,Manual review recommended
+Services,WinRM,Stopped,,2025-09-22T11:19:49.055059,"Service ""WinRM"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wisvc,Stopped,,2025-09-22T11:19:49.055065,"Service ""wisvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WlanSvc,Running,,2025-09-22T11:19:49.055071,Service WlanSvc is Running.,Manual review recommended
+Services,wlidsvc,Running,,2025-09-22T11:19:49.055078,Service wlidsvc is Running.,Manual review recommended
+Services,wlpasvc,Stopped,,2025-09-22T11:19:49.055085,"Service ""wlpasvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WManSvc,Stopped,,2025-09-22T11:19:49.055091,"Service ""WManSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wmiApSrv,Stopped,,2025-09-22T11:19:49.055098,"Service ""wmiApSrv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WMIRegistrationService,Running,,2025-09-22T11:19:49.055105,Service WMIRegistrationService is Running.,Manual review recommended
+Services,WMPNetworkSvc,Stopped,,2025-09-22T11:19:49.055111,"Service ""WMPNetworkSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,workfolderssvc,Stopped,,2025-09-22T11:19:49.055118,"Service ""workfolderssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpcMonSvc,Stopped,,2025-09-22T11:19:49.055124,"Service ""WpcMonSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WPDBusEnum,Stopped,,2025-09-22T11:19:49.055131,"Service ""WPDBusEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpnService,Running,,2025-09-22T11:19:49.055138,Service WpnService is Running.,Manual review recommended
+Services,wpscloudsvr,Stopped,,2025-09-22T11:19:49.055145,"Service ""wpscloudsvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WSAIFabricSvc,Running,,2025-09-22T11:19:49.055151,Service WSAIFabricSvc is Running.,Manual review recommended
+Services,wscsvc,Running,,2025-09-22T11:19:49.055158,Service wscsvc is Running.,Manual review recommended
+Services,WSearch,Running,,2025-09-22T11:19:49.055164,Service WSearch is Running.,Manual review recommended
+Services,WSLService,Running,,2025-09-22T11:19:49.055171,Service WSLService is Running.,Manual review recommended
+Services,wuauserv,Stopped,,2025-09-22T11:19:49.055178,"Service ""wuauserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WwanSvc,Stopped,,2025-09-22T11:19:49.055184,"Service ""WwanSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XblAuthManager,Running,,2025-09-22T11:19:49.055191,Service XblAuthManager is Running.,Manual review recommended
+Services,XblGameSave,Stopped,,2025-09-22T11:19:49.055198,"Service ""XblGameSave"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxGipSvc,Stopped,,2025-09-22T11:19:49.055204,"Service ""XboxGipSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxNetApiSvc,Stopped,,2025-09-22T11:19:49.055211,"Service ""XboxNetApiSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AarSvc_46e4d,Stopped,,2025-09-22T11:19:49.055217,"Service ""AarSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BcastDVRUserService_46e4d,Running,,2025-09-22T11:19:49.055224,Service BcastDVRUserService_46e4d is Running.,Manual review recommended
+Services,BluetoothUserService_46e4d,Stopped,,2025-09-22T11:19:49.055231,"Service ""BluetoothUserService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CaptureService_46e4d,Stopped,,2025-09-22T11:19:49.055237,"Service ""CaptureService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,cbdhsvc_46e4d,Running,,2025-09-22T11:19:49.055244,Service cbdhsvc_46e4d is Running.,Manual review recommended
+Services,CDPUserSvc_46e4d,Running,,2025-09-22T11:19:49.055250,Service CDPUserSvc_46e4d is Running.,Manual review recommended
+Services,CloudBackupRestoreSvc_46e4d,Stopped,,2025-09-22T11:19:49.055257,"Service ""CloudBackupRestoreSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ConsentUxUserSvc_46e4d,Stopped,,2025-09-22T11:19:49.055264,"Service ""ConsentUxUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CredentialEnrollmentManagerUserSvc_46e4d,Stopped,,2025-09-22T11:19:49.055270,"Service ""CredentialEnrollmentManagerUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationBrokerSvc_46e4d,Stopped,,2025-09-22T11:19:49.055277,"Service ""DeviceAssociationBrokerSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicePickerUserSvc_46e4d,Stopped,,2025-09-22T11:19:49.055283,"Service ""DevicePickerUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicesFlowUserSvc_46e4d,Running,,2025-09-22T11:19:49.055290,Service DevicesFlowUserSvc_46e4d is Running.,Manual review recommended
+Services,MessagingService_46e4d,Stopped,,2025-09-22T11:19:49.055297,"Service ""MessagingService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NPSMSvc_46e4d,Running,,2025-09-22T11:19:49.055303,Service NPSMSvc_46e4d is Running.,Manual review recommended
+Services,OneSyncSvc_46e4d,Running,,2025-09-22T11:19:49.055310,Service OneSyncSvc_46e4d is Running.,Manual review recommended
+Services,P9RdrService_46e4d,Stopped,,2025-09-22T11:19:49.055316,"Service ""P9RdrService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PenService_46e4d,Stopped,,2025-09-22T11:19:49.055323,"Service ""PenService_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PimIndexMaintenanceSvc_46e4d,Running,,2025-09-22T11:19:49.055329,Service PimIndexMaintenanceSvc_46e4d is Running.,Manual review recommended
+Services,PrintWorkflowUserSvc_46e4d,Stopped,,2025-09-22T11:19:49.055336,"Service ""PrintWorkflowUserSvc_46e4d"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UdkUserSvc_46e4d,Running,,2025-09-22T11:19:49.055342,Service UdkUserSvc_46e4d is Running.,Manual review recommended
+Services,UnistoreSvc_46e4d,Running,,2025-09-22T11:19:49.055349,Service UnistoreSvc_46e4d is Running.,Manual review recommended
+Services,UserDataSvc_46e4d,Running,,2025-09-22T11:19:49.055355,Service UserDataSvc_46e4d is Running.,Manual review recommended
+Services,WebManagementUser_46e4d,Running,,2025-09-22T11:19:49.055362,Service WebManagementUser_46e4d is Running.,Manual review recommended
+Services,webthreatdefusersvc_46e4d,Running,,2025-09-22T11:19:49.055368,Service webthreatdefusersvc_46e4d is Running.,Manual review recommended
+Services,WpnUserService_46e4d,Running,,2025-09-22T11:19:49.055375,Service WpnUserService_46e4d is Running.,Manual review recommended
+Tasks,\Adobe Creative Cloud,Running,,2025-09-22T11:19:52.073068,Scheduled task \Adobe Creative Cloud status is Running.,Manual review recommended
+Tasks,\DemoTask,Ready,,2025-09-22T11:19:52.073113,Scheduled task \DemoTask status is Ready.,Manual review recommended
+Tasks,\Launch Adobe CCXProcess,Ready,,2025-09-22T11:19:52.073125,Scheduled task \Launch Adobe CCXProcess status is Ready.,Manual review recommended
+Tasks,\OneDrive Reporting Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,,2025-09-22T11:19:52.073136,Scheduled task \OneDrive Reporting Task-S-1-5-21-173275056-1875085541-2184235952-1001 status is Ready.,Manual review recommended
+Tasks,\OneDrive Standalone Update Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,,2025-09-22T11:19:52.073145,Scheduled task \OneDrive Standalone Update Task-S-1-5-21-173275056-1875085541-2184235952-1001 status is Ready.,Manual review recommended
+Tasks,\OneDrive Startup Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,,2025-09-22T11:19:52.073153,Scheduled task \OneDrive Startup Task-S-1-5-21-173275056-1875085541-2184235952-1001 status is Ready.,Manual review recommended
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,,2025-09-22T11:19:52.073161,Scheduled task \Opera scheduled assistant Autoupdate 1744204156 status is Ready.,Manual review recommended
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,,2025-09-22T11:19:52.073171,Scheduled task \Opera scheduled assistant Autoupdate 1744204156 status is Ready.,Manual review recommended
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,,2025-09-22T11:19:52.073178,Scheduled task \Opera scheduled Autoupdate 1744204153 status is Ready.,Manual review recommended
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,,2025-09-22T11:19:52.073187,Scheduled task \Opera scheduled Autoupdate 1744204153 status is Ready.,Manual review recommended
+Tasks,\Scheduled Update for Ask Toolbar,Ready,,2025-09-22T11:19:52.073194,Scheduled task \Scheduled Update for Ask Toolbar status is Ready.,Manual review recommended
+Tasks,\User_Feed_Synchronization-{2FAA476C-6D7F-4D5D-AB2E-49648B08195D},Ready,,2025-09-22T11:19:52.073202,Scheduled task \User_Feed_Synchronization-{2FAA476C-6D7F-4D5D-AB2E-49648B08195D} status is Ready.,Manual review recommended
+Tasks,\WpsExternal_III_interval,Ready,,2025-09-22T11:19:52.073210,Scheduled task \WpsExternal_III_interval status is Ready.,Manual review recommended
+Tasks,\WpsExternal_III_startup,Running,,2025-09-22T11:19:52.073218,Scheduled task \WpsExternal_III_startup status is Running.,Manual review recommended
+Tasks,\WpsUpdateTask_III,Ready,,2025-09-22T11:19:52.073226,Scheduled task \WpsUpdateTask_III status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073233,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073241,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073249,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Office\Office Actions Server,Ready,,2025-09-22T11:19:52.073256,Scheduled task \Microsoft\Office\Office Actions Server status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Actions Server,Ready,,2025-09-22T11:19:52.073263,Scheduled task \Microsoft\Office\Office Actions Server status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,,2025-09-22T11:19:52.073271,Scheduled task \Microsoft\Office\Office Automatic Updates 2.0 status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,,2025-09-22T11:19:52.073278,Scheduled task \Microsoft\Office\Office Automatic Updates 2.0 status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,,2025-09-22T11:19:52.073286,Scheduled task \Microsoft\Office\Office Automatic Updates 2.0 status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,,2025-09-22T11:19:52.073293,Scheduled task \Microsoft\Office\Office Background Push Maintenance status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,,2025-09-22T11:19:52.073300,Scheduled task \Microsoft\Office\Office Background Push Maintenance status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office ClickToRun Service Monitor,Ready,,2025-09-22T11:19:52.073308,Scheduled task \Microsoft\Office\Office ClickToRun Service Monitor status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-22T11:19:52.073315,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-22T11:19:52.073322,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-22T11:19:52.073329,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-22T11:19:52.073337,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-22T11:19:52.073344,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,,2025-09-22T11:19:52.073352,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,,2025-09-22T11:19:52.073359,Scheduled task \Microsoft\Office\Office Feature Updates Logon status is Ready.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,,2025-09-22T11:19:52.073367,Scheduled task \Microsoft\Office\Office Feature Updates Logon status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073374,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073381,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073389,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319,Ready,,2025-09-22T11:19:52.073396,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64,Ready,,2025-09-22T11:19:52.073404,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical,Disabled,,2025-09-22T11:19:52.073411,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical,Disabled,,2025-09-22T11:19:52.073419,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073427,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AccountHealth\RecoverabilityToastTask,Ready,,2025-09-22T11:19:52.073434,Scheduled task \Microsoft\Windows\AccountHealth\RecoverabilityToastTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073442,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,,2025-09-22T11:19:52.073449,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,,2025-09-22T11:19:52.073457,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual),Ready,,2025-09-22T11:19:52.073465,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual) status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073473,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppID\PolicyConverter,Disabled,,2025-09-22T11:19:52.073481,Scheduled task \Microsoft\Windows\AppID\PolicyConverter status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck,Disabled,,2025-09-22T11:19:52.073488,Scheduled task \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073495,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\MareBackup,Ready,,2025-09-22T11:19:52.073503,Scheduled task \Microsoft\Windows\Application Experience\MareBackup status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser,Ready,,2025-09-22T11:19:52.073510,Scheduled task \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser Exp,Ready,,2025-09-22T11:19:52.073517,Scheduled task \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser Exp status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\PcaPatchDbTask,Ready,,2025-09-22T11:19:52.073525,Scheduled task \Microsoft\Windows\Application Experience\PcaPatchDbTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,,2025-09-22T11:19:52.073532,Scheduled task \Microsoft\Windows\Application Experience\SdbinstMergeDbTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,,2025-09-22T11:19:52.073539,Scheduled task \Microsoft\Windows\Application Experience\SdbinstMergeDbTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\StartupAppTask,Ready,,2025-09-22T11:19:52.073547,Scheduled task \Microsoft\Windows\Application Experience\StartupAppTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073554,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierdaily,Ready,,2025-09-22T11:19:52.073561,Scheduled task \Microsoft\Windows\ApplicationData\appuriverifierdaily status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierinstall,Ready,,2025-09-22T11:19:52.073568,Scheduled task \Microsoft\Windows\ApplicationData\appuriverifierinstall status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\CleanupTemporaryState,Ready,,2025-09-22T11:19:52.073576,Scheduled task \Microsoft\Windows\ApplicationData\CleanupTemporaryState status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\DsSvcCleanup,Ready,,2025-09-22T11:19:52.073583,Scheduled task \Microsoft\Windows\ApplicationData\DsSvcCleanup status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073590,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppListBackup\Backup,Ready,,2025-09-22T11:19:52.073597,Scheduled task \Microsoft\Windows\AppListBackup\Backup status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\AppListBackup\BackupNonMaintenance,Ready,,2025-09-22T11:19:52.073605,Scheduled task \Microsoft\Windows\AppListBackup\BackupNonMaintenance status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073612,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup,Disabled,,2025-09-22T11:19:52.073619,Scheduled task \Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073626,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Autochk\Proxy,Ready,,2025-09-22T11:19:52.073633,Scheduled task \Microsoft\Windows\Autochk\Proxy status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073641,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\BitLocker\BitLocker Encrypt All Drives,Ready,,2025-09-22T11:19:52.073648,Scheduled task \Microsoft\Windows\BitLocker\BitLocker Encrypt All Drives status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\BitLocker\BitLocker MDM policy Refresh,Ready,,2025-09-22T11:19:52.073655,Scheduled task \Microsoft\Windows\BitLocker\BitLocker MDM policy Refresh status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073662,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Bluetooth\UninstallDeviceTask,Ready,,2025-09-22T11:19:52.073669,Scheduled task \Microsoft\Windows\Bluetooth\UninstallDeviceTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073676,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\BrokerInfrastructure\BgTaskRegistrationMaintenanceTask,Ready,,2025-09-22T11:19:52.073683,Scheduled task \Microsoft\Windows\BrokerInfrastructure\BgTaskRegistrationMaintenanceTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073690,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\capabilityaccessmanager\maintenancetasks,Ready,,2025-09-22T11:19:52.073697,Scheduled task \Microsoft\Windows\capabilityaccessmanager\maintenancetasks status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073705,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-22T11:19:52.073712,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-22T11:19:52.073719,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-22T11:19:52.073726,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,,2025-09-22T11:19:52.073734,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,,2025-09-22T11:19:52.073741,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask-Roam status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,,2025-09-22T11:19:52.073748,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask-Roam status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073755,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Chkdsk\ProactiveScan,Ready,,2025-09-22T11:19:52.073763,Scheduled task \Microsoft\Windows\Chkdsk\ProactiveScan status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Chkdsk\SyspartRepair,Ready,,2025-09-22T11:19:52.073770,Scheduled task \Microsoft\Windows\Chkdsk\SyspartRepair status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073777,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudExperienceHost\CreateObjectTask,Ready,,2025-09-22T11:19:52.073784,Scheduled task \Microsoft\Windows\CloudExperienceHost\CreateObjectTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073791,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,,2025-09-22T11:19:52.073798,Scheduled task \Microsoft\Windows\CloudRestore\Backup status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,,2025-09-22T11:19:52.073806,Scheduled task \Microsoft\Windows\CloudRestore\Backup status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Restore,Ready,,2025-09-22T11:19:52.073813,Scheduled task \Microsoft\Windows\CloudRestore\Restore status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073821,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073828,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,,2025-09-22T11:19:52.073835,Scheduled task \Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,,2025-09-22T11:19:52.073842,Scheduled task \Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073850,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\Consolidator,Ready,,2025-09-22T11:19:52.073857,Scheduled task \Microsoft\Windows\Customer Experience Improvement Program\Consolidator status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip,Ready,,2025-09-22T11:19:52.073864,Scheduled task \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073871,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,,2025-09-22T11:19:52.073878,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,,2025-09-22T11:19:52.073885,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan,Ready,,2025-09-22T11:19:52.073900,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery,Ready,,2025-09-22T11:19:52.073908,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073915,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Defrag\ScheduledDefrag,Ready,,2025-09-22T11:19:52.073922,Scheduled task \Microsoft\Windows\Defrag\ScheduledDefrag status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073930,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,,2025-09-22T11:19:52.073937,Scheduled task \Microsoft\Windows\Device Information\Device status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,,2025-09-22T11:19:52.073944,Scheduled task \Microsoft\Windows\Device Information\Device status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device User,Ready,,2025-09-22T11:19:52.073952,Scheduled task \Microsoft\Windows\Device Information\Device User status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073959,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Setup\Driver Recovery on Reboot,Disabled,,2025-09-22T11:19:52.073966,Scheduled task \Microsoft\Windows\Device Setup\Driver Recovery on Reboot status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.073973,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-22T11:19:52.073980,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-22T11:19:52.073988,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-22T11:19:52.073995,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,,2025-09-22T11:19:52.074002,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\Scheduled,Ready,,2025-09-22T11:19:52.074009,Scheduled task \Microsoft\Windows\Diagnosis\Scheduled status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\UnexpectedCodepath,Ready,,2025-09-22T11:19:52.074016,Scheduled task \Microsoft\Windows\Diagnosis\UnexpectedCodepath status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074024,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,,2025-09-22T11:19:52.074031,Scheduled task \Microsoft\Windows\DirectX\DirectXDatabaseUpdater status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,,2025-09-22T11:19:52.074039,Scheduled task \Microsoft\Windows\DirectX\DirectXDatabaseUpdater status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,,2025-09-22T11:19:52.074046,Scheduled task \Microsoft\Windows\DirectX\DXGIAdapterCache status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,,2025-09-22T11:19:52.074053,Scheduled task \Microsoft\Windows\DirectX\DXGIAdapterCache status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,,2025-09-22T11:19:52.074060,Scheduled task \Microsoft\Windows\DirectX\DXGIAdapterCache status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074068,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskCleanup\SilentCleanup,Ready,,2025-09-22T11:19:52.074075,Scheduled task \Microsoft\Windows\DiskCleanup\SilentCleanup status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074082,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector,Disabled,,2025-09-22T11:19:52.074089,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver,Disabled,,2025-09-22T11:19:52.074097,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074104,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskFootprint\Diagnostics,Ready,,2025-09-22T11:19:52.074111,Scheduled task \Microsoft\Windows\DiskFootprint\Diagnostics status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskFootprint\StorageSense,Ready,,2025-09-22T11:19:52.074118,Scheduled task \Microsoft\Windows\DiskFootprint\StorageSense status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074126,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DUSM\dusmtask,Ready,,2025-09-22T11:19:52.074133,Scheduled task \Microsoft\Windows\DUSM\dusmtask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074140,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP App Launch Task,Ready,,2025-09-22T11:19:52.074147,Scheduled task \Microsoft\Windows\EDP\EDP App Launch Task status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP Auth Task,Ready,,2025-09-22T11:19:52.074154,Scheduled task \Microsoft\Windows\EDP\EDP Auth Task status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP Inaccessible Credentials Task,Ready,,2025-09-22T11:19:52.074162,Scheduled task \Microsoft\Windows\EDP\EDP Inaccessible Credentials Task status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\StorageCardEncryption Task,Ready,,2025-09-22T11:19:52.074169,Scheduled task \Microsoft\Windows\EDP\StorageCardEncryption Task status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074176,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,,2025-09-22T11:19:52.074183,Scheduled task \Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,,2025-09-22T11:19:52.074190,Scheduled task \Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,,2025-09-22T11:19:52.074197,Scheduled task \Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074204,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074212,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClient,Ready,,2025-09-22T11:19:52.074219,Scheduled task \Microsoft\Windows\Feedback\Siuf\DmClient status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload,Ready,,2025-09-22T11:19:52.074226,Scheduled task \Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074297,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\FileHistory\File History (maintenance mode),Ready,,2025-09-22T11:19:52.074311,Scheduled task \Microsoft\Windows\FileHistory\File History (maintenance mode) status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074322,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074332,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting,Disabled,,2025-09-22T11:19:52.074342,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\GovernedFeatureUsageProcessing,Ready,,2025-09-22T11:19:52.074352,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\GovernedFeatureUsageProcessing status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileConfigs,Ready,,2025-09-22T11:19:52.074362,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileConfigs status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-22T11:19:52.074373,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-22T11:19:52.074383,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-22T11:19:52.074395,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-22T11:19:52.074406,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-22T11:19:52.074416,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,,2025-09-22T11:19:52.074426,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,,2025-09-22T11:19:52.074437,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,,2025-09-22T11:19:52.074449,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,,2025-09-22T11:19:52.074459,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReceiver,Ready,,2025-09-22T11:19:52.074469,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataReceiver status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReporting,Ready,,2025-09-22T11:19:52.074480,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataReporting status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074491,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,,2025-09-22T11:19:52.074503,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,,2025-09-22T11:19:52.074511,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,,2025-09-22T11:19:52.074518,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074525,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,,2025-09-22T11:19:52.074533,Scheduled task \Microsoft\Windows\Hotpatch\Monitoring status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,,2025-09-22T11:19:52.074543,Scheduled task \Microsoft\Windows\Hotpatch\Monitoring status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,,2025-09-22T11:19:52.074554,Scheduled task \Microsoft\Windows\Hotpatch\Monitoring status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074564,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\input\InputSettingsRestoreDataAvailable,Ready,,2025-09-22T11:19:52.074574,Scheduled task \Microsoft\Windows\input\InputSettingsRestoreDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\LocalUserSyncDataAvailable,Ready,,2025-09-22T11:19:52.074586,Scheduled task \Microsoft\Windows\input\LocalUserSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\MouseSyncDataAvailable,Ready,,2025-09-22T11:19:52.074596,Scheduled task \Microsoft\Windows\input\MouseSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\PenSyncDataAvailable,Ready,,2025-09-22T11:19:52.074607,Scheduled task \Microsoft\Windows\input\PenSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemoteMouseSyncDataAvailable,Ready,,2025-09-22T11:19:52.074618,Scheduled task \Microsoft\Windows\input\RemoteMouseSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemotePenSyncDataAvailable,Ready,,2025-09-22T11:19:52.074628,Scheduled task \Microsoft\Windows\input\RemotePenSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemoteTouchpadSyncDataAvailable,Ready,,2025-09-22T11:19:52.074640,Scheduled task \Microsoft\Windows\input\RemoteTouchpadSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\syncpensettings,Ready,,2025-09-22T11:19:52.074650,Scheduled task \Microsoft\Windows\input\syncpensettings status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\input\TouchpadSyncDataAvailable,Ready,,2025-09-22T11:19:52.074661,Scheduled task \Microsoft\Windows\input\TouchpadSyncDataAvailable status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074672,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\RestoreDevice,Ready,,2025-09-22T11:19:52.074682,Scheduled task \Microsoft\Windows\InstallService\RestoreDevice status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,,2025-09-22T11:19:52.074693,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,,2025-09-22T11:19:52.074703,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,,2025-09-22T11:19:52.074713,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdates status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdatesAsUser,Ready,,2025-09-22T11:19:52.074725,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdatesAsUser status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndContinueUpdates,Disabled,,2025-09-22T11:19:52.074737,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndContinueUpdates status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndScanForUpdates,Disabled,,2025-09-22T11:19:52.074748,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndScanForUpdates status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074758,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,,2025-09-22T11:19:52.074769,Scheduled task \Microsoft\Windows\International\Synchronize Language Settings status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,,2025-09-22T11:19:52.074780,Scheduled task \Microsoft\Windows\International\Synchronize Language Settings status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074791,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Kernel\La57Cleanup,Ready,,2025-09-22T11:19:52.074801,Scheduled task \Microsoft\Windows\Kernel\La57Cleanup status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074811,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\Installation,Ready,,2025-09-22T11:19:52.074822,Scheduled task \Microsoft\Windows\LanguageComponentsInstaller\Installation status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\ReconcileLanguageResources,Ready,,2025-09-22T11:19:52.074834,Scheduled task \Microsoft\Windows\LanguageComponentsInstaller\ReconcileLanguageResources status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074845,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074855,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Location\Notifications,Ready,,2025-09-22T11:19:52.074866,Scheduled task \Microsoft\Windows\Location\Notifications status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Location\WindowsActionDialog,Ready,,2025-09-22T11:19:52.074878,Scheduled task \Microsoft\Windows\Location\WindowsActionDialog status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074892,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Maintenance\WinSAT,Ready,,2025-09-22T11:19:52.074904,Scheduled task \Microsoft\Windows\Maintenance\WinSAT status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074916,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074929,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,,2025-09-22T11:19:52.074942,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,,2025-09-22T11:19:52.074954,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\RemediateHardwareChange,Disabled,,2025-09-22T11:19:52.074967,Scheduled task \Microsoft\Windows\Management\Autopilot\RemediateHardwareChange status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.074981,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Cellular,Ready,,2025-09-22T11:19:52.074997,Scheduled task \Microsoft\Windows\Management\Provisioning\Cellular status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Logon,Ready,,2025-09-22T11:19:52.075011,Scheduled task \Microsoft\Windows\Management\Provisioning\Logon status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup,Disabled,,2025-09-22T11:19:52.075025,Scheduled task \Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Retry,Disabled,,2025-09-22T11:19:52.075035,Scheduled task \Microsoft\Windows\Management\Provisioning\Retry status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\RunOnReboot,Disabled,,2025-09-22T11:19:52.075047,Scheduled task \Microsoft\Windows\Management\Provisioning\RunOnReboot status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075056,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Maps\MapsToastTask,Ready,,2025-09-22T11:19:52.075064,Scheduled task \Microsoft\Windows\Maps\MapsToastTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Maps\MapsUpdateTask,Disabled,,2025-09-22T11:19:52.075071,Scheduled task \Microsoft\Windows\Maps\MapsUpdateTask status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075079,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\AutomaticOfflineMemoryDiagnostic,Ready,,2025-09-22T11:19:52.075086,Scheduled task \Microsoft\Windows\MemoryDiagnostic\AutomaticOfflineMemoryDiagnostic status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-22T11:19:52.075094,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-22T11:19:52.075101,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-22T11:19:52.075108,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,,2025-09-22T11:19:52.075116,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic,Disabled,,2025-09-22T11:19:52.075123,Scheduled task \Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075130,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser,Ready,,2025-09-22T11:19:52.075138,Scheduled task \Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075145,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\MUI\LPRemove,Ready,,2025-09-22T11:19:52.075152,Scheduled task \Microsoft\Windows\MUI\LPRemove status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075160,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Multimedia\SystemSoundsService,Running,,2025-09-22T11:19:52.075167,Scheduled task \Microsoft\Windows\Multimedia\SystemSoundsService status is Running.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075175,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,,2025-09-22T11:19:52.075182,Scheduled task \Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,,2025-09-22T11:19:52.075190,Scheduled task \Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,,2025-09-22T11:19:52.075198,Scheduled task \Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075205,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\NlaSvc\WiFiTask,Ready,,2025-09-22T11:19:52.075213,Scheduled task \Microsoft\Windows\NlaSvc\WiFiTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075220,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PCRPF\PCR Prediction Framework Firmware Update Task,Ready,,2025-09-22T11:19:52.075227,Scheduled task \Microsoft\Windows\PCRPF\PCR Prediction Framework Firmware Update Task status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075235,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PerformanceTrace\RequestTrace,Ready,,2025-09-22T11:19:52.075242,Scheduled task \Microsoft\Windows\PerformanceTrace\RequestTrace status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\PerformanceTrace\WhesvcToast,Ready,,2025-09-22T11:19:52.075249,Scheduled task \Microsoft\Windows\PerformanceTrace\WhesvcToast status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075257,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,,2025-09-22T11:19:52.075264,Scheduled task \Microsoft\Windows\PI\SecureBootEncodeUEFI status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,,2025-09-22T11:19:52.075271,Scheduled task \Microsoft\Windows\PI\SecureBootEncodeUEFI status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,,2025-09-22T11:19:52.075279,Scheduled task \Microsoft\Windows\PI\SecureBootEncodeUEFI status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075286,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075293,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Group Policy,Ready,,2025-09-22T11:19:52.075300,Scheduled task \Microsoft\Windows\Plug and Play\Device Install Group Policy status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,,2025-09-22T11:19:52.075307,Scheduled task \Microsoft\Windows\Plug and Play\Device Install Reboot Required status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,,2025-09-22T11:19:52.075315,Scheduled task \Microsoft\Windows\Plug and Play\Device Install Reboot Required status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers,Ready,,2025-09-22T11:19:52.075322,Scheduled task \Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075330,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem,Ready,,2025-09-22T11:19:52.075337,Scheduled task \Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075344,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\EduPrintProv,Ready,,2025-09-22T11:19:52.075351,Scheduled task \Microsoft\Windows\Printing\EduPrintProv status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\PrinterCleanupTask,Ready,,2025-09-22T11:19:52.075358,Scheduled task \Microsoft\Windows\Printing\PrinterCleanupTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\PrintJobCleanupTask,Disabled,,2025-09-22T11:19:52.075366,Scheduled task \Microsoft\Windows\Printing\PrintJobCleanupTask status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075374,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\RecoveryEnvironment\VerifyWinRE,Disabled,,2025-09-22T11:19:52.075381,Scheduled task \Microsoft\Windows\RecoveryEnvironment\VerifyWinRE status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075388,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ReFsDedupSvc\Initialization,Ready,,2025-09-22T11:19:52.075395,Scheduled task \Microsoft\Windows\ReFsDedupSvc\Initialization status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075402,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Registry\RegIdleBackup,Ready,,2025-09-22T11:19:52.075409,Scheduled task \Microsoft\Windows\Registry\RegIdleBackup status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075416,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075423,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Security\Pwdless\IntelligentPwdlessTask,Ready,,2025-09-22T11:19:52.075430,Scheduled task \Microsoft\Windows\Security\Pwdless\IntelligentPwdlessTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075438,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Servicing\OOBEFodSetup,Disabled,,2025-09-22T11:19:52.075448,Scheduled task \Microsoft\Windows\Servicing\OOBEFodSetup status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Servicing\StartComponentCleanup,Ready,,2025-09-22T11:19:52.075459,Scheduled task \Microsoft\Windows\Servicing\StartComponentCleanup status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075467,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SharedPC\Account Cleanup,Disabled,,2025-09-22T11:19:52.075474,Scheduled task \Microsoft\Windows\SharedPC\Account Cleanup status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075481,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\CreateObjectTask,Ready,,2025-09-22T11:19:52.075488,Scheduled task \Microsoft\Windows\Shell\CreateObjectTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\FamilySafetyMonitor,Ready,,2025-09-22T11:19:52.075496,Scheduled task \Microsoft\Windows\Shell\FamilySafetyMonitor status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\FamilySafetyRefreshTask,Ready,,2025-09-22T11:19:52.075503,Scheduled task \Microsoft\Windows\Shell\FamilySafetyRefreshTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\IndexerAutomaticMaintenance,Ready,,2025-09-22T11:19:52.075510,Scheduled task \Microsoft\Windows\Shell\IndexerAutomaticMaintenance status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\ThemesSyncedImageDownload,Ready,,2025-09-22T11:19:52.075517,Scheduled task \Microsoft\Windows\Shell\ThemesSyncedImageDownload status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,,2025-09-22T11:19:52.075524,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,,2025-09-22T11:19:52.075532,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075539,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ClientTask,Ready,,2025-09-22T11:19:52.075546,Scheduled task \Microsoft\Windows\SMB\UninstallSMB1ClientTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ServerTask,Ready,,2025-09-22T11:19:52.075557,Scheduled task \Microsoft\Windows\SMB\UninstallSMB1ServerTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075564,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon,Ready,,2025-09-22T11:19:52.075572,Scheduled task \Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger,Ready,,2025-09-22T11:19:52.075579,Scheduled task \Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075586,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,,2025-09-22T11:19:52.075593,Scheduled task \Microsoft\Windows\SpacePort\SpaceAgentTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,,2025-09-22T11:19:52.075601,Scheduled task \Microsoft\Windows\SpacePort\SpaceAgentTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,,2025-09-22T11:19:52.075608,Scheduled task \Microsoft\Windows\SpacePort\SpaceManagerTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,,2025-09-22T11:19:52.075616,Scheduled task \Microsoft\Windows\SpacePort\SpaceManagerTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075624,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\StateRepository\MaintenanceTasks,Ready,,2025-09-22T11:19:52.075631,Scheduled task \Microsoft\Windows\StateRepository\MaintenanceTasks status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075639,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization,Ready,,2025-09-22T11:19:52.075646,Scheduled task \Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization,Disabled,,2025-09-22T11:19:52.075654,Scheduled task \Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075661,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,,2025-09-22T11:19:52.075668,Scheduled task \Microsoft\Windows\Subscription\EnableLicenseAcquisition status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,,2025-09-22T11:19:52.075676,Scheduled task \Microsoft\Windows\Subscription\EnableLicenseAcquisition status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,,2025-09-22T11:19:52.075683,Scheduled task \Microsoft\Windows\Subscription\EnableLicenseAcquisition status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,,2025-09-22T11:19:52.075690,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,,2025-09-22T11:19:52.075697,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,,2025-09-22T11:19:52.075704,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075712,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,,2025-09-22T11:19:52.075719,Scheduled task \Microsoft\Windows\Sustainability\PowerGridForecastTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,,2025-09-22T11:19:52.075726,Scheduled task \Microsoft\Windows\Sustainability\PowerGridForecastTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\SustainabilityTelemetry,Ready,,2025-09-22T11:19:52.075733,Scheduled task \Microsoft\Windows\Sustainability\SustainabilityTelemetry status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075740,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate,Disabled,,2025-09-22T11:19:52.075747,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCacheRebalance,Disabled,,2025-09-22T11:19:52.075754,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCacheRebalance status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\ResPriStaticDbSync,Ready,,2025-09-22T11:19:52.075761,Scheduled task \Microsoft\Windows\Sysmain\ResPriStaticDbSync status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\WsSwapAssessmentTask,Ready,,2025-09-22T11:19:52.075769,Scheduled task \Microsoft\Windows\Sysmain\WsSwapAssessmentTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075776,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SystemRestore\SR,Ready,,2025-09-22T11:19:52.075783,Scheduled task \Microsoft\Windows\SystemRestore\SR status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075790,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Task Manager\Interactive,Ready,,2025-09-22T11:19:52.075813,Scheduled task \Microsoft\Windows\Task Manager\Interactive status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075821,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\TextServicesFramework\MsCtfMonitor,Ready,,2025-09-22T11:19:52.075828,Scheduled task \Microsoft\Windows\TextServicesFramework\MsCtfMonitor status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075835,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,,2025-09-22T11:19:52.075842,Scheduled task \Microsoft\Windows\Time Synchronization\ForceSynchronizeTime status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,,2025-09-22T11:19:52.075849,Scheduled task \Microsoft\Windows\Time Synchronization\ForceSynchronizeTime status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\SynchronizeTime,Ready,,2025-09-22T11:19:52.075857,Scheduled task \Microsoft\Windows\Time Synchronization\SynchronizeTime status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075864,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Zone\SynchronizeTimeZone,Ready,,2025-09-22T11:19:52.075872,Scheduled task \Microsoft\Windows\Time Zone\SynchronizeTimeZone status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075879,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\UPnP\UPnPHostConfig,Ready,,2025-09-22T11:19:52.075887,Scheduled task \Microsoft\Windows\UPnP\UPnPHostConfig status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075894,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-22T11:19:52.075909,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-22T11:19:52.075916,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-22T11:19:52.075924,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,,2025-09-22T11:19:52.075931,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075938,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WCM\WiFiTask,Ready,,2025-09-22T11:19:52.075949,Scheduled task \Microsoft\Windows\WCM\WiFiTask status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075963,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WDI\ResolutionHost,Ready,,2025-09-22T11:19:52.075973,Scheduled task \Microsoft\Windows\WDI\ResolutionHost status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.075987,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-22T11:19:52.075997,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-22T11:19:52.076005,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-22T11:19:52.076012,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-22T11:19:52.076024,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,,2025-09-22T11:19:52.076031,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076039,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange,Ready,,2025-09-22T11:19:52.076046,Scheduled task \Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076054,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Media Sharing\UpdateLibrary,Ready,,2025-09-22T11:19:52.076061,Scheduled task \Microsoft\Windows\Windows Media Sharing\UpdateLibrary status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076068,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076076,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,,2025-09-22T11:19:52.076083,Scheduled task \Microsoft\Windows\WindowsColorSystem\Calibration Loader status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,,2025-09-22T11:19:52.076090,Scheduled task \Microsoft\Windows\WindowsColorSystem\Calibration Loader status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076097,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-22T11:19:52.076104,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-22T11:19:52.076111,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-22T11:19:52.076118,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,,2025-09-22T11:19:52.076129,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076136,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Wininet\CacheTask,Running,,2025-09-22T11:19:52.076143,Scheduled task \Microsoft\Windows\Wininet\CacheTask status is Running.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076150,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\CDSSync,Ready,,2025-09-22T11:19:52.076157,Scheduled task \Microsoft\Windows\WlanSvc\CDSSync status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,,2025-09-22T11:19:52.076165,Scheduled task \Microsoft\Windows\WlanSvc\MoProfileManagement status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,,2025-09-22T11:19:52.076172,Scheduled task \Microsoft\Windows\WlanSvc\MoProfileManagement status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076179,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Logon Synchronization,Ready,,2025-09-22T11:19:52.076186,Scheduled task \Microsoft\Windows\Work Folders\Work Folders Logon Synchronization status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Maintenance Work,Ready,,2025-09-22T11:19:52.076197,Scheduled task \Microsoft\Windows\Work Folders\Work Folders Maintenance Work status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076204,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,,2025-09-22T11:19:52.076212,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,,2025-09-22T11:19:52.076219,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Device-Sync,Disabled,,2025-09-22T11:19:52.076226,Scheduled task \Microsoft\Windows\Workplace Join\Device-Sync status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,,2025-09-22T11:19:52.076233,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,,2025-09-22T11:19:52.076240,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076247,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\NotificationTask,Ready,,2025-09-22T11:19:52.076254,Scheduled task \Microsoft\Windows\WwanSvc\NotificationTask status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,,2025-09-22T11:19:52.076262,Scheduled task \Microsoft\Windows\WwanSvc\OobeDiscovery status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,,2025-09-22T11:19:52.076269,Scheduled task \Microsoft\Windows\WwanSvc\OobeDiscovery status is Ready.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,,2025-09-22T11:19:52.076277,Scheduled task \Microsoft\Windows\WwanSvc\OobeDiscovery status is Ready.,Manual review recommended
+Tasks,TaskName,Status,,2025-09-22T11:19:52.076288,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\XblGameSave\XblGameSaveTask,Ready,,2025-09-22T11:19:52.076295,Scheduled task \Microsoft\XblGameSave\XblGameSaveTask status is Ready.,Manual review recommended
+Startup,SecurityHealth,Missing,,2025-09-22T11:19:52.082220,No explanation available.,Manual review recommended
+Startup,RtkAudUService,Missing,,2025-09-22T11:19:52.082275,No explanation available.,Manual review recommended
+Startup,Greenshot,Exists,,2025-09-22T11:19:52.082286,No explanation available.,Manual review recommended
+Startup,MuseHub,Missing,,2025-09-22T11:19:52.082295,No explanation available.,Manual review recommended
+Startup,OneDrive,Missing,,2025-09-22T11:19:52.082302,No explanation available.,Manual review recommended
+Startup,MicrosoftEdgeAutoLaunch_0386D51C073D86B821A8FA1466715878,Missing,,2025-09-22T11:19:52.082309,No explanation available.,Manual review recommended
+Startup,electron.app.Notion,Missing,,2025-09-22T11:19:52.082317,No explanation available.,Manual review recommended
+Startup,Opera Stable,Exists,,2025-09-22T11:19:52.082324,No explanation available.,Manual review recommended
+Startup,com.squirrel.Postman-Agent.PostmanAgent,Missing,,2025-09-22T11:19:52.082331,No explanation available.,Manual review recommended
+Startup,Opera Browser Assistant,Exists,,2025-09-22T11:19:52.082338,No explanation available.,Manual review recommended
+System,Uptime,"0 days, 19 hours",,2025-09-22T11:19:52.082409,"System uptime is {value}, last boot was on {lastBoot}.
+Long uptimes (> {warningDays} days) risk missing security patches and accumulating performance drift.","Run Windows Update and reboot the machine immediately.
+Schedule a weekly maintenance reboot to keep patches current."
+System,Hostname,BONTU,,2025-09-22T11:19:52.082428,No explanation available.,Manual review recommended
+System,OS Version,Windows-11-10.0.26100-SP0,,2025-09-22T11:19:52.082438,No explanation available.,Manual review recommended

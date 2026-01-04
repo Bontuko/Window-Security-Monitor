@@ -1,0 +1,7 @@
+{
+  "module": "SystemInfoModule",
+  "os": "Windows 11",
+  "cpu": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "ram_gb": 7.65,
+  "disk_gb": 245.62
+}

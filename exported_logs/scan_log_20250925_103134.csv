@@ -1,0 +1,6 @@
+Module,Name,Status,Severity,Timestamp,Explanation,Recommendation
+System,Uptime,"0 days, 4 hours",unknown,2025-09-25T10:30:52.467076,"System uptime is {value}, last boot was on {lastBoot}.
+Long uptimes (> {warningDays} days) risk missing security patches and accumulating performance drift.","Run Windows Update and reboot the machine immediately.
+Schedule a weekly maintenance reboot to keep patches current."
+System,Hostname,BONTU,unknown,2025-09-25T10:30:52.467284,Low-severity issue detected. No recommendation needed.,Manual review recommended
+System,OS Version,Windows-11-10.0.26100-SP0,unknown,2025-09-25T10:30:52.584168,Low-severity issue detected. No recommendation needed.,Manual review recommended

@@ -1,0 +1,495 @@
+Module,Name,Status,Severity,Date,Time,Explanation,Recommendation
+Services,AdobeUpdateService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ADPSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""ADPSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ALG,Stopped,unknown,2026-01-05,00:11:29,"Service ""ALG"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppIDSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""AppIDSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Appinfo,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,AppReadiness,Stopped,unknown,2026-01-05,00:11:29,"Service ""AppReadiness"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppXSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""AppXSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ApxSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""ApxSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,aspnet_state,Stopped,unknown,2026-01-05,00:11:29,"Service ""aspnet_state"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AudioEndpointBuilder,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Audiosrv,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,autotimesvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""autotimesvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AxInstSV,Stopped,unknown,2026-01-05,00:11:29,"Service ""AxInstSV"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BDESVC,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,BFE,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,BITS,Stopped,unknown,2026-01-05,00:11:29,"Service ""BITS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BrokerInfrastructure,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Browser,Stopped,unknown,2026-01-05,00:11:29,"Service ""Browser"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BTAGService,Stopped,unknown,2026-01-05,00:11:29,"Service ""BTAGService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BthAvctpSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""BthAvctpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,bthserv,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,c2wts,Stopped,unknown,2026-01-05,00:11:29,"Service ""c2wts"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,camsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CDPSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CertPropSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ClickToRunSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ClipSVC,Stopped,unknown,2026-01-05,00:11:29,"Service ""ClipSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,COMSysApp,Stopped,unknown,2026-01-05,00:11:29,"Service ""COMSysApp"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CoreMessagingRegistrar,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,cplspcon,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CryptSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DcomLaunch,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,dcsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""dcsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,debugregsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""debugregsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,defragsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""defragsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeveloperToolsService,Stopped,unknown,2026-01-05,00:11:29,"Service ""DeveloperToolsService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DeviceInstall,Stopped,unknown,2026-01-05,00:11:29,"Service ""DeviceInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevQueryBroker,Stopped,unknown,2026-01-05,00:11:29,"Service ""DevQueryBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dhcp,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,diagsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""diagsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DiagTrack,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DispBrokerDesktopSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DisplayEnhancementService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DmEnrollmentSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""DmEnrollmentSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,dmwappushservice,Stopped,unknown,2026-01-05,00:11:29,"Service ""dmwappushservice"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dnscache,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DoSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""DoSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,dot3svc,Stopped,unknown,2026-01-05,00:11:29,"Service ""dot3svc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DPS,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,DsmSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""DsmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DsSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""DsSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DummyService,Stopped,unknown,2026-01-05,00:11:29,"Service ""DummyService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DusmSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,EapHost,Stopped,unknown,2026-01-05,00:11:29,"Service ""EapHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdate,Stopped,unknown,2026-01-05,00:11:29,"Service ""edgeupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdatem,Stopped,unknown,2026-01-05,00:11:29,"Service ""edgeupdatem"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EFS,Stopped,unknown,2026-01-05,00:11:29,"Service ""EFS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ELAN_MOC_Service,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,embeddedmode,Stopped,unknown,2026-01-05,00:11:29,"Service ""embeddedmode"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EntAppSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""EntAppSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,esifsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ETDService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,EventLog,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,EventSystem,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Fax,Stopped,unknown,2026-01-05,00:11:29,"Service ""Fax"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fdPHost,Stopped,unknown,2026-01-05,00:11:29,"Service ""fdPHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FDResPub,Stopped,unknown,2026-01-05,00:11:29,"Service ""FDResPub"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fhsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""fhsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FontCache,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,FrameServer,Stopped,unknown,2026-01-05,00:11:29,"Service ""FrameServer"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FrameServerMonitor,Stopped,unknown,2026-01-05,00:11:29,"Service ""FrameServerMonitor"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fussvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""fussvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GameInputSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""GameInputSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleChromeElevationService,Stopped,unknown,2026-01-05,00:11:29,"Service ""GoogleChromeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterInternalService145.0.7569.0,Stopped,unknown,2026-01-05,00:11:29,"Service ""GoogleUpdaterInternalService145.0.7569.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterService145.0.7569.0,Stopped,unknown,2026-01-05,00:11:29,"Service ""GoogleUpdaterService145.0.7569.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,gpsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,GraphicsPerfSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""GraphicsPerfSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hidserv,Stopped,unknown,2026-01-05,00:11:29,"Service ""hidserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hns,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HPAppHelperCap,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,hpatchmon,Stopped,unknown,2026-01-05,00:11:29,"Service ""hpatchmon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,HPDiagsCap,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HPNetworkCap,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HPSysInfoCap,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HpTouchpointAnalyticsService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,HvHost,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,icssvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""icssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,igccservice,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,igfxCUIService2.0.0.0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,IKEEXT,Stopped,unknown,2026-01-05,00:11:29,"Service ""IKEEXT"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,InstallService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Intel(R) TPM Provisioning Service,Stopped,unknown,2026-01-05,00:11:29,"Service ""Intel(R) TPM Provisioning Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,IntelAudioService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,InventorySvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,iphlpsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,IpOverUsbSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,IpxlatCfgSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""IpxlatCfgSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,jhi_service,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,KeyIso,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,KtmRm,Stopped,unknown,2026-01-05,00:11:29,"Service ""KtmRm"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LanmanServer,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LanmanWorkstation,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,lfsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LicenseManager,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,lltdsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""lltdsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,lmhosts,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LocalKdc,Stopped,unknown,2026-01-05,00:11:29,"Service ""LocalKdc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LSM,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,LxpSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""LxpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MapsBroker,Stopped,unknown,2026-01-05,00:11:29,"Service ""MapsBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McmSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""McmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McpManagementService,Stopped,unknown,2026-01-05,00:11:29,"Service ""McpManagementService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MDCoreSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""MDCoreSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MicrosoftEdgeElevationService,Stopped,unknown,2026-01-05,00:11:29,"Service ""MicrosoftEdgeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,midisrv,Stopped,unknown,2026-01-05,00:11:29,"Service ""midisrv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MouseWithoutBordersSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""MouseWithoutBordersSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MozillaMaintenance,Stopped,unknown,2026-01-05,00:11:29,"Service ""MozillaMaintenance"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,mpssvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,MSDTC,Stopped,unknown,2026-01-05,00:11:29,"Service ""MSDTC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MSiSCSI,Stopped,unknown,2026-01-05,00:11:29,"Service ""MSiSCSI"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,msiserver,Stopped,unknown,2026-01-05,00:11:29,"Service ""msiserver"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MuseAuthService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,MuseHubUpdaterService,Stopped,unknown,2026-01-05,00:11:29,"Service ""MuseHubUpdaterService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NaturalAuthentication,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,NcaSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""NcaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NcbService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,NcdAutoSetup,Stopped,unknown,2026-01-05,00:11:29,"Service ""NcdAutoSetup"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netlogon,Stopped,unknown,2026-01-05,00:11:29,"Service ""Netlogon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netman,Stopped,unknown,2026-01-05,00:11:29,"Service ""Netman"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,netprofm,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,NetSetupSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""NetSetupSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NetTcpPortSharing,Stopped,unknown,2026-01-05,00:11:29,"Service ""NetTcpPortSharing"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcCtnrSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""NgcCtnrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""NgcSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NlaSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""NlaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,nsi,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,nvagent,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ose,Stopped,unknown,2026-01-05,00:11:29,"Service ""ose"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PcAppStoreSRV,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PcaSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,perceptionsimulation,Stopped,unknown,2026-01-05,00:11:29,"Service ""perceptionsimulation"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PerfHost,Stopped,unknown,2026-01-05,00:11:29,"Service ""PerfHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PhoneSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""PhoneSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,pla,Stopped,unknown,2026-01-05,00:11:29,"Service ""pla"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PlugPlay,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PolicyAgent,Stopped,unknown,2026-01-05,00:11:29,"Service ""PolicyAgent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,postgresql-x64-15,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Power,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PrintDeviceConfigurationService,Stopped,unknown,2026-01-05,00:11:29,"Service ""PrintDeviceConfigurationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintNotify,Stopped,unknown,2026-01-05,00:11:29,"Service ""PrintNotify"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintScanBrokerService,Stopped,unknown,2026-01-05,00:11:29,"Service ""PrintScanBrokerService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ProfSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PushToInstall,Stopped,unknown,2026-01-05,00:11:29,"Service ""PushToInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QHActiveDefense,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,QHProtected,Stopped,unknown,2026-01-05,00:11:29,"Service ""QHProtected"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QWAVE,Stopped,unknown,2026-01-05,00:11:29,"Service ""QWAVE"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasAuto,Stopped,unknown,2026-01-05,00:11:29,"Service ""RasAuto"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasMan,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,refsdedupsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""refsdedupsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteAccess,Stopped,unknown,2026-01-05,00:11:29,"Service ""RemoteAccess"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteRegistry,Stopped,unknown,2026-01-05,00:11:29,"Service ""RemoteRegistry"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RetailDemo,Stopped,unknown,2026-01-05,00:11:29,"Service ""RetailDemo"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RmSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RpcEptMapper,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RpcLocator,Stopped,unknown,2026-01-05,00:11:29,"Service ""RpcLocator"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RpcSs,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RstMwService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,RtkAudioUniversalService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SamSs,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SCardSvr,Stopped,unknown,2026-01-05,00:11:29,"Service ""SCardSvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ScDeviceEnum,Stopped,unknown,2026-01-05,00:11:29,"Service ""ScDeviceEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Schedule,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SCPolicySvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""SCPolicySvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SDRSVC,Stopped,unknown,2026-01-05,00:11:29,"Service ""SDRSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,seclogon,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SECOMNService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SecurityHealthService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SEMgrSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""SEMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SENS,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SensorDataService,Stopped,unknown,2026-01-05,00:11:29,"Service ""SensorDataService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensorService,Stopped,unknown,2026-01-05,00:11:29,"Service ""SensorService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensrSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""SensrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SessionEnv,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SharedAccess,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ShellHWDetection,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,shpamsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""shpamsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,smphost,Stopped,unknown,2026-01-05,00:11:29,"Service ""smphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SmsRouter,Stopped,unknown,2026-01-05,00:11:29,"Service ""SmsRouter"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SNMPTrap,Stopped,unknown,2026-01-05,00:11:29,"Service ""SNMPTrap"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Spooler,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,sppsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SQLWriter,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SSDPSRV,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,ssh-agent,Stopped,unknown,2026-01-05,00:11:29,"Service ""ssh-agent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,sshd,Stopped,unknown,2026-01-05,00:11:29,"Service ""sshd"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SshdBroker,Stopped,unknown,2026-01-05,00:11:29,"Service ""SshdBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SstpSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,StateRepository,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,StiSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,StorSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,svsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""svsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,swprv,Stopped,unknown,2026-01-05,00:11:29,"Service ""swprv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SysMain,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,SystemEventsBroker,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TapiSrv,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Te.Service,Stopped,unknown,2026-01-05,00:11:29,"Service ""Te.Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TermService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TextInputManagementService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Themes,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TieringEngineService,Stopped,unknown,2026-01-05,00:11:29,"Service ""TieringEngineService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TimeBrokerSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TokenBroker,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TrkWks,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,TroubleshootingSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""TroubleshootingSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TrustedInstaller,Stopped,unknown,2026-01-05,00:11:29,"Service ""TrustedInstaller"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TurboVPNService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,tzautoupdate,Stopped,unknown,2026-01-05,00:11:29,"Service ""tzautoupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UmRdpService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,upnphost,Stopped,unknown,2026-01-05,00:11:29,"Service ""upnphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UserManager,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,UsoSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,VaultSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,VBoxSDS,Stopped,unknown,2026-01-05,00:11:29,"Service ""VBoxSDS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vds,Stopped,unknown,2026-01-05,00:11:29,"Service ""vds"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmcompute,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmcompute"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicguestinterface,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmicguestinterface"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicheartbeat,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmicheartbeat"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmickvpexchange,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmickvpexchange"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicrdv,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmicrdv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicshutdown,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmicshutdown"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmictimesync,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmictimesync"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvmsession,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmicvmsession"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvss,Stopped,unknown,2026-01-05,00:11:29,"Service ""vmicvss"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VsEtwService120,Stopped,unknown,2026-01-05,00:11:29,"Service ""VsEtwService120"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VSInstallerElevationService,Stopped,unknown,2026-01-05,00:11:29,"Service ""VSInstallerElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VSS,Stopped,unknown,2026-01-05,00:11:29,"Service ""VSS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,W32Time,Stopped,unknown,2026-01-05,00:11:29,"Service ""W32Time"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WaaSMedicSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WaaSMedicSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WalletService,Stopped,unknown,2026-01-05,00:11:29,"Service ""WalletService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WarpJITSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WarpJITSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wbengine,Stopped,unknown,2026-01-05,00:11:29,"Service ""wbengine"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WbioSrvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WbioSrvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Wcmsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wcncsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""wcncsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiServiceHost,Stopped,unknown,2026-01-05,00:11:29,"Service ""WdiServiceHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiSystemHost,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WdNisSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WdNisSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebClient,Stopped,unknown,2026-01-05,00:11:29,"Service ""WebClient"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebManagement,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,webthreatdefsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Wecsvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""Wecsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WEPHOSTSVC,Stopped,unknown,2026-01-05,00:11:29,"Service ""WEPHOSTSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wercplsupport,Stopped,unknown,2026-01-05,00:11:29,"Service ""wercplsupport"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WerSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WerSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WFDSConMgrSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WFDSConMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,whesvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WiaRpc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WiaRpc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinDefend,Stopped,unknown,2026-01-05,00:11:29,"Service ""WinDefend"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinHttpAutoProxySvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,Winmgmt,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WinRM,Stopped,unknown,2026-01-05,00:11:29,"Service ""WinRM"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wisvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""wisvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WlanSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wlidsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wlpasvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""wlpasvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WManSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WManSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wmiApSrv,Stopped,unknown,2026-01-05,00:11:29,"Service ""wmiApSrv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WMIRegistrationService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WMPNetworkSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WMPNetworkSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,workfolderssvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""workfolderssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpcMonSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WpcMonSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WPDBusEnum,Stopped,unknown,2026-01-05,00:11:29,"Service ""WPDBusEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpnService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wpscloudsvr,Stopped,unknown,2026-01-05,00:11:29,"Service ""wpscloudsvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WSAIFabricSvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wscsvc,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WSearch,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WSLService,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,wuauserv,Stopped,unknown,2026-01-05,00:11:29,"Service ""wuauserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wuqisvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""wuqisvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WwanSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""WwanSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XblAuthManager,Stopped,unknown,2026-01-05,00:11:29,"Service ""XblAuthManager"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XblGameSave,Stopped,unknown,2026-01-05,00:11:29,"Service ""XblGameSave"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxGipSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""XboxGipSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxNetApiSvc,Stopped,unknown,2026-01-05,00:11:29,"Service ""XboxNetApiSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AarSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""AarSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BcastDVRUserService_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""BcastDVRUserService_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BluetoothUserService_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""BluetoothUserService_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CaptureService_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""CaptureService_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,cbdhsvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CDPUserSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,CloudBackupRestoreSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""CloudBackupRestoreSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ConsentUxUserSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""ConsentUxUserSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CredentialEnrollmentManagerUserSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""CredentialEnrollmentManagerUserSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationBrokerSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""DeviceAssociationBrokerSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicePickerUserSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""DevicePickerUserSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicesFlowUserSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,MessagingService_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""MessagingService_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NPSMSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,OneSyncSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,P9RdrService_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""P9RdrService_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PenService_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""PenService_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PimIndexMaintenanceSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,PrintWorkflowUserSvc_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""PrintWorkflowUserSvc_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UdkUserSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,UnistoreSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,UserDataSvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WebManagementUser_713d2f0,Stopped,unknown,2026-01-05,00:11:29,"Service ""WebManagementUser_713d2f0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,webthreatdefusersvc_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Services,WpnUserService_713d2f0,Running,unknown,2026-01-05,00:11:29,Low-severity issue detected. No recommendation needed.,Manual review recommended

@@ -1,0 +1,9 @@
+[
+  {
+    "module": "ServiceModule",
+    "issue": "smss.exe",
+    "path": "C:\\Windows\\System32\\smss.exe",
+    "severity": "low",
+    "timestamp": "2025-09-21T15:57:19.900393"
+  }
+]

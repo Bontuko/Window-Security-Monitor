@@ -1,0 +1,878 @@
+Module,Name,Status,Severity,Timestamp,Explanation,Recommendation
+Services,AdobeUpdateService,Running,Low,2025-09-23T09:26:38.532005,Service AdobeUpdateService is Running.,No action needed unless new issues appear
+Services,ADPSvc,Stopped,Medium,2025-09-23T09:26:38.532044,"Service ""ADPSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ALG,Stopped,Medium,2025-09-23T09:26:38.532047,"Service ""ALG"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppIDSvc,Stopped,Medium,2025-09-23T09:26:38.532049,"Service ""AppIDSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Appinfo,Running,Low,2025-09-23T09:26:38.532050,Service Appinfo is Running.,No action needed unless new issues appear
+Services,AppReadiness,Stopped,Medium,2025-09-23T09:26:38.532052,"Service ""AppReadiness"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AppXSvc,Running,Low,2025-09-23T09:26:38.532053,Service AppXSvc is Running.,No action needed unless new issues appear
+Services,ApxSvc,Stopped,Medium,2025-09-23T09:26:38.532054,"Service ""ApxSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,aspnet_state,Stopped,Medium,2025-09-23T09:26:38.532056,"Service ""aspnet_state"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AudioEndpointBuilder,Running,Low,2025-09-23T09:26:38.532057,Service AudioEndpointBuilder is Running.,No action needed unless new issues appear
+Services,Audiosrv,Running,Low,2025-09-23T09:26:38.532058,Service Audiosrv is Running.,No action needed unless new issues appear
+Services,autotimesvc,Stopped,Medium,2025-09-23T09:26:38.532060,"Service ""autotimesvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AxInstSV,Stopped,Medium,2025-09-23T09:26:38.532061,"Service ""AxInstSV"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BDESVC,Running,Low,2025-09-23T09:26:38.532062,Service BDESVC is Running.,No action needed unless new issues appear
+Services,BFE,Running,Low,2025-09-23T09:26:38.532064,Service BFE is Running.,No action needed unless new issues appear
+Services,BITS,Stopped,Medium,2025-09-23T09:26:38.532065,"Service ""BITS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BrokerInfrastructure,Running,Low,2025-09-23T09:26:38.532066,Service BrokerInfrastructure is Running.,No action needed unless new issues appear
+Services,Browser,Stopped,Medium,2025-09-23T09:26:38.532068,"Service ""Browser"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BTAGService,Stopped,Medium,2025-09-23T09:26:38.532069,"Service ""BTAGService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BthAvctpSvc,Stopped,Medium,2025-09-23T09:26:38.532070,"Service ""BthAvctpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,bthserv,Running,Low,2025-09-23T09:26:38.532074,Service bthserv is Running.,No action needed unless new issues appear
+Services,c2wts,Stopped,Medium,2025-09-23T09:26:38.532076,"Service ""c2wts"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,camsvc,Running,Low,2025-09-23T09:26:38.532077,Service camsvc is Running.,No action needed unless new issues appear
+Services,CDPSvc,Running,Low,2025-09-23T09:26:38.532078,Service CDPSvc is Running.,No action needed unless new issues appear
+Services,CertPropSvc,Running,Low,2025-09-23T09:26:38.532080,Service CertPropSvc is Running.,No action needed unless new issues appear
+Services,ClickToRunSvc,Running,Low,2025-09-23T09:26:38.532081,Service ClickToRunSvc is Running.,No action needed unless new issues appear
+Services,ClipSVC,Stopped,Medium,2025-09-23T09:26:38.532082,"Service ""ClipSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,COMSysApp,Stopped,Medium,2025-09-23T09:26:38.532084,"Service ""COMSysApp"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CoreMessagingRegistrar,Running,Low,2025-09-23T09:26:38.532085,Service CoreMessagingRegistrar is Running.,No action needed unless new issues appear
+Services,cplspcon,Running,Low,2025-09-23T09:26:38.532087,Service cplspcon is Running.,No action needed unless new issues appear
+Services,CryptSvc,Running,Low,2025-09-23T09:26:38.532088,Service CryptSvc is Running.,No action needed unless new issues appear
+Services,DcomLaunch,Running,Low,2025-09-23T09:26:38.532089,Service DcomLaunch is Running.,No action needed unless new issues appear
+Services,dcsvc,Stopped,Medium,2025-09-23T09:26:38.532091,"Service ""dcsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,debugregsvc,Stopped,Medium,2025-09-23T09:26:38.532092,"Service ""debugregsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,defragsvc,Stopped,Medium,2025-09-23T09:26:38.532094,"Service ""defragsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeveloperToolsService,Stopped,Medium,2025-09-23T09:26:38.532095,"Service ""DeveloperToolsService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationService,Running,Low,2025-09-23T09:26:38.532097,Service DeviceAssociationService is Running.,No action needed unless new issues appear
+Services,DeviceInstall,Stopped,Medium,2025-09-23T09:26:38.532098,"Service ""DeviceInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevQueryBroker,Stopped,Medium,2025-09-23T09:26:38.532099,"Service ""DevQueryBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dhcp,Running,Low,2025-09-23T09:26:38.532102,Service Dhcp is Running.,No action needed unless new issues appear
+Services,diagsvc,Stopped,Medium,2025-09-23T09:26:38.532103,"Service ""diagsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DiagTrack,Running,Low,2025-09-23T09:26:38.532105,Service DiagTrack is Running.,No action needed unless new issues appear
+Services,DispBrokerDesktopSvc,Running,Low,2025-09-23T09:26:38.532106,Service DispBrokerDesktopSvc is Running.,No action needed unless new issues appear
+Services,DisplayEnhancementService,Running,Low,2025-09-23T09:26:38.532108,Service DisplayEnhancementService is Running.,No action needed unless new issues appear
+Services,DmEnrollmentSvc,Stopped,Medium,2025-09-23T09:26:38.532109,"Service ""DmEnrollmentSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,dmwappushservice,Stopped,Medium,2025-09-23T09:26:38.532110,"Service ""dmwappushservice"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Dnscache,Running,Low,2025-09-23T09:26:38.532112,Service Dnscache is Running.,No action needed unless new issues appear
+Services,DoSvc,Running,Low,2025-09-23T09:26:38.532113,Service DoSvc is Running.,No action needed unless new issues appear
+Services,dot3svc,Stopped,Medium,2025-09-23T09:26:38.532114,"Service ""dot3svc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DPS,Running,Low,2025-09-23T09:26:38.532116,Service DPS is Running.,No action needed unless new issues appear
+Services,DsmSvc,Stopped,Medium,2025-09-23T09:26:38.532117,"Service ""DsmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DsSvc,Stopped,Medium,2025-09-23T09:26:38.532119,"Service ""DsSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DummyService,Stopped,Medium,2025-09-23T09:26:38.532120,"Service ""DummyService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DusmSvc,Running,Low,2025-09-23T09:26:38.532122,Service DusmSvc is Running.,No action needed unless new issues appear
+Services,EapHost,Stopped,Medium,2025-09-23T09:26:38.532123,"Service ""EapHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdate,Stopped,Medium,2025-09-23T09:26:38.532125,"Service ""edgeupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,edgeupdatem,Stopped,Medium,2025-09-23T09:26:38.532126,"Service ""edgeupdatem"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EFS,Stopped,Medium,2025-09-23T09:26:38.532128,"Service ""EFS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ELAN_MOC_Service,Running,Low,2025-09-23T09:26:38.532129,Service ELAN_MOC_Service is Running.,No action needed unless new issues appear
+Services,embeddedmode,Stopped,Medium,2025-09-23T09:26:38.532131,"Service ""embeddedmode"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,EntAppSvc,Stopped,Medium,2025-09-23T09:26:38.532132,"Service ""EntAppSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,esifsvc,Running,Low,2025-09-23T09:26:38.532133,Service esifsvc is Running.,No action needed unless new issues appear
+Services,ETDService,Running,Low,2025-09-23T09:26:38.532135,Service ETDService is Running.,No action needed unless new issues appear
+Services,EventLog,Running,Low,2025-09-23T09:26:38.532136,Service EventLog is Running.,No action needed unless new issues appear
+Services,EventSystem,Running,Low,2025-09-23T09:26:38.532137,Service EventSystem is Running.,No action needed unless new issues appear
+Services,Fax,Stopped,Medium,2025-09-23T09:26:38.532140,"Service ""Fax"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fdPHost,Stopped,Medium,2025-09-23T09:26:38.532141,"Service ""fdPHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FDResPub,Stopped,Medium,2025-09-23T09:26:38.532143,"Service ""FDResPub"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fhsvc,Stopped,Medium,2025-09-23T09:26:38.532144,"Service ""fhsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FontCache,Running,Low,2025-09-23T09:26:38.532146,Service FontCache is Running.,No action needed unless new issues appear
+Services,FrameServer,Stopped,Medium,2025-09-23T09:26:38.532147,"Service ""FrameServer"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,FrameServerMonitor,Stopped,Medium,2025-09-23T09:26:38.532149,"Service ""FrameServerMonitor"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,fussvc,Stopped,Medium,2025-09-23T09:26:38.532150,"Service ""fussvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GameInputSvc,Stopped,Medium,2025-09-23T09:26:38.532151,"Service ""GameInputSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleChromeElevationService,Stopped,Medium,2025-09-23T09:26:38.532153,"Service ""GoogleChromeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterInternalService141.0.7376.0,Stopped,Medium,2025-09-23T09:26:38.532154,"Service ""GoogleUpdaterInternalService141.0.7376.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,GoogleUpdaterService141.0.7376.0,Stopped,Medium,2025-09-23T09:26:38.532156,"Service ""GoogleUpdaterService141.0.7376.0"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,gpsvc,Running,Low,2025-09-23T09:26:38.532158,Service gpsvc is Running.,No action needed unless new issues appear
+Services,GraphicsPerfSvc,Stopped,Medium,2025-09-23T09:26:38.532160,"Service ""GraphicsPerfSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hidserv,Stopped,Medium,2025-09-23T09:26:38.532161,"Service ""hidserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,hns,Running,Low,2025-09-23T09:26:38.532163,Service hns is Running.,No action needed unless new issues appear
+Services,HPAppHelperCap,Running,Low,2025-09-23T09:26:38.532164,Service HPAppHelperCap is Running.,No action needed unless new issues appear
+Services,hpatchmon,Stopped,Medium,2025-09-23T09:26:38.532165,"Service ""hpatchmon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,HPDiagsCap,Running,Low,2025-09-23T09:26:38.532167,Service HPDiagsCap is Running.,No action needed unless new issues appear
+Services,HPNetworkCap,Running,Low,2025-09-23T09:26:38.532168,Service HPNetworkCap is Running.,No action needed unless new issues appear
+Services,HPSysInfoCap,Running,Low,2025-09-23T09:26:38.532169,Service HPSysInfoCap is Running.,No action needed unless new issues appear
+Services,HpTouchpointAnalyticsService,Running,Low,2025-09-23T09:26:38.532171,Service HpTouchpointAnalyticsService is Running.,No action needed unless new issues appear
+Services,HvHost,Running,Low,2025-09-23T09:26:38.532172,Service HvHost is Running.,No action needed unless new issues appear
+Services,icssvc,Stopped,Medium,2025-09-23T09:26:38.532174,"Service ""icssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,igccservice,Running,Low,2025-09-23T09:26:38.532175,Service igccservice is Running.,No action needed unless new issues appear
+Services,igfxCUIService2.0.0.0,Running,Low,2025-09-23T09:26:38.532177,Service igfxCUIService2.0.0.0 is Running.,No action needed unless new issues appear
+Services,IKEEXT,Stopped,Medium,2025-09-23T09:26:38.532178,"Service ""IKEEXT"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,InstallService,Running,Low,2025-09-23T09:26:38.532179,Service InstallService is Running.,No action needed unless new issues appear
+Services,Intel(R) TPM Provisioning Service,Stopped,Medium,2025-09-23T09:26:38.532181,"Service ""Intel(R) TPM Provisioning Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,IntelAudioService,Running,Low,2025-09-23T09:26:38.532183,Service IntelAudioService is Running.,No action needed unless new issues appear
+Services,InventorySvc,Running,Low,2025-09-23T09:26:38.532184,Service InventorySvc is Running.,No action needed unless new issues appear
+Services,iphlpsvc,Running,Low,2025-09-23T09:26:38.532185,Service iphlpsvc is Running.,No action needed unless new issues appear
+Services,IpOverUsbSvc,Running,Low,2025-09-23T09:26:38.532187,Service IpOverUsbSvc is Running.,No action needed unless new issues appear
+Services,IpxlatCfgSvc,Stopped,Medium,2025-09-23T09:26:38.532188,"Service ""IpxlatCfgSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,jhi_service,Running,Low,2025-09-23T09:26:38.532190,Service jhi_service is Running.,No action needed unless new issues appear
+Services,KeyIso,Running,Low,2025-09-23T09:26:38.532191,Service KeyIso is Running.,No action needed unless new issues appear
+Services,KtmRm,Stopped,Medium,2025-09-23T09:26:38.532193,"Service ""KtmRm"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LanmanServer,Running,Low,2025-09-23T09:26:38.532194,Service LanmanServer is Running.,No action needed unless new issues appear
+Services,LanmanWorkstation,Running,Low,2025-09-23T09:26:38.532195,Service LanmanWorkstation is Running.,No action needed unless new issues appear
+Services,lfsvc,Running,Low,2025-09-23T09:26:38.532197,Service lfsvc is Running.,No action needed unless new issues appear
+Services,LicenseManager,Running,Low,2025-09-23T09:26:38.532198,Service LicenseManager is Running.,No action needed unless new issues appear
+Services,lltdsvc,Stopped,Medium,2025-09-23T09:26:38.532200,"Service ""lltdsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,lmhosts,Running,Low,2025-09-23T09:26:38.532201,Service lmhosts is Running.,No action needed unless new issues appear
+Services,LocalKdc,Stopped,Medium,2025-09-23T09:26:38.532202,"Service ""LocalKdc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,LSM,Running,Low,2025-09-23T09:26:38.532205,Service LSM is Running.,No action needed unless new issues appear
+Services,LxpSvc,Stopped,Medium,2025-09-23T09:26:38.532206,"Service ""LxpSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MapsBroker,Stopped,Medium,2025-09-23T09:26:38.532208,"Service ""MapsBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McmSvc,Stopped,Medium,2025-09-23T09:26:38.532209,"Service ""McmSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,McpManagementService,Stopped,Medium,2025-09-23T09:26:38.532210,"Service ""McpManagementService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MDCoreSvc,Stopped,Medium,2025-09-23T09:26:38.532212,"Service ""MDCoreSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MicrosoftEdgeElevationService,Stopped,Medium,2025-09-23T09:26:38.532213,"Service ""MicrosoftEdgeElevationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MouseWithoutBordersSvc,Stopped,Medium,2025-09-23T09:26:38.532215,"Service ""MouseWithoutBordersSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,mpssvc,Running,Low,2025-09-23T09:26:38.532216,Service mpssvc is Running.,No action needed unless new issues appear
+Services,MSDTC,Stopped,Medium,2025-09-23T09:26:38.532218,"Service ""MSDTC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MSiSCSI,Stopped,Medium,2025-09-23T09:26:38.532219,"Service ""MSiSCSI"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,msiserver,Stopped,Medium,2025-09-23T09:26:38.532220,"Service ""msiserver"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,MuseAuthService,Running,Low,2025-09-23T09:26:38.532222,Service MuseAuthService is Running.,No action needed unless new issues appear
+Services,MuseHubUpdaterService,Stopped,Medium,2025-09-23T09:26:38.532223,"Service ""MuseHubUpdaterService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NaturalAuthentication,Running,Low,2025-09-23T09:26:38.532224,Service NaturalAuthentication is Running.,No action needed unless new issues appear
+Services,NcaSvc,Stopped,Medium,2025-09-23T09:26:38.532226,"Service ""NcaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NcbService,Running,Low,2025-09-23T09:26:38.532227,Service NcbService is Running.,No action needed unless new issues appear
+Services,NcdAutoSetup,Stopped,Medium,2025-09-23T09:26:38.532229,"Service ""NcdAutoSetup"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netlogon,Stopped,Medium,2025-09-23T09:26:38.532230,"Service ""Netlogon"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Netman,Stopped,Medium,2025-09-23T09:26:38.532231,"Service ""Netman"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,netprofm,Running,Low,2025-09-23T09:26:38.532233,Service netprofm is Running.,No action needed unless new issues appear
+Services,NetSetupSvc,Stopped,Medium,2025-09-23T09:26:38.532235,"Service ""NetSetupSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NetTcpPortSharing,Stopped,Medium,2025-09-23T09:26:38.532236,"Service ""NetTcpPortSharing"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcCtnrSvc,Stopped,Medium,2025-09-23T09:26:38.532238,"Service ""NgcCtnrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NgcSvc,Stopped,Medium,2025-09-23T09:26:38.532240,"Service ""NgcSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NlaSvc,Stopped,Medium,2025-09-23T09:26:38.532241,"Service ""NlaSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,nsi,Running,Low,2025-09-23T09:26:38.532242,Service nsi is Running.,No action needed unless new issues appear
+Services,nvagent,Running,Low,2025-09-23T09:26:38.532244,Service nvagent is Running.,No action needed unless new issues appear
+Services,ose,Stopped,Medium,2025-09-23T09:26:38.532245,"Service ""ose"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PcaSvc,Running,Low,2025-09-23T09:26:38.532247,Service PcaSvc is Running.,No action needed unless new issues appear
+Services,perceptionsimulation,Stopped,Medium,2025-09-23T09:26:38.532248,"Service ""perceptionsimulation"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PerfHost,Stopped,Medium,2025-09-23T09:26:38.532249,"Service ""PerfHost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PhoneSvc,Stopped,Medium,2025-09-23T09:26:38.532251,"Service ""PhoneSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,pla,Stopped,Medium,2025-09-23T09:26:38.532252,"Service ""pla"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PlugPlay,Running,Low,2025-09-23T09:26:38.532254,Service PlugPlay is Running.,No action needed unless new issues appear
+Services,PolicyAgent,Stopped,Medium,2025-09-23T09:26:38.532255,"Service ""PolicyAgent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Power,Running,Low,2025-09-23T09:26:38.532257,Service Power is Running.,No action needed unless new issues appear
+Services,PrintDeviceConfigurationService,Stopped,Medium,2025-09-23T09:26:38.532258,"Service ""PrintDeviceConfigurationService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintNotify,Stopped,Medium,2025-09-23T09:26:38.532259,"Service ""PrintNotify"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PrintScanBrokerService,Stopped,Medium,2025-09-23T09:26:38.532261,"Service ""PrintScanBrokerService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ProfSvc,Running,Low,2025-09-23T09:26:38.532263,Service ProfSvc is Running.,No action needed unless new issues appear
+Services,PushToInstall,Stopped,Medium,2025-09-23T09:26:38.532264,"Service ""PushToInstall"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QHActiveDefense,Running,Low,2025-09-23T09:26:38.532265,Service QHActiveDefense is Running.,No action needed unless new issues appear
+Services,QHProtected,Stopped,Medium,2025-09-23T09:26:38.532267,"Service ""QHProtected"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,QWAVE,Stopped,Medium,2025-09-23T09:26:38.532268,"Service ""QWAVE"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasAuto,Stopped,Medium,2025-09-23T09:26:38.532269,"Service ""RasAuto"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RasMan,Running,Low,2025-09-23T09:26:38.532271,Service RasMan is Running.,No action needed unless new issues appear
+Services,refsdedupsvc,Stopped,Medium,2025-09-23T09:26:38.532272,"Service ""refsdedupsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteAccess,Stopped,Medium,2025-09-23T09:26:38.532274,"Service ""RemoteAccess"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RemoteRegistry,Stopped,Medium,2025-09-23T09:26:38.532275,"Service ""RemoteRegistry"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RetailDemo,Stopped,Medium,2025-09-23T09:26:38.532277,"Service ""RetailDemo"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RmSvc,Running,Low,2025-09-23T09:26:38.532279,Service RmSvc is Running.,No action needed unless new issues appear
+Services,RpcEptMapper,Running,Low,2025-09-23T09:26:38.532280,Service RpcEptMapper is Running.,No action needed unless new issues appear
+Services,RpcLocator,Stopped,Medium,2025-09-23T09:26:38.532281,"Service ""RpcLocator"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,RpcSs,Running,Low,2025-09-23T09:26:38.532283,Service RpcSs is Running.,No action needed unless new issues appear
+Services,RstMwService,Running,Low,2025-09-23T09:26:38.532284,Service RstMwService is Running.,No action needed unless new issues appear
+Services,RtkAudioUniversalService,Running,Low,2025-09-23T09:26:38.532286,Service RtkAudioUniversalService is Running.,No action needed unless new issues appear
+Services,SamSs,Running,Low,2025-09-23T09:26:38.532287,Service SamSs is Running.,No action needed unless new issues appear
+Services,SCardSvr,Stopped,Medium,2025-09-23T09:26:38.532289,"Service ""SCardSvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ScDeviceEnum,Stopped,Medium,2025-09-23T09:26:38.532290,"Service ""ScDeviceEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Schedule,Running,Low,2025-09-23T09:26:38.532292,Service Schedule is Running.,No action needed unless new issues appear
+Services,SCPolicySvc,Stopped,Medium,2025-09-23T09:26:38.532293,"Service ""SCPolicySvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SDRSVC,Stopped,Medium,2025-09-23T09:26:38.532294,"Service ""SDRSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,seclogon,Running,Low,2025-09-23T09:26:38.532296,Service seclogon is Running.,No action needed unless new issues appear
+Services,SECOMNService,Running,Low,2025-09-23T09:26:38.532297,Service SECOMNService is Running.,No action needed unless new issues appear
+Services,SecurityHealthService,Running,Low,2025-09-23T09:26:38.532299,Service SecurityHealthService is Running.,No action needed unless new issues appear
+Services,SEMgrSvc,Stopped,Medium,2025-09-23T09:26:38.532300,"Service ""SEMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SENS,Running,Low,2025-09-23T09:26:38.532302,Service SENS is Running.,No action needed unless new issues appear
+Services,SensorDataService,Stopped,Medium,2025-09-23T09:26:38.532303,"Service ""SensorDataService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SensorService,Running,Low,2025-09-23T09:26:38.532304,Service SensorService is Running.,No action needed unless new issues appear
+Services,SensrSvc,Stopped,Medium,2025-09-23T09:26:38.532306,"Service ""SensrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SessionEnv,Running,Low,2025-09-23T09:26:38.532307,Service SessionEnv is Running.,No action needed unless new issues appear
+Services,SharedAccess,Running,Low,2025-09-23T09:26:38.532308,Service SharedAccess is Running.,No action needed unless new issues appear
+Services,ShellHWDetection,Running,Low,2025-09-23T09:26:38.532310,Service ShellHWDetection is Running.,No action needed unless new issues appear
+Services,shpamsvc,Stopped,Medium,2025-09-23T09:26:38.532311,"Service ""shpamsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,smphost,Stopped,Medium,2025-09-23T09:26:38.532313,"Service ""smphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SmsRouter,Stopped,Medium,2025-09-23T09:26:38.532314,"Service ""SmsRouter"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SNMPTrap,Stopped,Medium,2025-09-23T09:26:38.532316,"Service ""SNMPTrap"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Spooler,Running,Low,2025-09-23T09:26:38.532317,Service Spooler is Running.,No action needed unless new issues appear
+Services,sppsvc,Running,Low,2025-09-23T09:26:38.532318,Service sppsvc is Running.,No action needed unless new issues appear
+Services,SQLWriter,Running,Low,2025-09-23T09:26:38.532320,Service SQLWriter is Running.,No action needed unless new issues appear
+Services,SSDPSRV,Running,Low,2025-09-23T09:26:38.532321,Service SSDPSRV is Running.,No action needed unless new issues appear
+Services,ssh-agent,Stopped,Medium,2025-09-23T09:26:38.532323,"Service ""ssh-agent"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,sshd,Stopped,Medium,2025-09-23T09:26:38.532324,"Service ""sshd"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SshdBroker,Stopped,Medium,2025-09-23T09:26:38.532325,"Service ""SshdBroker"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SstpSvc,Running,Low,2025-09-23T09:26:38.532327,Service SstpSvc is Running.,No action needed unless new issues appear
+Services,StateRepository,Running,Low,2025-09-23T09:26:38.532328,Service StateRepository is Running.,No action needed unless new issues appear
+Services,StiSvc,Running,Low,2025-09-23T09:26:38.532330,Service StiSvc is Running.,No action needed unless new issues appear
+Services,StorSvc,Running,Low,2025-09-23T09:26:38.532331,Service StorSvc is Running.,No action needed unless new issues appear
+Services,svsvc,Stopped,Medium,2025-09-23T09:26:38.532332,"Service ""svsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,swprv,Stopped,Medium,2025-09-23T09:26:38.532334,"Service ""swprv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,SysMain,Running,Low,2025-09-23T09:26:38.532335,Service SysMain is Running.,No action needed unless new issues appear
+Services,SystemEventsBroker,Running,Low,2025-09-23T09:26:38.532337,Service SystemEventsBroker is Running.,No action needed unless new issues appear
+Services,TapiSrv,Running,Low,2025-09-23T09:26:38.532339,Service TapiSrv is Running.,No action needed unless new issues appear
+Services,Te.Service,Stopped,Medium,2025-09-23T09:26:38.532340,"Service ""Te.Service"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TermService,Running,Low,2025-09-23T09:26:38.532342,Service TermService is Running.,No action needed unless new issues appear
+Services,TextInputManagementService,Running,Low,2025-09-23T09:26:38.532343,Service TextInputManagementService is Running.,No action needed unless new issues appear
+Services,Themes,Running,Low,2025-09-23T09:26:38.532345,Service Themes is Running.,No action needed unless new issues appear
+Services,TieringEngineService,Stopped,Medium,2025-09-23T09:26:38.532346,"Service ""TieringEngineService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TimeBrokerSvc,Running,Low,2025-09-23T09:26:38.532347,Service TimeBrokerSvc is Running.,No action needed unless new issues appear
+Services,TokenBroker,Running,Low,2025-09-23T09:26:38.532349,Service TokenBroker is Running.,No action needed unless new issues appear
+Services,TrkWks,Running,Low,2025-09-23T09:26:38.532350,Service TrkWks is Running.,No action needed unless new issues appear
+Services,TroubleshootingSvc,Stopped,Medium,2025-09-23T09:26:38.532352,"Service ""TroubleshootingSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TrustedInstaller,Stopped,Medium,2025-09-23T09:26:38.532353,"Service ""TrustedInstaller"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,TurboVPNService,Running,Low,2025-09-23T09:26:38.532355,Service TurboVPNService is Running.,No action needed unless new issues appear
+Services,tzautoupdate,Stopped,Medium,2025-09-23T09:26:38.532356,"Service ""tzautoupdate"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UmRdpService,Running,Low,2025-09-23T09:26:38.532357,Service UmRdpService is Running.,No action needed unless new issues appear
+Services,upnphost,Stopped,Medium,2025-09-23T09:26:38.532359,"Service ""upnphost"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UserManager,Running,Low,2025-09-23T09:26:38.532360,Service UserManager is Running.,No action needed unless new issues appear
+Services,UsoSvc,Running,Low,2025-09-23T09:26:38.532361,Service UsoSvc is Running.,No action needed unless new issues appear
+Services,VaultSvc,Running,Low,2025-09-23T09:26:38.532363,Service VaultSvc is Running.,No action needed unless new issues appear
+Services,VBoxSDS,Stopped,Medium,2025-09-23T09:26:38.532365,"Service ""VBoxSDS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vds,Stopped,Medium,2025-09-23T09:26:38.532366,"Service ""vds"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmcompute,Stopped,Medium,2025-09-23T09:26:38.532367,"Service ""vmcompute"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicguestinterface,Stopped,Medium,2025-09-23T09:26:38.532369,"Service ""vmicguestinterface"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicheartbeat,Stopped,Medium,2025-09-23T09:26:38.532370,"Service ""vmicheartbeat"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmickvpexchange,Stopped,Medium,2025-09-23T09:26:38.532371,"Service ""vmickvpexchange"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicrdv,Stopped,Medium,2025-09-23T09:26:38.532373,"Service ""vmicrdv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicshutdown,Stopped,Medium,2025-09-23T09:26:38.532374,"Service ""vmicshutdown"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmictimesync,Stopped,Medium,2025-09-23T09:26:38.532376,"Service ""vmictimesync"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvmsession,Stopped,Medium,2025-09-23T09:26:38.532377,"Service ""vmicvmsession"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,vmicvss,Stopped,Medium,2025-09-23T09:26:38.532378,"Service ""vmicvss"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VsEtwService120,Stopped,Medium,2025-09-23T09:26:38.532380,"Service ""VsEtwService120"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,VSS,Stopped,Medium,2025-09-23T09:26:38.532381,"Service ""VSS"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,W32Time,Stopped,Medium,2025-09-23T09:26:38.532383,"Service ""W32Time"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WaaSMedicSvc,Stopped,Medium,2025-09-23T09:26:38.532385,"Service ""WaaSMedicSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WalletService,Stopped,Medium,2025-09-23T09:26:38.532387,"Service ""WalletService"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WarpJITSvc,Stopped,Medium,2025-09-23T09:26:38.532389,"Service ""WarpJITSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wbengine,Stopped,Medium,2025-09-23T09:26:38.532390,"Service ""wbengine"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WbioSrvc,Stopped,Medium,2025-09-23T09:26:38.532391,"Service ""WbioSrvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,Wcmsvc,Running,Low,2025-09-23T09:26:38.532393,Service Wcmsvc is Running.,No action needed unless new issues appear
+Services,wcncsvc,Stopped,Medium,2025-09-23T09:26:38.532394,"Service ""wcncsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WdiServiceHost,Running,Low,2025-09-23T09:26:38.532396,Service WdiServiceHost is Running.,No action needed unless new issues appear
+Services,WdiSystemHost,Running,Low,2025-09-23T09:26:38.532397,Service WdiSystemHost is Running.,No action needed unless new issues appear
+Services,WdNisSvc,Stopped,Medium,2025-09-23T09:26:38.532399,"Service ""WdNisSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebClient,Stopped,Medium,2025-09-23T09:26:38.532400,"Service ""WebClient"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WebManagement,Running,Low,2025-09-23T09:26:38.532402,Service WebManagement is Running.,No action needed unless new issues appear
+Services,webthreatdefsvc,Running,Low,2025-09-23T09:26:38.532403,Service webthreatdefsvc is Running.,No action needed unless new issues appear
+Services,Wecsvc,Stopped,Medium,2025-09-23T09:26:38.532404,"Service ""Wecsvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WEPHOSTSVC,Stopped,Medium,2025-09-23T09:26:38.532406,"Service ""WEPHOSTSVC"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wercplsupport,Stopped,Medium,2025-09-23T09:26:38.532407,"Service ""wercplsupport"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WerSvc,Stopped,Medium,2025-09-23T09:26:38.532408,"Service ""WerSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WFDSConMgrSvc,Stopped,Medium,2025-09-23T09:26:38.532410,"Service ""WFDSConMgrSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,whesvc,Running,Low,2025-09-23T09:26:38.532411,Service whesvc is Running.,No action needed unless new issues appear
+Services,WiaRpc,Stopped,Medium,2025-09-23T09:26:38.532413,"Service ""WiaRpc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinDefend,Stopped,Medium,2025-09-23T09:26:38.532414,"Service ""WinDefend"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WinHttpAutoProxySvc,Running,Low,2025-09-23T09:26:38.532415,Service WinHttpAutoProxySvc is Running.,No action needed unless new issues appear
+Services,Winmgmt,Running,Low,2025-09-23T09:26:38.532417,Service Winmgmt is Running.,No action needed unless new issues appear
+Services,WinRM,Stopped,Medium,2025-09-23T09:26:38.532418,"Service ""WinRM"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wisvc,Stopped,Medium,2025-09-23T09:26:38.532420,"Service ""wisvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WlanSvc,Running,Low,2025-09-23T09:26:38.532421,Service WlanSvc is Running.,No action needed unless new issues appear
+Services,wlidsvc,Running,Low,2025-09-23T09:26:38.532422,Service wlidsvc is Running.,No action needed unless new issues appear
+Services,wlpasvc,Stopped,Medium,2025-09-23T09:26:38.532424,"Service ""wlpasvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WManSvc,Stopped,Medium,2025-09-23T09:26:38.532425,"Service ""WManSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,wmiApSrv,Stopped,Medium,2025-09-23T09:26:38.532426,"Service ""wmiApSrv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WMIRegistrationService,Running,Low,2025-09-23T09:26:38.532428,Service WMIRegistrationService is Running.,No action needed unless new issues appear
+Services,WMPNetworkSvc,Stopped,Medium,2025-09-23T09:26:38.532429,"Service ""WMPNetworkSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,workfolderssvc,Stopped,Medium,2025-09-23T09:26:38.532431,"Service ""workfolderssvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpcMonSvc,Stopped,Medium,2025-09-23T09:26:38.532432,"Service ""WpcMonSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WPDBusEnum,Stopped,Medium,2025-09-23T09:26:38.532433,"Service ""WPDBusEnum"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WpnService,Running,Low,2025-09-23T09:26:38.532435,Service WpnService is Running.,No action needed unless new issues appear
+Services,wpscloudsvr,Stopped,Medium,2025-09-23T09:26:38.532437,"Service ""wpscloudsvr"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WSAIFabricSvc,Running,Low,2025-09-23T09:26:38.532438,Service WSAIFabricSvc is Running.,No action needed unless new issues appear
+Services,wscsvc,Running,Low,2025-09-23T09:26:38.532439,Service wscsvc is Running.,No action needed unless new issues appear
+Services,WSearch,Running,Low,2025-09-23T09:26:38.532441,Service WSearch is Running.,No action needed unless new issues appear
+Services,WSLService,Running,Low,2025-09-23T09:26:38.532442,Service WSLService is Running.,No action needed unless new issues appear
+Services,wuauserv,Stopped,Medium,2025-09-23T09:26:38.532444,"Service ""wuauserv"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,WwanSvc,Stopped,Medium,2025-09-23T09:26:38.532445,"Service ""WwanSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XblAuthManager,Running,Low,2025-09-23T09:26:38.532446,Service XblAuthManager is Running.,No action needed unless new issues appear
+Services,XblGameSave,Stopped,Medium,2025-09-23T09:26:38.532448,"Service ""XblGameSave"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxGipSvc,Stopped,Medium,2025-09-23T09:26:38.532449,"Service ""XboxGipSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,XboxNetApiSvc,Stopped,Medium,2025-09-23T09:26:38.532451,"Service ""XboxNetApiSvc"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,AarSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532452,"Service ""AarSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,BcastDVRUserService_2f81943b,Running,Low,2025-09-23T09:26:38.532453,Service BcastDVRUserService_2f81943b is Running.,No action needed unless new issues appear
+Services,BluetoothUserService_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532455,"Service ""BluetoothUserService_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CaptureService_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532456,"Service ""CaptureService_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,cbdhsvc_2f81943b,Running,Low,2025-09-23T09:26:38.532457,Service cbdhsvc_2f81943b is Running.,No action needed unless new issues appear
+Services,CDPUserSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532459,Service CDPUserSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,CloudBackupRestoreSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532460,"Service ""CloudBackupRestoreSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,ConsentUxUserSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532461,"Service ""ConsentUxUserSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,CredentialEnrollmentManagerUserSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532463,"Service ""CredentialEnrollmentManagerUserSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DeviceAssociationBrokerSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532464,"Service ""DeviceAssociationBrokerSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicePickerUserSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532465,"Service ""DevicePickerUserSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,DevicesFlowUserSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532467,Service DevicesFlowUserSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,MessagingService_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532468,"Service ""MessagingService_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,NPSMSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532470,Service NPSMSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,OneSyncSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532471,Service OneSyncSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,P9RdrService_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532472,"Service ""P9RdrService_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PenService_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532474,"Service ""PenService_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,PimIndexMaintenanceSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532476,Service PimIndexMaintenanceSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,PrintWorkflowUserSvc_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532477,"Service ""PrintWorkflowUserSvc_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,UdkUserSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532478,Service UdkUserSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,UnistoreSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532480,Service UnistoreSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,UserDataSvc_2f81943b,Running,Low,2025-09-23T09:26:38.532481,Service UserDataSvc_2f81943b is Running.,No action needed unless new issues appear
+Services,WebManagementUser_2f81943b,Stopped,Medium,2025-09-23T09:26:38.532482,"Service ""WebManagementUser_2f81943b"" is set to start automatically but is currently stopped.
+Dependent features or applications may fail.",Check Event Viewer for error codes; restart the service if appropriate or change its Startup Type to Manual if it’s no longer needed.
+Services,webthreatdefusersvc_2f81943b,Running,Low,2025-09-23T09:26:38.532484,Service webthreatdefusersvc_2f81943b is Running.,No action needed unless new issues appear
+Services,WpnUserService_2f81943b,Running,Low,2025-09-23T09:26:38.532485,Service WpnUserService_2f81943b is Running.,No action needed unless new issues appear
+Tasks,\Adobe Creative Cloud,Running,Medium,2025-09-23T09:26:41.001775,Scheduled task \Adobe Creative Cloud status is Running.,Research further and monitor closely
+Tasks,\DemoTask,Ready,Low,2025-09-23T09:26:41.001783,Scheduled task \DemoTask status is Ready.,No action needed unless new issues appear
+Tasks,\Launch Adobe CCXProcess,Ready,Low,2025-09-23T09:26:41.001788,Scheduled task \Launch Adobe CCXProcess status is Ready.,No action needed unless new issues appear
+Tasks,\OneDrive Reporting Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,Low,2025-09-23T09:26:41.001792,Scheduled task \OneDrive Reporting Task-S-1-5-21-173275056-1875085541-2184235952-1001 status is Ready.,No action needed unless new issues appear
+Tasks,\OneDrive Standalone Update Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,Low,2025-09-23T09:26:41.001793,Scheduled task \OneDrive Standalone Update Task-S-1-5-21-173275056-1875085541-2184235952-1001 status is Ready.,No action needed unless new issues appear
+Tasks,\OneDrive Startup Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,Low,2025-09-23T09:26:41.001794,Scheduled task \OneDrive Startup Task-S-1-5-21-173275056-1875085541-2184235952-1001 status is Ready.,No action needed unless new issues appear
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,Low,2025-09-23T09:26:41.001796,Scheduled task \Opera scheduled assistant Autoupdate 1744204156 status is Ready.,No action needed unless new issues appear
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,Low,2025-09-23T09:26:41.001797,Scheduled task \Opera scheduled assistant Autoupdate 1744204156 status is Ready.,No action needed unless new issues appear
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,Low,2025-09-23T09:26:41.001798,Scheduled task \Opera scheduled Autoupdate 1744204153 status is Ready.,No action needed unless new issues appear
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,Low,2025-09-23T09:26:41.001799,Scheduled task \Opera scheduled Autoupdate 1744204153 status is Ready.,No action needed unless new issues appear
+Tasks,\Scheduled Update for Ask Toolbar,Ready,Low,2025-09-23T09:26:41.001800,Scheduled task \Scheduled Update for Ask Toolbar status is Ready.,No action needed unless new issues appear
+Tasks,\User_Feed_Synchronization-{2FAA476C-6D7F-4D5D-AB2E-49648B08195D},Ready,Low,2025-09-23T09:26:41.001802,Scheduled task \User_Feed_Synchronization-{2FAA476C-6D7F-4D5D-AB2E-49648B08195D} status is Ready.,No action needed unless new issues appear
+Tasks,\WpsExternal_III_interval,Ready,Low,2025-09-23T09:26:41.001803,Scheduled task \WpsExternal_III_interval status is Ready.,No action needed unless new issues appear
+Tasks,\WpsExternal_III_startup,Running,Medium,2025-09-23T09:26:41.001805,Scheduled task \WpsExternal_III_startup status is Running.,Research further and monitor closely
+Tasks,\WpsUpdateTask_III,Ready,Low,2025-09-23T09:26:41.001806,Scheduled task \WpsUpdateTask_III status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001807,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001808,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001810,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Office\Office Actions Server,Ready,Low,2025-09-23T09:26:41.001811,Scheduled task \Microsoft\Office\Office Actions Server status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Actions Server,Ready,Low,2025-09-23T09:26:41.001812,Scheduled task \Microsoft\Office\Office Actions Server status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,Low,2025-09-23T09:26:41.001813,Scheduled task \Microsoft\Office\Office Automatic Updates 2.0 status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,Low,2025-09-23T09:26:41.001814,Scheduled task \Microsoft\Office\Office Automatic Updates 2.0 status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,Low,2025-09-23T09:26:41.001816,Scheduled task \Microsoft\Office\Office Automatic Updates 2.0 status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,Low,2025-09-23T09:26:41.001817,Scheduled task \Microsoft\Office\Office Background Push Maintenance status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,Low,2025-09-23T09:26:41.001818,Scheduled task \Microsoft\Office\Office Background Push Maintenance status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office ClickToRun Service Monitor,Ready,Low,2025-09-23T09:26:41.001819,Scheduled task \Microsoft\Office\Office ClickToRun Service Monitor status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,Low,2025-09-23T09:26:41.001820,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,Low,2025-09-23T09:26:41.001821,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,Low,2025-09-23T09:26:41.001823,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,Low,2025-09-23T09:26:41.001824,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,Low,2025-09-23T09:26:41.001825,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,Low,2025-09-23T09:26:41.001826,Scheduled task \Microsoft\Office\Office Feature Updates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,Low,2025-09-23T09:26:41.001827,Scheduled task \Microsoft\Office\Office Feature Updates Logon status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,Low,2025-09-23T09:26:41.001828,Scheduled task \Microsoft\Office\Office Feature Updates Logon status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001829,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001831,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001832,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319,Ready,Low,2025-09-23T09:26:41.001833,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64,Ready,Low,2025-09-23T09:26:41.001834,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical,Disabled,Medium,2025-09-23T09:26:41.001835,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical,Disabled,Medium,2025-09-23T09:26:41.001836,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001837,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\AccountHealth\RecoverabilityToastTask,Ready,Low,2025-09-23T09:26:41.001838,Scheduled task \Microsoft\Windows\AccountHealth\RecoverabilityToastTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001840,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,Medium,2025-09-23T09:26:41.001841,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,Medium,2025-09-23T09:26:41.001842,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual),Ready,Low,2025-09-23T09:26:41.001843,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual) status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001844,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\AppID\PolicyConverter,Disabled,Medium,2025-09-23T09:26:41.001845,Scheduled task \Microsoft\Windows\AppID\PolicyConverter status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck,Disabled,Medium,2025-09-23T09:26:41.001846,Scheduled task \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001848,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Application Experience\MareBackup,Ready,Low,2025-09-23T09:26:41.001849,Scheduled task \Microsoft\Windows\Application Experience\MareBackup status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser,Ready,Low,2025-09-23T09:26:41.001850,Scheduled task \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser Exp,Ready,Low,2025-09-23T09:26:41.001851,Scheduled task \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser Exp status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Application Experience\PcaPatchDbTask,Ready,Low,2025-09-23T09:26:41.001853,Scheduled task \Microsoft\Windows\Application Experience\PcaPatchDbTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,Low,2025-09-23T09:26:41.001854,Scheduled task \Microsoft\Windows\Application Experience\SdbinstMergeDbTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,Low,2025-09-23T09:26:41.001855,Scheduled task \Microsoft\Windows\Application Experience\SdbinstMergeDbTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Application Experience\StartupAppTask,Ready,Low,2025-09-23T09:26:41.001856,Scheduled task \Microsoft\Windows\Application Experience\StartupAppTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001857,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierdaily,Ready,Low,2025-09-23T09:26:41.001859,Scheduled task \Microsoft\Windows\ApplicationData\appuriverifierdaily status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierinstall,Ready,Low,2025-09-23T09:26:41.001860,Scheduled task \Microsoft\Windows\ApplicationData\appuriverifierinstall status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\ApplicationData\CleanupTemporaryState,Ready,Low,2025-09-23T09:26:41.001861,Scheduled task \Microsoft\Windows\ApplicationData\CleanupTemporaryState status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\ApplicationData\DsSvcCleanup,Ready,Low,2025-09-23T09:26:41.001862,Scheduled task \Microsoft\Windows\ApplicationData\DsSvcCleanup status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001863,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\AppListBackup\Backup,Ready,Low,2025-09-23T09:26:41.001864,Scheduled task \Microsoft\Windows\AppListBackup\Backup status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\AppListBackup\BackupNonMaintenance,Ready,Low,2025-09-23T09:26:41.001866,Scheduled task \Microsoft\Windows\AppListBackup\BackupNonMaintenance status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001867,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup,Disabled,Medium,2025-09-23T09:26:41.001868,Scheduled task \Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001869,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Autochk\Proxy,Ready,Low,2025-09-23T09:26:41.001870,Scheduled task \Microsoft\Windows\Autochk\Proxy status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001871,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\BitLocker\BitLocker Encrypt All Drives,Ready,Low,2025-09-23T09:26:41.001872,Scheduled task \Microsoft\Windows\BitLocker\BitLocker Encrypt All Drives status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\BitLocker\BitLocker MDM policy Refresh,Ready,Low,2025-09-23T09:26:41.001874,Scheduled task \Microsoft\Windows\BitLocker\BitLocker MDM policy Refresh status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001875,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Bluetooth\UninstallDeviceTask,Ready,Low,2025-09-23T09:26:41.001876,Scheduled task \Microsoft\Windows\Bluetooth\UninstallDeviceTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001877,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\BrokerInfrastructure\BgTaskRegistrationMaintenanceTask,Ready,Low,2025-09-23T09:26:41.001878,Scheduled task \Microsoft\Windows\BrokerInfrastructure\BgTaskRegistrationMaintenanceTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001880,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\capabilityaccessmanager\maintenancetasks,Ready,Low,2025-09-23T09:26:41.001881,Scheduled task \Microsoft\Windows\capabilityaccessmanager\maintenancetasks status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001882,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,Low,2025-09-23T09:26:41.001883,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,Low,2025-09-23T09:26:41.001884,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,Low,2025-09-23T09:26:41.001885,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,Low,2025-09-23T09:26:41.001887,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,Low,2025-09-23T09:26:41.001888,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask-Roam status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,Low,2025-09-23T09:26:41.001889,Scheduled task \Microsoft\Windows\CertificateServicesClient\UserTask-Roam status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001890,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Chkdsk\ProactiveScan,Ready,Low,2025-09-23T09:26:41.001891,Scheduled task \Microsoft\Windows\Chkdsk\ProactiveScan status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Chkdsk\SyspartRepair,Ready,Low,2025-09-23T09:26:41.001893,Scheduled task \Microsoft\Windows\Chkdsk\SyspartRepair status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001894,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\CloudExperienceHost\CreateObjectTask,Ready,Low,2025-09-23T09:26:41.001895,Scheduled task \Microsoft\Windows\CloudExperienceHost\CreateObjectTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001896,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,Low,2025-09-23T09:26:41.001897,Scheduled task \Microsoft\Windows\CloudRestore\Backup status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,Low,2025-09-23T09:26:41.001899,Scheduled task \Microsoft\Windows\CloudRestore\Backup status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\CloudRestore\Restore,Ready,Low,2025-09-23T09:26:41.001900,Scheduled task \Microsoft\Windows\CloudRestore\Restore status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001901,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001903,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,Low,2025-09-23T09:26:41.001904,Scheduled task \Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,Low,2025-09-23T09:26:41.001905,Scheduled task \Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001906,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\Consolidator,Ready,Low,2025-09-23T09:26:41.001907,Scheduled task \Microsoft\Windows\Customer Experience Improvement Program\Consolidator status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip,Ready,Low,2025-09-23T09:26:41.001909,Scheduled task \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001910,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,Low,2025-09-23T09:26:41.001911,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,Low,2025-09-23T09:26:41.001912,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan,Ready,Low,2025-09-23T09:26:41.001913,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery,Ready,Low,2025-09-23T09:26:41.001914,Scheduled task \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001915,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Defrag\ScheduledDefrag,Ready,Low,2025-09-23T09:26:41.001917,Scheduled task \Microsoft\Windows\Defrag\ScheduledDefrag status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001918,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,Low,2025-09-23T09:26:41.001919,Scheduled task \Microsoft\Windows\Device Information\Device status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,Low,2025-09-23T09:26:41.001920,Scheduled task \Microsoft\Windows\Device Information\Device status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Device Information\Device User,Ready,Low,2025-09-23T09:26:41.001922,Scheduled task \Microsoft\Windows\Device Information\Device User status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001923,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Device Setup\Driver Recovery on Reboot,Disabled,Medium,2025-09-23T09:26:41.001924,Scheduled task \Microsoft\Windows\Device Setup\Driver Recovery on Reboot status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001925,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,Low,2025-09-23T09:26:41.001926,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,Low,2025-09-23T09:26:41.001927,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,Low,2025-09-23T09:26:41.001929,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,Low,2025-09-23T09:26:41.001930,Scheduled task \Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Diagnosis\Scheduled,Ready,Low,2025-09-23T09:26:41.001931,Scheduled task \Microsoft\Windows\Diagnosis\Scheduled status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Diagnosis\UnexpectedCodepath,Ready,Low,2025-09-23T09:26:41.001932,Scheduled task \Microsoft\Windows\Diagnosis\UnexpectedCodepath status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001934,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,Low,2025-09-23T09:26:41.001935,Scheduled task \Microsoft\Windows\DirectX\DirectXDatabaseUpdater status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,Low,2025-09-23T09:26:41.001936,Scheduled task \Microsoft\Windows\DirectX\DirectXDatabaseUpdater status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,Low,2025-09-23T09:26:41.001937,Scheduled task \Microsoft\Windows\DirectX\DXGIAdapterCache status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,Low,2025-09-23T09:26:41.001939,Scheduled task \Microsoft\Windows\DirectX\DXGIAdapterCache status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,Low,2025-09-23T09:26:41.001940,Scheduled task \Microsoft\Windows\DirectX\DXGIAdapterCache status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001941,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\DiskCleanup\SilentCleanup,Ready,Low,2025-09-23T09:26:41.001942,Scheduled task \Microsoft\Windows\DiskCleanup\SilentCleanup status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001943,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector,Disabled,Medium,2025-09-23T09:26:41.001945,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver,Disabled,Medium,2025-09-23T09:26:41.001946,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001947,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\DiskFootprint\Diagnostics,Ready,Low,2025-09-23T09:26:41.001948,Scheduled task \Microsoft\Windows\DiskFootprint\Diagnostics status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\DiskFootprint\StorageSense,Ready,Low,2025-09-23T09:26:41.001949,Scheduled task \Microsoft\Windows\DiskFootprint\StorageSense status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001950,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\DUSM\dusmtask,Ready,Low,2025-09-23T09:26:41.001951,Scheduled task \Microsoft\Windows\DUSM\dusmtask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001953,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\EDP\EDP App Launch Task,Ready,Low,2025-09-23T09:26:41.001954,Scheduled task \Microsoft\Windows\EDP\EDP App Launch Task status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\EDP\EDP Auth Task,Ready,Low,2025-09-23T09:26:41.001955,Scheduled task \Microsoft\Windows\EDP\EDP Auth Task status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\EDP\EDP Inaccessible Credentials Task,Ready,Low,2025-09-23T09:26:41.001956,Scheduled task \Microsoft\Windows\EDP\EDP Inaccessible Credentials Task status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\EDP\StorageCardEncryption Task,Ready,Low,2025-09-23T09:26:41.001957,Scheduled task \Microsoft\Windows\EDP\StorageCardEncryption Task status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001958,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,Low,2025-09-23T09:26:41.001960,Scheduled task \Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,Low,2025-09-23T09:26:41.001961,Scheduled task \Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,Low,2025-09-23T09:26:41.001962,Scheduled task \Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001963,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001964,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClient,Ready,Low,2025-09-23T09:26:41.001966,Scheduled task \Microsoft\Windows\Feedback\Siuf\DmClient status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload,Ready,Low,2025-09-23T09:26:41.001967,Scheduled task \Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001968,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\FileHistory\File History (maintenance mode),Ready,Low,2025-09-23T09:26:41.001970,Scheduled task \Microsoft\Windows\FileHistory\File History (maintenance mode) status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001971,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001972,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting,Disabled,Medium,2025-09-23T09:26:41.001973,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\GovernedFeatureUsageProcessing,Ready,Low,2025-09-23T09:26:41.001974,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\GovernedFeatureUsageProcessing status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileConfigs,Ready,Low,2025-09-23T09:26:41.001976,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileConfigs status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,Low,2025-09-23T09:26:41.001977,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,Low,2025-09-23T09:26:41.001978,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,Low,2025-09-23T09:26:41.001979,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,Low,2025-09-23T09:26:41.001980,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,Low,2025-09-23T09:26:41.001982,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,Low,2025-09-23T09:26:41.001983,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,Low,2025-09-23T09:26:41.001984,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,Low,2025-09-23T09:26:41.001985,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,Low,2025-09-23T09:26:41.001986,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReceiver,Ready,Low,2025-09-23T09:26:41.001987,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataReceiver status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReporting,Ready,Low,2025-09-23T09:26:41.001988,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\UsageDataReporting status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001990,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,Low,2025-09-23T09:26:41.001991,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,Low,2025-09-23T09:26:41.001992,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,Low,2025-09-23T09:26:41.001993,Scheduled task \Microsoft\Windows\Flighting\OneSettings\RefreshCache status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001994,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,Low,2025-09-23T09:26:41.001995,Scheduled task \Microsoft\Windows\Hotpatch\Monitoring status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,Low,2025-09-23T09:26:41.001997,Scheduled task \Microsoft\Windows\Hotpatch\Monitoring status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,Low,2025-09-23T09:26:41.001998,Scheduled task \Microsoft\Windows\Hotpatch\Monitoring status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.001999,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\input\InputSettingsRestoreDataAvailable,Ready,Low,2025-09-23T09:26:41.002000,Scheduled task \Microsoft\Windows\input\InputSettingsRestoreDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\LocalUserSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002001,Scheduled task \Microsoft\Windows\input\LocalUserSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\MouseSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002002,Scheduled task \Microsoft\Windows\input\MouseSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\PenSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002004,Scheduled task \Microsoft\Windows\input\PenSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\RemoteMouseSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002005,Scheduled task \Microsoft\Windows\input\RemoteMouseSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\RemotePenSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002006,Scheduled task \Microsoft\Windows\input\RemotePenSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\RemoteTouchpadSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002007,Scheduled task \Microsoft\Windows\input\RemoteTouchpadSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\syncpensettings,Ready,Low,2025-09-23T09:26:41.002009,Scheduled task \Microsoft\Windows\input\syncpensettings status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\input\TouchpadSyncDataAvailable,Ready,Low,2025-09-23T09:26:41.002010,Scheduled task \Microsoft\Windows\input\TouchpadSyncDataAvailable status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002011,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\InstallService\RestoreDevice,Ready,Low,2025-09-23T09:26:41.002012,Scheduled task \Microsoft\Windows\InstallService\RestoreDevice status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,Low,2025-09-23T09:26:41.002013,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,Low,2025-09-23T09:26:41.002014,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,Low,2025-09-23T09:26:41.002016,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdates status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdatesAsUser,Ready,Low,2025-09-23T09:26:41.002017,Scheduled task \Microsoft\Windows\InstallService\ScanForUpdatesAsUser status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndContinueUpdates,Disabled,Medium,2025-09-23T09:26:41.002018,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndContinueUpdates status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndScanForUpdates,Disabled,Medium,2025-09-23T09:26:41.002019,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndScanForUpdates status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002020,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,Low,2025-09-23T09:26:41.002022,Scheduled task \Microsoft\Windows\International\Synchronize Language Settings status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,Low,2025-09-23T09:26:41.002023,Scheduled task \Microsoft\Windows\International\Synchronize Language Settings status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002024,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Kernel\La57Cleanup,Ready,Low,2025-09-23T09:26:41.002025,Scheduled task \Microsoft\Windows\Kernel\La57Cleanup status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002027,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\Installation,Ready,Low,2025-09-23T09:26:41.002028,Scheduled task \Microsoft\Windows\LanguageComponentsInstaller\Installation status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\ReconcileLanguageResources,Ready,Low,2025-09-23T09:26:41.002029,Scheduled task \Microsoft\Windows\LanguageComponentsInstaller\ReconcileLanguageResources status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002030,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002031,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Location\Notifications,Ready,Low,2025-09-23T09:26:41.002032,Scheduled task \Microsoft\Windows\Location\Notifications status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Location\WindowsActionDialog,Ready,Low,2025-09-23T09:26:41.002034,Scheduled task \Microsoft\Windows\Location\WindowsActionDialog status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002035,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Maintenance\WinSAT,Ready,Low,2025-09-23T09:26:41.002036,Scheduled task \Microsoft\Windows\Maintenance\WinSAT status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002037,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002038,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,Medium,2025-09-23T09:26:41.002039,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,Medium,2025-09-23T09:26:41.002040,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Management\Autopilot\RemediateHardwareChange,Disabled,Medium,2025-09-23T09:26:41.002042,Scheduled task \Microsoft\Windows\Management\Autopilot\RemediateHardwareChange status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002043,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Management\Provisioning\Cellular,Ready,Low,2025-09-23T09:26:41.002044,Scheduled task \Microsoft\Windows\Management\Provisioning\Cellular status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Management\Provisioning\Logon,Ready,Low,2025-09-23T09:26:41.002045,Scheduled task \Microsoft\Windows\Management\Provisioning\Logon status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup,Disabled,Medium,2025-09-23T09:26:41.002050,Scheduled task \Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Management\Provisioning\Retry,Disabled,Medium,2025-09-23T09:26:41.002051,Scheduled task \Microsoft\Windows\Management\Provisioning\Retry status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Management\Provisioning\RunOnReboot,Disabled,Medium,2025-09-23T09:26:41.002055,Scheduled task \Microsoft\Windows\Management\Provisioning\RunOnReboot status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002056,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Maps\MapsToastTask,Ready,Low,2025-09-23T09:26:41.002057,Scheduled task \Microsoft\Windows\Maps\MapsToastTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Maps\MapsUpdateTask,Disabled,Medium,2025-09-23T09:26:41.002058,Scheduled task \Microsoft\Windows\Maps\MapsUpdateTask status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002060,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\MemoryDiagnostic\AutomaticOfflineMemoryDiagnostic,Ready,Low,2025-09-23T09:26:41.002061,Scheduled task \Microsoft\Windows\MemoryDiagnostic\AutomaticOfflineMemoryDiagnostic status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,Low,2025-09-23T09:26:41.002062,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,Low,2025-09-23T09:26:41.002063,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,Low,2025-09-23T09:26:41.002064,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,Low,2025-09-23T09:26:41.002065,Scheduled task \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic,Disabled,Medium,2025-09-23T09:26:41.002067,Scheduled task \Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002068,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser,Ready,Low,2025-09-23T09:26:41.002069,Scheduled task \Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002070,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\MUI\LPRemove,Ready,Low,2025-09-23T09:26:41.002071,Scheduled task \Microsoft\Windows\MUI\LPRemove status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002072,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Multimedia\SystemSoundsService,Running,Medium,2025-09-23T09:26:41.002074,Scheduled task \Microsoft\Windows\Multimedia\SystemSoundsService status is Running.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002075,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,Low,2025-09-23T09:26:41.002076,Scheduled task \Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,Low,2025-09-23T09:26:41.002077,Scheduled task \Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,Low,2025-09-23T09:26:41.002078,Scheduled task \Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002079,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\NlaSvc\WiFiTask,Ready,Low,2025-09-23T09:26:41.002080,Scheduled task \Microsoft\Windows\NlaSvc\WiFiTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002082,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\PCRPF\PCR Prediction Framework Firmware Update Task,Ready,Low,2025-09-23T09:26:41.002083,Scheduled task \Microsoft\Windows\PCRPF\PCR Prediction Framework Firmware Update Task status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002084,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\PerformanceTrace\RequestTrace,Ready,Low,2025-09-23T09:26:41.002085,Scheduled task \Microsoft\Windows\PerformanceTrace\RequestTrace status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\PerformanceTrace\WhesvcToast,Ready,Low,2025-09-23T09:26:41.002086,Scheduled task \Microsoft\Windows\PerformanceTrace\WhesvcToast status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002087,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,Low,2025-09-23T09:26:41.002089,Scheduled task \Microsoft\Windows\PI\SecureBootEncodeUEFI status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,Low,2025-09-23T09:26:41.002090,Scheduled task \Microsoft\Windows\PI\SecureBootEncodeUEFI status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,Low,2025-09-23T09:26:41.002091,Scheduled task \Microsoft\Windows\PI\SecureBootEncodeUEFI status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002092,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002093,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Group Policy,Ready,Low,2025-09-23T09:26:41.002094,Scheduled task \Microsoft\Windows\Plug and Play\Device Install Group Policy status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,Low,2025-09-23T09:26:41.002095,Scheduled task \Microsoft\Windows\Plug and Play\Device Install Reboot Required status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,Low,2025-09-23T09:26:41.002097,Scheduled task \Microsoft\Windows\Plug and Play\Device Install Reboot Required status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers,Ready,Low,2025-09-23T09:26:41.002098,Scheduled task \Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002099,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem,Ready,Low,2025-09-23T09:26:41.002100,Scheduled task \Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002101,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Printing\EduPrintProv,Ready,Low,2025-09-23T09:26:41.002102,Scheduled task \Microsoft\Windows\Printing\EduPrintProv status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Printing\PrinterCleanupTask,Ready,Low,2025-09-23T09:26:41.002103,Scheduled task \Microsoft\Windows\Printing\PrinterCleanupTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Printing\PrintJobCleanupTask,Disabled,Medium,2025-09-23T09:26:41.002105,Scheduled task \Microsoft\Windows\Printing\PrintJobCleanupTask status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002106,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\RecoveryEnvironment\VerifyWinRE,Disabled,Medium,2025-09-23T09:26:41.002107,Scheduled task \Microsoft\Windows\RecoveryEnvironment\VerifyWinRE status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002108,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\ReFsDedupSvc\Initialization,Ready,Low,2025-09-23T09:26:41.002109,Scheduled task \Microsoft\Windows\ReFsDedupSvc\Initialization status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002110,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Registry\RegIdleBackup,Ready,Low,2025-09-23T09:26:41.002112,Scheduled task \Microsoft\Windows\Registry\RegIdleBackup status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002113,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002114,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Security\Pwdless\IntelligentPwdlessTask,Ready,Low,2025-09-23T09:26:41.002115,Scheduled task \Microsoft\Windows\Security\Pwdless\IntelligentPwdlessTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002116,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Servicing\OOBEFodSetup,Disabled,Medium,2025-09-23T09:26:41.002118,Scheduled task \Microsoft\Windows\Servicing\OOBEFodSetup status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Servicing\StartComponentCleanup,Ready,Low,2025-09-23T09:26:41.002119,Scheduled task \Microsoft\Windows\Servicing\StartComponentCleanup status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002120,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\SharedPC\Account Cleanup,Disabled,Medium,2025-09-23T09:26:41.002121,Scheduled task \Microsoft\Windows\SharedPC\Account Cleanup status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002122,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Shell\CreateObjectTask,Ready,Low,2025-09-23T09:26:41.002123,Scheduled task \Microsoft\Windows\Shell\CreateObjectTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Shell\FamilySafetyMonitor,Ready,Low,2025-09-23T09:26:41.002125,Scheduled task \Microsoft\Windows\Shell\FamilySafetyMonitor status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Shell\FamilySafetyRefreshTask,Ready,Low,2025-09-23T09:26:41.002126,Scheduled task \Microsoft\Windows\Shell\FamilySafetyRefreshTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Shell\IndexerAutomaticMaintenance,Ready,Low,2025-09-23T09:26:41.002127,Scheduled task \Microsoft\Windows\Shell\IndexerAutomaticMaintenance status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Shell\ThemesSyncedImageDownload,Ready,Low,2025-09-23T09:26:41.002128,Scheduled task \Microsoft\Windows\Shell\ThemesSyncedImageDownload status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,Medium,2025-09-23T09:26:41.002129,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,Medium,2025-09-23T09:26:41.002130,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002131,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ClientTask,Ready,Low,2025-09-23T09:26:41.002133,Scheduled task \Microsoft\Windows\SMB\UninstallSMB1ClientTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ServerTask,Ready,Low,2025-09-23T09:26:41.002134,Scheduled task \Microsoft\Windows\SMB\UninstallSMB1ServerTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002135,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon,Ready,Low,2025-09-23T09:26:41.002136,Scheduled task \Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger,Ready,Low,2025-09-23T09:26:41.002137,Scheduled task \Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002138,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,Low,2025-09-23T09:26:41.002139,Scheduled task \Microsoft\Windows\SpacePort\SpaceAgentTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,Low,2025-09-23T09:26:41.002141,Scheduled task \Microsoft\Windows\SpacePort\SpaceAgentTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,Low,2025-09-23T09:26:41.002142,Scheduled task \Microsoft\Windows\SpacePort\SpaceManagerTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,Low,2025-09-23T09:26:41.002143,Scheduled task \Microsoft\Windows\SpacePort\SpaceManagerTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002144,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\StateRepository\MaintenanceTasks,Ready,Low,2025-09-23T09:26:41.002145,Scheduled task \Microsoft\Windows\StateRepository\MaintenanceTasks status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002146,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization,Ready,Low,2025-09-23T09:26:41.002147,Scheduled task \Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization,Disabled,Medium,2025-09-23T09:26:41.002149,Scheduled task \Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002158,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,Low,2025-09-23T09:26:41.002159,Scheduled task \Microsoft\Windows\Subscription\EnableLicenseAcquisition status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,Low,2025-09-23T09:26:41.002160,Scheduled task \Microsoft\Windows\Subscription\EnableLicenseAcquisition status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,Low,2025-09-23T09:26:41.002161,Scheduled task \Microsoft\Windows\Subscription\EnableLicenseAcquisition status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,Medium,2025-09-23T09:26:41.002163,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,Medium,2025-09-23T09:26:41.002164,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,Medium,2025-09-23T09:26:41.002165,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002166,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,Low,2025-09-23T09:26:41.002167,Scheduled task \Microsoft\Windows\Sustainability\PowerGridForecastTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,Low,2025-09-23T09:26:41.002169,Scheduled task \Microsoft\Windows\Sustainability\PowerGridForecastTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Sustainability\SustainabilityTelemetry,Ready,Low,2025-09-23T09:26:41.002170,Scheduled task \Microsoft\Windows\Sustainability\SustainabilityTelemetry status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002171,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate,Disabled,Medium,2025-09-23T09:26:41.002172,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCacheRebalance,Disabled,Medium,2025-09-23T09:26:41.002173,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCacheRebalance status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Sysmain\ResPriStaticDbSync,Ready,Low,2025-09-23T09:26:41.002174,Scheduled task \Microsoft\Windows\Sysmain\ResPriStaticDbSync status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Sysmain\WsSwapAssessmentTask,Ready,Low,2025-09-23T09:26:41.002176,Scheduled task \Microsoft\Windows\Sysmain\WsSwapAssessmentTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002177,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\SystemRestore\SR,Ready,Low,2025-09-23T09:26:41.002178,Scheduled task \Microsoft\Windows\SystemRestore\SR status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002182,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Task Manager\Interactive,Ready,Low,2025-09-23T09:26:41.002183,Scheduled task \Microsoft\Windows\Task Manager\Interactive status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002186,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\TextServicesFramework\MsCtfMonitor,Ready,Low,2025-09-23T09:26:41.002188,Scheduled task \Microsoft\Windows\TextServicesFramework\MsCtfMonitor status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002189,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,Low,2025-09-23T09:26:41.002190,Scheduled task \Microsoft\Windows\Time Synchronization\ForceSynchronizeTime status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,Low,2025-09-23T09:26:41.002191,Scheduled task \Microsoft\Windows\Time Synchronization\ForceSynchronizeTime status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Time Synchronization\SynchronizeTime,Ready,Low,2025-09-23T09:26:41.002192,Scheduled task \Microsoft\Windows\Time Synchronization\SynchronizeTime status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002193,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Time Zone\SynchronizeTimeZone,Ready,Low,2025-09-23T09:26:41.002195,Scheduled task \Microsoft\Windows\Time Zone\SynchronizeTimeZone status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002196,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\UPnP\UPnPHostConfig,Ready,Low,2025-09-23T09:26:41.002197,Scheduled task \Microsoft\Windows\UPnP\UPnPHostConfig status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002198,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,Low,2025-09-23T09:26:41.002199,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,Low,2025-09-23T09:26:41.002200,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,Low,2025-09-23T09:26:41.002201,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,Low,2025-09-23T09:26:41.002203,Scheduled task \Microsoft\Windows\USB\Usb-Notifications status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002204,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\WCM\WiFiTask,Ready,Low,2025-09-23T09:26:41.002205,Scheduled task \Microsoft\Windows\WCM\WiFiTask status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002206,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\WDI\ResolutionHost,Running,Medium,2025-09-23T09:26:41.002207,Scheduled task \Microsoft\Windows\WDI\ResolutionHost status is Running.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002209,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,Low,2025-09-23T09:26:41.002210,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,Low,2025-09-23T09:26:41.002211,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,Low,2025-09-23T09:26:41.002212,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,Low,2025-09-23T09:26:41.002213,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,Low,2025-09-23T09:26:41.002214,Scheduled task \Microsoft\Windows\Windows Error Reporting\QueueReporting status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002216,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange,Ready,Low,2025-09-23T09:26:41.002217,Scheduled task \Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002218,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Windows Media Sharing\UpdateLibrary,Ready,Low,2025-09-23T09:26:41.002219,Scheduled task \Microsoft\Windows\Windows Media Sharing\UpdateLibrary status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002220,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002222,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,Low,2025-09-23T09:26:41.002223,Scheduled task \Microsoft\Windows\WindowsColorSystem\Calibration Loader status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,Low,2025-09-23T09:26:41.002225,Scheduled task \Microsoft\Windows\WindowsColorSystem\Calibration Loader status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002226,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,Low,2025-09-23T09:26:41.002227,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,Low,2025-09-23T09:26:41.002232,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,Low,2025-09-23T09:26:41.002233,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,Low,2025-09-23T09:26:41.002235,Scheduled task \Microsoft\Windows\WindowsUpdate\Scheduled Start status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002236,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Wininet\CacheTask,Running,Medium,2025-09-23T09:26:41.002237,Scheduled task \Microsoft\Windows\Wininet\CacheTask status is Running.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002238,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\WlanSvc\CDSSync,Ready,Low,2025-09-23T09:26:41.002239,Scheduled task \Microsoft\Windows\WlanSvc\CDSSync status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,Low,2025-09-23T09:26:41.002241,Scheduled task \Microsoft\Windows\WlanSvc\MoProfileManagement status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,Low,2025-09-23T09:26:41.002242,Scheduled task \Microsoft\Windows\WlanSvc\MoProfileManagement status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002243,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Logon Synchronization,Ready,Low,2025-09-23T09:26:41.002244,Scheduled task \Microsoft\Windows\Work Folders\Work Folders Logon Synchronization status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Maintenance Work,Ready,Low,2025-09-23T09:26:41.002245,Scheduled task \Microsoft\Windows\Work Folders\Work Folders Maintenance Work status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002248,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,Medium,2025-09-23T09:26:41.002249,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,Medium,2025-09-23T09:26:41.002251,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Workplace Join\Device-Sync,Disabled,Medium,2025-09-23T09:26:41.002252,Scheduled task \Microsoft\Windows\Workplace Join\Device-Sync status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,Medium,2025-09-23T09:26:41.002253,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Research further and monitor closely
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,Medium,2025-09-23T09:26:41.002254,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Research further and monitor closely
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002255,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\Windows\WwanSvc\NotificationTask,Ready,Low,2025-09-23T09:26:41.002257,Scheduled task \Microsoft\Windows\WwanSvc\NotificationTask status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,Low,2025-09-23T09:26:41.002258,Scheduled task \Microsoft\Windows\WwanSvc\OobeDiscovery status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,Low,2025-09-23T09:26:41.002259,Scheduled task \Microsoft\Windows\WwanSvc\OobeDiscovery status is Ready.,No action needed unless new issues appear
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,Low,2025-09-23T09:26:41.002260,Scheduled task \Microsoft\Windows\WwanSvc\OobeDiscovery status is Ready.,No action needed unless new issues appear
+Tasks,TaskName,Status,Medium,2025-09-23T09:26:41.002261,Scheduled task TaskName status is Status.,Research further and monitor closely
+Tasks,\Microsoft\XblGameSave\XblGameSaveTask,Ready,Low,2025-09-23T09:26:41.002263,Scheduled task \Microsoft\XblGameSave\XblGameSaveTask status is Ready.,No action needed unless new issues appear
+Startup,DemoShortcut,,Low,2025-09-23T09:26:41.111860,No explanation available.,No action needed unless new issues appear
+Startup,TestStartup.lnk,,Low,2025-09-23T09:26:41.115619,No explanation available.,No action needed unless new issues appear
+Startup,OneDrive,,Low,2025-09-23T09:26:41.118698,No explanation available.,No action needed unless new issues appear
+Startup,MicrosoftEdgeAutoLaunch_0386D51C073D86B821A8FA1466715878,,Low,2025-09-23T09:26:41.121737,No explanation available.,No action needed unless new issues appear
+Startup,electron.app.Notion,,Low,2025-09-23T09:26:41.125185,No explanation available.,No action needed unless new issues appear
+Startup,Opera Stable,,Low,2025-09-23T09:26:41.129159,No explanation available.,No action needed unless new issues appear
+Startup,com.squirrel.Postman-Agent.PostmanAgent,,Low,2025-09-23T09:26:41.132637,No explanation available.,No action needed unless new issues appear
+Startup,Opera Browser Assistant,,Low,2025-09-23T09:26:41.135728,No explanation available.,No action needed unless new issues appear
+Startup,Ge'ez 2010,,Low,2025-09-23T09:26:41.138759,No explanation available.,No action needed unless new issues appear
+Startup,SecurityHealth,,Low,2025-09-23T09:26:41.141988,No explanation available.,No action needed unless new issues appear
+Startup,RtkAudUService,,Low,2025-09-23T09:26:41.145902,No explanation available.,No action needed unless new issues appear
+Startup,Greenshot,,Low,2025-09-23T09:26:41.149057,No explanation available.,No action needed unless new issues appear
+Startup,MuseHub,,Low,2025-09-23T09:26:41.152250,No explanation available.,No action needed unless new issues appear
+System,Uptime,"1 days, 17 hours",Low,2025-09-23T09:26:41.227371,"System uptime is {value}, last boot was on {lastBoot}.
+Long uptimes (> {warningDays} days) risk missing security patches and accumulating performance drift.","Run Windows Update and reboot the machine immediately.
+Schedule a weekly maintenance reboot to keep patches current."
+System,Hostname,BONTU,Low,2025-09-23T09:26:41.227381,No explanation available.,No action needed unless new issues appear
+System,OS Version,Windows-11-10.0.26100-SP0,Low,2025-09-23T09:26:41.227383,No explanation available.,No action needed unless new issues appear

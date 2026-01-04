@@ -1,0 +1,211 @@
+{
+  "rules": [
+    {
+      "id": "uptime_long",
+      "description": "Long system uptime without recent reboot/patch",
+      "match": {
+        "module": "System",
+        "namePattern": "(?i)^uptime$"
+      },
+      "parameters": {
+        "warningDays": 7
+      },
+      "templates": {
+        "explanation": "System uptime is {value}. Long uptimes (>{warningDays} days) risk missing security patches.",
+        "recommendation": "Run Windows Update and reboot immediately. Schedule weekly maintenance reboots."
+      }
+    },
+    {
+      "id": "defender_disabled",
+      "description": "Windows Defender is disabled",
+      "match": {
+        "module": "System",
+        "namePattern": "(?i)defender",
+        "explanationPattern": "(?i)disabled|off|not running"
+      },
+      "templates": {
+        "explanation": "Windows Defender is disabled. Your system has no real-time malware protection.",
+        "recommendation": "Enable Windows Defender immediately via Windows Security settings. Check for malware that may have disabled it."
+      }
+    },
+    {
+      "id": "firewall_disabled",
+      "description": "Windows Firewall is disabled",
+      "match": {
+        "module": "System",
+        "namePattern": "(?i)firewall",
+        "explanationPattern": "(?i)disabled|off"
+      },
+      "templates": {
+        "explanation": "Windows Firewall is disabled. Your system is exposed to network-based attacks.",
+        "recommendation": "Enable Windows Firewall immediately. Check firewall rules if specific ports need to be open."
+      }
+    },
+    {
+      "id": "service_not_running",
+      "description": "Auto-start service is stopped",
+      "match": {
+        "module": "Services",
+        "explanationPattern": "(?i)not running"
+      },
+      "templates": {
+        "explanation": "Service \"{name}\" is set to auto-start but is stopped. Dependent features may fail.",
+        "recommendation": "Check Event Viewer for error codes. Restart the service or set to Manual if not needed."
+      }
+    },
+    {
+      "id": "service_suspicious_path",
+      "description": "Service running from suspicious location",
+      "match": {
+        "module": "Services",
+        "explanationPattern": "(?i)suspicious location|temp|appdata"
+      },
+      "templates": {
+        "explanation": "Service \"{name}\" runs from a suspicious location ({value}). Legitimate services run from System32 or Program Files.",
+        "recommendation": "Investigate this service immediately. Disable it and scan the executable with antivirus. Remove if malicious."
+      }
+    },
+    {
+      "id": "task_error",
+      "description": "Scheduled task in error state",
+      "match": {
+        "module": "Tasks",
+        "explanationPattern": "(?i)error|unknown|could not start"
+      },
+      "templates": {
+        "explanation": "Scheduled task \"{name}\" is in an error state. This may indicate a broken task or malware cleanup residue.",
+        "recommendation": "Open Task Scheduler, review the task history, and delete if it's no longer needed or suspicious."
+      }
+    },
+    {
+      "id": "wmi_persistence",
+      "description": "WMI event binding detected",
+      "match": {
+        "module": "WMI"
+      },
+      "templates": {
+        "explanation": "WMI event binding \"{name}\" detected. WMI persistence is a common advanced malware technique.",
+        "recommendation": "Use 'Get-WMIObject -Namespace root\\subscription -Class __FilterToConsumerBinding' to review. Remove unknown bindings."
+      }
+    },
+    {
+      "id": "startup_script",
+      "description": "Startup item runs a script",
+      "match": {
+        "module": "Startup",
+        "explanationPattern": "(?i)script|vbs|js|ps1|bat|powershell"
+      },
+      "templates": {
+        "explanation": "Startup item \"{name}\" executes a script. Scripts at startup are high-risk for malware.",
+        "recommendation": "Review the script contents. Disable via msconfig or Task Manager Startup tab if suspicious."
+      }
+    },
+    {
+      "id": "startup_suspicious_path",
+      "description": "Startup item from suspicious location",
+      "match": {
+        "module": "Startup",
+        "explanationPattern": "(?i)suspicious|temp|download|public"
+      },
+      "templates": {
+        "explanation": "Startup item \"{name}\" runs from a temporary or download folder. Highly suspicious.",
+        "recommendation": "Disable immediately. Scan the file with antivirus. Remove if not recognized."
+      }
+    },
+    {
+      "id": "network_suspicious_port",
+      "description": "Connection to suspicious port",
+      "match": {
+        "module": "Network",
+        "explanationPattern": "(?i)suspicious port"
+      },
+      "templates": {
+        "explanation": "Process \"{name}\" connected to a port commonly used by malware or hacking tools.",
+        "recommendation": "Terminate the process. Investigate the executable. Block the port in firewall if not needed."
+      }
+    },
+    {
+      "id": "network_external",
+      "description": "External network connection",
+      "match": {
+        "module": "Network",
+        "explanationPattern": "(?i)external connection"
+      },
+      "templates": {
+        "explanation": "Process \"{name}\" has an external network connection. Verify this is expected behavior.",
+        "recommendation": "Check if this process should communicate externally. Use firewall rules to block if not legitimate."
+      }
+    },
+    {
+      "id": "process_suspicious_tool",
+      "description": "Suspicious security/hacking tool running",
+      "match": {
+        "module": "Process",
+        "explanationPattern": "(?i)suspicious tool|mimikatz|lazagne|procdump|netcat"
+      },
+      "templates": {
+        "explanation": "Detected \"{name}\" - a tool commonly used by attackers for credential theft or system exploitation.",
+        "recommendation": "Terminate immediately. Investigate how it was launched. Check for compromised accounts. Consider incident response."
+      }
+    },
+    {
+      "id": "process_suspicious_path",
+      "description": "Process running from suspicious location",
+      "match": {
+        "module": "Process",
+        "explanationPattern": "(?i)suspicious location|temp|download"
+      },
+      "templates": {
+        "explanation": "Process \"{name}\" is running from a temporary or download folder. Legitimate software installs to Program Files.",
+        "recommendation": "Terminate the process. Scan with antivirus. Delete if malicious. Check how it was executed."
+      }
+    },
+    {
+      "id": "process_high_resource",
+      "description": "Process using high resources",
+      "match": {
+        "module": "Process",
+        "explanationPattern": "(?i)high cpu|high memory"
+      },
+      "templates": {
+        "explanation": "Process \"{name}\" is consuming excessive CPU/memory. Could be cryptominer or runaway process.",
+        "recommendation": "Review if this resource usage is expected. Terminate if suspicious. Scan for cryptomining malware."
+      }
+    },
+    {
+      "id": "registry_script",
+      "description": "Registry persistence with script execution",
+      "match": {
+        "module": "Registry",
+        "explanationPattern": "(?i)script|powershell|cmd|wscript|encoded"
+      },
+      "templates": {
+        "explanation": "Registry entry \"{name}\" executes a script at startup. This is a very common malware persistence technique.",
+        "recommendation": "Review the command. Remove via regedit if not recognized. Scan system for malware."
+      }
+    },
+    {
+      "id": "registry_suspicious_path",
+      "description": "Registry entry pointing to suspicious location",
+      "match": {
+        "module": "Registry",
+        "explanationPattern": "(?i)suspicious|temp|download"
+      },
+      "templates": {
+        "explanation": "Registry autorun entry \"{name}\" points to a temporary folder. Strong indicator of malware.",
+        "recommendation": "Delete the registry entry immediately. Remove the referenced file. Run full antivirus scan."
+      }
+    },
+    {
+      "id": "unsigned_binary",
+      "description": "Unsigned executable detected",
+      "match": {
+        "explanationPattern": "(?i)unsigned"
+      },
+      "templates": {
+        "explanation": "Found an unsigned binary at {value}. Unsigned code could be malicious or improperly packaged.",
+        "recommendation": "Quarantine the file and submit for malware analysis. Only restore if publisher is verified."
+      }
+    }
+  ]
+}

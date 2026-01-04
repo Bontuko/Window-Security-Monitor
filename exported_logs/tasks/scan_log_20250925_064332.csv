@@ -1,0 +1,382 @@
+Module,Name,Status,Severity,Timestamp,Explanation,Recommendation
+Tasks,\Adobe Creative Cloud,Running,unknown,2025-09-25T06:43:21.107352,Scheduled task \Adobe Creative Cloud status is Running.,Manual review recommended
+Tasks,\DemoTask,Ready,unknown,2025-09-25T06:43:21.107403,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Launch Adobe CCXProcess,Ready,unknown,2025-09-25T06:43:21.107418,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\OneDrive Reporting Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,unknown,2025-09-25T06:43:21.107429,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\OneDrive Standalone Update Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,unknown,2025-09-25T06:43:21.107438,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\OneDrive Startup Task-S-1-5-21-173275056-1875085541-2184235952-1001,Ready,unknown,2025-09-25T06:43:21.107446,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,unknown,2025-09-25T06:43:21.107455,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled assistant Autoupdate 1744204156,Ready,unknown,2025-09-25T06:43:21.107464,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,unknown,2025-09-25T06:43:21.107471,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Opera scheduled Autoupdate 1744204153,Ready,unknown,2025-09-25T06:43:21.107481,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Scheduled Update for Ask Toolbar,Ready,unknown,2025-09-25T06:43:21.107489,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\User_Feed_Synchronization-{2FAA476C-6D7F-4D5D-AB2E-49648B08195D},Ready,unknown,2025-09-25T06:43:21.107497,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\WpsExternal_III_interval,Ready,unknown,2025-09-25T06:43:21.107505,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\WpsExternal_III_startup,Running,unknown,2025-09-25T06:43:21.107513,Scheduled task \WpsExternal_III_startup status is Running.,Manual review recommended
+Tasks,\WpsUpdateTask_III,Ready,unknown,2025-09-25T06:43:21.107521,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107528,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107536,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107543,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Office\Office Actions Server,Ready,unknown,2025-09-25T06:43:21.107551,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Actions Server,Ready,unknown,2025-09-25T06:43:21.107559,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,unknown,2025-09-25T06:43:21.107567,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,unknown,2025-09-25T06:43:21.107574,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Automatic Updates 2.0,Ready,unknown,2025-09-25T06:43:21.107582,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,unknown,2025-09-25T06:43:21.107589,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Background Push Maintenance,Ready,unknown,2025-09-25T06:43:21.107596,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office ClickToRun Service Monitor,Ready,unknown,2025-09-25T06:43:21.107604,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,unknown,2025-09-25T06:43:21.107612,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,unknown,2025-09-25T06:43:21.107620,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,unknown,2025-09-25T06:43:21.107628,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,unknown,2025-09-25T06:43:21.107636,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,unknown,2025-09-25T06:43:21.107643,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates,Ready,unknown,2025-09-25T06:43:21.107651,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,unknown,2025-09-25T06:43:21.107659,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Office\Office Feature Updates Logon,Ready,unknown,2025-09-25T06:43:21.107667,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107675,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107682,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107690,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319,Ready,unknown,2025-09-25T06:43:21.107697,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64,Ready,unknown,2025-09-25T06:43:21.107704,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical,Disabled,unknown,2025-09-25T06:43:21.107712,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical,Disabled,unknown,2025-09-25T06:43:21.107720,Scheduled task \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107728,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AccountHealth\RecoverabilityToastTask,Ready,unknown,2025-09-25T06:43:21.107735,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107743,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,unknown,2025-09-25T06:43:21.107750,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),Disabled,unknown,2025-09-25T06:43:21.107759,Scheduled task \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated) status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual),Ready,unknown,2025-09-25T06:43:21.107766,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107774,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppID\PolicyConverter,Disabled,unknown,2025-09-25T06:43:21.107781,Scheduled task \Microsoft\Windows\AppID\PolicyConverter status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck,Disabled,unknown,2025-09-25T06:43:21.107789,Scheduled task \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107796,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\MareBackup,Ready,unknown,2025-09-25T06:43:21.107804,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser,Ready,unknown,2025-09-25T06:43:21.107811,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser Exp,Ready,unknown,2025-09-25T06:43:21.107819,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\PcaPatchDbTask,Ready,unknown,2025-09-25T06:43:21.107827,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,unknown,2025-09-25T06:43:21.107835,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\SdbinstMergeDbTask,Ready,unknown,2025-09-25T06:43:21.107842,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Application Experience\StartupAppTask,Ready,unknown,2025-09-25T06:43:21.107850,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107858,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierdaily,Ready,unknown,2025-09-25T06:43:21.107865,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\appuriverifierinstall,Ready,unknown,2025-09-25T06:43:21.107873,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\CleanupTemporaryState,Ready,unknown,2025-09-25T06:43:21.107880,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ApplicationData\DsSvcCleanup,Ready,unknown,2025-09-25T06:43:21.107888,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107895,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppListBackup\Backup,Ready,unknown,2025-09-25T06:43:21.107903,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\AppListBackup\BackupNonMaintenance,Ready,unknown,2025-09-25T06:43:21.107911,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107918,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup,Disabled,unknown,2025-09-25T06:43:21.107926,Scheduled task \Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107933,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Autochk\Proxy,Ready,unknown,2025-09-25T06:43:21.107941,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107948,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\BitLocker\BitLocker Encrypt All Drives,Ready,unknown,2025-09-25T06:43:21.107956,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\BitLocker\BitLocker MDM policy Refresh,Ready,unknown,2025-09-25T06:43:21.107964,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107971,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Bluetooth\UninstallDeviceTask,Ready,unknown,2025-09-25T06:43:21.107979,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.107986,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\BrokerInfrastructure\BgTaskRegistrationMaintenanceTask,Ready,unknown,2025-09-25T06:43:21.107993,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108001,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\capabilityaccessmanager\maintenancetasks,Ready,unknown,2025-09-25T06:43:21.108009,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108016,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,unknown,2025-09-25T06:43:21.108024,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,unknown,2025-09-25T06:43:21.108031,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,unknown,2025-09-25T06:43:21.108038,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask,Ready,unknown,2025-09-25T06:43:21.108046,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,unknown,2025-09-25T06:43:21.108054,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,Ready,unknown,2025-09-25T06:43:21.108062,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108069,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Chkdsk\ProactiveScan,Ready,unknown,2025-09-25T06:43:21.108076,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Chkdsk\SyspartRepair,Ready,unknown,2025-09-25T06:43:21.108084,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108092,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudExperienceHost\CreateObjectTask,Ready,unknown,2025-09-25T06:43:21.108100,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108107,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,unknown,2025-09-25T06:43:21.108114,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Backup,Ready,unknown,2025-09-25T06:43:21.108122,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\CloudRestore\Restore,Ready,unknown,2025-09-25T06:43:21.108129,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108137,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108144,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,unknown,2025-09-25T06:43:21.108151,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ConsentUX\UnifiedConsent\UnifiedConsentSyncTask,Ready,unknown,2025-09-25T06:43:21.108158,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108166,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\Consolidator,Ready,unknown,2025-09-25T06:43:21.108173,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip,Ready,unknown,2025-09-25T06:43:21.108181,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108188,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,unknown,2025-09-25T06:43:21.108195,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Check And Scan,Ready,unknown,2025-09-25T06:43:21.108203,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan,Ready,unknown,2025-09-25T06:43:21.108211,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery,Ready,unknown,2025-09-25T06:43:21.108218,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108226,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Defrag\ScheduledDefrag,Ready,unknown,2025-09-25T06:43:21.108233,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108241,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,unknown,2025-09-25T06:43:21.108248,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device,Ready,unknown,2025-09-25T06:43:21.108256,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Information\Device User,Ready,unknown,2025-09-25T06:43:21.108263,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108271,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Device Setup\Driver Recovery on Reboot,Disabled,unknown,2025-09-25T06:43:21.108278,Scheduled task \Microsoft\Windows\Device Setup\Driver Recovery on Reboot status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108285,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,unknown,2025-09-25T06:43:21.108293,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,unknown,2025-09-25T06:43:21.108300,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,unknown,2025-09-25T06:43:21.108308,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner,Ready,unknown,2025-09-25T06:43:21.108315,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\Scheduled,Ready,unknown,2025-09-25T06:43:21.108322,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Diagnosis\UnexpectedCodepath,Ready,unknown,2025-09-25T06:43:21.108330,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108337,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,unknown,2025-09-25T06:43:21.108344,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DirectXDatabaseUpdater,Ready,unknown,2025-09-25T06:43:21.108352,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,unknown,2025-09-25T06:43:21.108359,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,unknown,2025-09-25T06:43:21.108367,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DirectX\DXGIAdapterCache,Ready,unknown,2025-09-25T06:43:21.108374,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108382,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskCleanup\SilentCleanup,Ready,unknown,2025-09-25T06:43:21.108389,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108397,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector,Disabled,unknown,2025-09-25T06:43:21.108404,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver,Disabled,unknown,2025-09-25T06:43:21.108412,Scheduled task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108419,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskFootprint\Diagnostics,Ready,unknown,2025-09-25T06:43:21.108426,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\DiskFootprint\StorageSense,Ready,unknown,2025-09-25T06:43:21.108434,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108442,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\DUSM\dusmtask,Ready,unknown,2025-09-25T06:43:21.108449,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108457,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP App Launch Task,Ready,unknown,2025-09-25T06:43:21.108464,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP Auth Task,Ready,unknown,2025-09-25T06:43:21.108471,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\EDP Inaccessible Credentials Task,Ready,unknown,2025-09-25T06:43:21.108479,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\EDP\StorageCardEncryption Task,Ready,unknown,2025-09-25T06:43:21.108486,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108493,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,unknown,2025-09-25T06:43:21.108501,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,unknown,2025-09-25T06:43:21.108508,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\ExploitGuard\ExploitGuard MDM policy Refresh,Ready,unknown,2025-09-25T06:43:21.108515,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108523,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108531,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClient,Ready,unknown,2025-09-25T06:43:21.108538,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload,Ready,unknown,2025-09-25T06:43:21.108546,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108553,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\FileHistory\File History (maintenance mode),Ready,unknown,2025-09-25T06:43:21.108560,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108568,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108575,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting,Disabled,unknown,2025-09-25T06:43:21.108582,Scheduled task \Microsoft\Windows\Flighting\FeatureConfig\BootstrapUsageDataReporting status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\GovernedFeatureUsageProcessing,Ready,unknown,2025-09-25T06:43:21.108590,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileConfigs,Ready,unknown,2025-09-25T06:43:21.108597,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,unknown,2025-09-25T06:43:21.108606,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,unknown,2025-09-25T06:43:21.108613,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,unknown,2025-09-25T06:43:21.108621,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,unknown,2025-09-25T06:43:21.108628,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,unknown,2025-09-25T06:43:21.108636,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\ReconcileFeatures,Ready,unknown,2025-09-25T06:43:21.108643,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,unknown,2025-09-25T06:43:21.108650,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,unknown,2025-09-25T06:43:21.108658,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataFlushing,Ready,unknown,2025-09-25T06:43:21.108665,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReceiver,Ready,unknown,2025-09-25T06:43:21.108672,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\FeatureConfig\UsageDataReporting,Ready,unknown,2025-09-25T06:43:21.108680,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108687,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,unknown,2025-09-25T06:43:21.108694,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,unknown,2025-09-25T06:43:21.108702,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Flighting\OneSettings\RefreshCache,Ready,unknown,2025-09-25T06:43:21.108709,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108718,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,unknown,2025-09-25T06:43:21.108725,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,unknown,2025-09-25T06:43:21.108732,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Hotpatch\Monitoring,Ready,unknown,2025-09-25T06:43:21.108740,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108747,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\input\InputSettingsRestoreDataAvailable,Ready,unknown,2025-09-25T06:43:21.108754,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\LocalUserSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108761,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\MouseSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108769,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\PenSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108777,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemoteMouseSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108791,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemotePenSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108799,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\RemoteTouchpadSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108806,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\syncpensettings,Ready,unknown,2025-09-25T06:43:21.108813,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\input\TouchpadSyncDataAvailable,Ready,unknown,2025-09-25T06:43:21.108821,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108828,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\RestoreDevice,Ready,unknown,2025-09-25T06:43:21.108836,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,unknown,2025-09-25T06:43:21.108843,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,unknown,2025-09-25T06:43:21.108851,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdates,Ready,unknown,2025-09-25T06:43:21.108858,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\ScanForUpdatesAsUser,Ready,unknown,2025-09-25T06:43:21.108866,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndContinueUpdates,Disabled,unknown,2025-09-25T06:43:21.108873,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndContinueUpdates status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\InstallService\WakeUpAndScanForUpdates,Disabled,unknown,2025-09-25T06:43:21.108880,Scheduled task \Microsoft\Windows\InstallService\WakeUpAndScanForUpdates status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108887,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,unknown,2025-09-25T06:43:21.108895,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\International\Synchronize Language Settings,Ready,unknown,2025-09-25T06:43:21.108902,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108910,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Kernel\La57Cleanup,Ready,unknown,2025-09-25T06:43:21.108917,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108924,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\Installation,Ready,unknown,2025-09-25T06:43:21.108932,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\LanguageComponentsInstaller\ReconcileLanguageResources,Ready,unknown,2025-09-25T06:43:21.108939,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108947,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108954,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Location\Notifications,Ready,unknown,2025-09-25T06:43:21.108962,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Location\WindowsActionDialog,Ready,unknown,2025-09-25T06:43:21.108969,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108977,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Maintenance\WinSAT,Ready,unknown,2025-09-25T06:43:21.108984,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108991,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.108999,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,unknown,2025-09-25T06:43:21.109006,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\DetectHardwareChange,Disabled,unknown,2025-09-25T06:43:21.109013,Scheduled task \Microsoft\Windows\Management\Autopilot\DetectHardwareChange status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Autopilot\RemediateHardwareChange,Disabled,unknown,2025-09-25T06:43:21.109020,Scheduled task \Microsoft\Windows\Management\Autopilot\RemediateHardwareChange status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109027,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Cellular,Ready,unknown,2025-09-25T06:43:21.109034,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Logon,Ready,unknown,2025-09-25T06:43:21.109042,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup,Disabled,unknown,2025-09-25T06:43:21.109049,Scheduled task \Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\Retry,Disabled,unknown,2025-09-25T06:43:21.109057,Scheduled task \Microsoft\Windows\Management\Provisioning\Retry status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Management\Provisioning\RunOnReboot,Disabled,unknown,2025-09-25T06:43:21.109064,Scheduled task \Microsoft\Windows\Management\Provisioning\RunOnReboot status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109071,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Maps\MapsToastTask,Ready,unknown,2025-09-25T06:43:21.109078,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Maps\MapsUpdateTask,Disabled,unknown,2025-09-25T06:43:21.109086,Scheduled task \Microsoft\Windows\Maps\MapsUpdateTask status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109093,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\AutomaticOfflineMemoryDiagnostic,Ready,unknown,2025-09-25T06:43:21.109100,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,unknown,2025-09-25T06:43:21.109108,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,unknown,2025-09-25T06:43:21.109115,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,unknown,2025-09-25T06:43:21.109123,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,Ready,unknown,2025-09-25T06:43:21.109130,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic,Disabled,unknown,2025-09-25T06:43:21.109137,Scheduled task \Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109145,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser,Ready,unknown,2025-09-25T06:43:21.109152,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109159,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\MUI\LPRemove,Ready,unknown,2025-09-25T06:43:21.109167,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109174,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Multimedia\SystemSoundsService,Running,unknown,2025-09-25T06:43:21.109182,Scheduled task \Microsoft\Windows\Multimedia\SystemSoundsService status is Running.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109190,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,unknown,2025-09-25T06:43:21.109197,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,unknown,2025-09-25T06:43:21.109205,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Network Connectivity Status Indicator\NcsiIdentifyUserProxies,Ready,unknown,2025-09-25T06:43:21.109212,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109220,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\NlaSvc\WiFiTask,Ready,unknown,2025-09-25T06:43:21.109227,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109235,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PCRPF\PCR Prediction Framework Firmware Update Task,Ready,unknown,2025-09-25T06:43:21.109242,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109250,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PerformanceTrace\RequestTrace,Ready,unknown,2025-09-25T06:43:21.109257,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\PerformanceTrace\WhesvcToast,Ready,unknown,2025-09-25T06:43:21.109265,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109273,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,unknown,2025-09-25T06:43:21.109280,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,unknown,2025-09-25T06:43:21.109288,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\PI\SecureBootEncodeUEFI,Ready,unknown,2025-09-25T06:43:21.109295,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109302,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109310,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Group Policy,Ready,unknown,2025-09-25T06:43:21.109317,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,unknown,2025-09-25T06:43:21.109324,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Device Install Reboot Required,Ready,unknown,2025-09-25T06:43:21.109332,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers,Ready,unknown,2025-09-25T06:43:21.109339,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109347,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem,Ready,unknown,2025-09-25T06:43:21.109354,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109361,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\EduPrintProv,Ready,unknown,2025-09-25T06:43:21.109369,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\PrinterCleanupTask,Ready,unknown,2025-09-25T06:43:21.109376,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Printing\PrintJobCleanupTask,Disabled,unknown,2025-09-25T06:43:21.109383,Scheduled task \Microsoft\Windows\Printing\PrintJobCleanupTask status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109391,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\RecoveryEnvironment\VerifyWinRE,Disabled,unknown,2025-09-25T06:43:21.109398,Scheduled task \Microsoft\Windows\RecoveryEnvironment\VerifyWinRE status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109405,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\ReFsDedupSvc\Initialization,Ready,unknown,2025-09-25T06:43:21.109413,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109420,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Registry\RegIdleBackup,Ready,unknown,2025-09-25T06:43:21.109428,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109435,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109442,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Security\Pwdless\IntelligentPwdlessTask,Ready,unknown,2025-09-25T06:43:21.109450,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109457,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Servicing\OOBEFodSetup,Disabled,unknown,2025-09-25T06:43:21.109465,Scheduled task \Microsoft\Windows\Servicing\OOBEFodSetup status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Servicing\StartComponentCleanup,Ready,unknown,2025-09-25T06:43:21.109472,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109479,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SharedPC\Account Cleanup,Disabled,unknown,2025-09-25T06:43:21.109486,Scheduled task \Microsoft\Windows\SharedPC\Account Cleanup status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109494,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\CreateObjectTask,Ready,unknown,2025-09-25T06:43:21.109501,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\FamilySafetyMonitor,Ready,unknown,2025-09-25T06:43:21.109508,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\FamilySafetyRefreshTask,Ready,unknown,2025-09-25T06:43:21.109516,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\IndexerAutomaticMaintenance,Ready,unknown,2025-09-25T06:43:21.109523,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\ThemesSyncedImageDownload,Ready,unknown,2025-09-25T06:43:21.109531,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,unknown,2025-09-25T06:43:21.109538,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Shell\UndockedFlightingUpdate,Disabled,unknown,2025-09-25T06:43:21.109545,Scheduled task \Microsoft\Windows\Shell\UndockedFlightingUpdate status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109553,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ClientTask,Ready,unknown,2025-09-25T06:43:21.109560,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SMB\UninstallSMB1ServerTask,Ready,unknown,2025-09-25T06:43:21.109568,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109576,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon,Ready,unknown,2025-09-25T06:43:21.109583,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger,Ready,unknown,2025-09-25T06:43:21.109590,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109598,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,unknown,2025-09-25T06:43:21.109605,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceAgentTask,Ready,unknown,2025-09-25T06:43:21.109613,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,unknown,2025-09-25T06:43:21.109620,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\SpacePort\SpaceManagerTask,Ready,unknown,2025-09-25T06:43:21.109628,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109635,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\StateRepository\MaintenanceTasks,Ready,unknown,2025-09-25T06:43:21.109642,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109649,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization,Ready,unknown,2025-09-25T06:43:21.109656,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization,Disabled,unknown,2025-09-25T06:43:21.109664,Scheduled task \Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109672,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,unknown,2025-09-25T06:43:21.109679,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,unknown,2025-09-25T06:43:21.109687,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\EnableLicenseAcquisition,Ready,unknown,2025-09-25T06:43:21.109694,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,unknown,2025-09-25T06:43:21.109701,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,unknown,2025-09-25T06:43:21.109708,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Subscription\LicenseAcquisition,Disabled,unknown,2025-09-25T06:43:21.109716,Scheduled task \Microsoft\Windows\Subscription\LicenseAcquisition status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109723,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,unknown,2025-09-25T06:43:21.109731,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\PowerGridForecastTask,Ready,unknown,2025-09-25T06:43:21.109738,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Sustainability\SustainabilityTelemetry,Ready,unknown,2025-09-25T06:43:21.109745,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109753,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate,Disabled,unknown,2025-09-25T06:43:21.109761,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\HybridDriveCacheRebalance,Disabled,unknown,2025-09-25T06:43:21.109768,Scheduled task \Microsoft\Windows\Sysmain\HybridDriveCacheRebalance status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\ResPriStaticDbSync,Ready,unknown,2025-09-25T06:43:21.109775,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Sysmain\WsSwapAssessmentTask,Ready,unknown,2025-09-25T06:43:21.109782,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109790,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\SystemRestore\SR,Ready,unknown,2025-09-25T06:43:21.109797,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109804,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Task Manager\Interactive,Ready,unknown,2025-09-25T06:43:21.109811,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109819,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\TextServicesFramework\MsCtfMonitor,Ready,unknown,2025-09-25T06:43:21.109826,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109833,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,unknown,2025-09-25T06:43:21.109840,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,Ready,unknown,2025-09-25T06:43:21.109848,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Synchronization\SynchronizeTime,Ready,unknown,2025-09-25T06:43:21.109855,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109862,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Time Zone\SynchronizeTimeZone,Ready,unknown,2025-09-25T06:43:21.109870,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109877,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\UPnP\UPnPHostConfig,Ready,unknown,2025-09-25T06:43:21.109884,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109891,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,unknown,2025-09-25T06:43:21.109898,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,unknown,2025-09-25T06:43:21.109906,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,unknown,2025-09-25T06:43:21.109913,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\USB\Usb-Notifications,Ready,unknown,2025-09-25T06:43:21.109921,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109929,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WCM\WiFiTask,Ready,unknown,2025-09-25T06:43:21.109936,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109943,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WDI\ResolutionHost,Ready,unknown,2025-09-25T06:43:21.109951,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.109958,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,unknown,2025-09-25T06:43:21.109966,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,unknown,2025-09-25T06:43:21.109973,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,unknown,2025-09-25T06:43:21.109981,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,unknown,2025-09-25T06:43:21.109988,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Error Reporting\QueueReporting,Ready,unknown,2025-09-25T06:43:21.109996,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110003,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange,Ready,unknown,2025-09-25T06:43:21.110010,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110018,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Windows Media Sharing\UpdateLibrary,Ready,unknown,2025-09-25T06:43:21.110025,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110032,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110040,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,unknown,2025-09-25T06:43:21.110047,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsColorSystem\Calibration Loader,Ready,unknown,2025-09-25T06:43:21.110055,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110062,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,unknown,2025-09-25T06:43:21.110069,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,unknown,2025-09-25T06:43:21.110077,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,unknown,2025-09-25T06:43:21.110084,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WindowsUpdate\Scheduled Start,Ready,unknown,2025-09-25T06:43:21.110091,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110099,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Wininet\CacheTask,Running,unknown,2025-09-25T06:43:21.110106,Scheduled task \Microsoft\Windows\Wininet\CacheTask status is Running.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110113,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\CDSSync,Ready,unknown,2025-09-25T06:43:21.110120,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,unknown,2025-09-25T06:43:21.110128,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WlanSvc\MoProfileManagement,Ready,unknown,2025-09-25T06:43:21.110135,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110143,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Logon Synchronization,Ready,unknown,2025-09-25T06:43:21.110150,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\Work Folders\Work Folders Maintenance Work,Ready,unknown,2025-09-25T06:43:21.110157,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110165,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,unknown,2025-09-25T06:43:21.110172,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Automatic-Device-Join,Disabled,unknown,2025-09-25T06:43:21.110180,Scheduled task \Microsoft\Windows\Workplace Join\Automatic-Device-Join status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Device-Sync,Disabled,unknown,2025-09-25T06:43:21.110187,Scheduled task \Microsoft\Windows\Workplace Join\Device-Sync status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,unknown,2025-09-25T06:43:21.110194,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Manual review recommended
+Tasks,\Microsoft\Windows\Workplace Join\Recovery-Check,Disabled,unknown,2025-09-25T06:43:21.110201,Scheduled task \Microsoft\Windows\Workplace Join\Recovery-Check status is Disabled.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110209,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\NotificationTask,Ready,unknown,2025-09-25T06:43:21.110216,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,unknown,2025-09-25T06:43:21.110224,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,unknown,2025-09-25T06:43:21.110231,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,\Microsoft\Windows\WwanSvc\OobeDiscovery,Ready,unknown,2025-09-25T06:43:21.110239,Low-severity issue detected. No recommendation needed.,Manual review recommended
+Tasks,TaskName,Status,unknown,2025-09-25T06:43:21.110246,Scheduled task TaskName status is Status.,Manual review recommended
+Tasks,\Microsoft\XblGameSave\XblGameSaveTask,Ready,unknown,2025-09-25T06:43:21.110254,Low-severity issue detected. No recommendation needed.,Manual review recommended

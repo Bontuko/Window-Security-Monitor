@@ -1,0 +1,9 @@
+[
+  {
+    "module": "ServiceModule",
+    "issue": "Windows Update",
+    "path": "C:\\Windows\\System32\\svchost.exe",
+    "severity": "low",
+    "timestamp": "2025-09-21T15:45:32.095808"
+  }
+]

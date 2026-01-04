@@ -1,0 +1,4 @@
+Module,Name,Status,Severity,Timestamp
+Tasks,DiskCleanup,C:\Windows\System32\cleanmgr.exe,Low,2025-09-21T17:44:42.676859
+Tasks,AutoUpdateTask,C:\Program Files\Updater\update.exe,Medium,2025-09-21T17:44:42.676883
+Tasks,MalwareScan,C:\Security\malwarescan.exe,High,2025-09-21T17:44:42.676896
